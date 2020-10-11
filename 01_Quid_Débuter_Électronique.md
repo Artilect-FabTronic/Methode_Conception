@@ -1,8 +1,6 @@
-> Date de Création : 20 septembre 2020
-
-> Auteur initiale : Lilian Tribouilloy
-
-> Licence : Creative Commonces BY NC SA
+> Date de Création : 20 septembre 2020 <br>
+> Auteur initiale : Lilian Tribouilloy <br>
+> Licence : Creative Commonces BY NC SA <br>
 
 # De quoi a‑t‑on besoin pour débuter l’électronique ?
 

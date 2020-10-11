@@ -1,6 +1,6 @@
-> Date de Création : 10 octobre 2020
-> Auteur initiale : Lilian Tribouilloy
-> Licence : Creative Commonces BY NC SA
+> Date de Création : 10 octobre 2020 <br>
+> Auteur initiale : Lilian Tribouilloy <br>
+> Licence : Creative Commonces BY NC SA <br>
 
 # Conception dans la Démarche Matériel Libre
 
