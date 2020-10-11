@@ -1,4 +1,4 @@
-_VERSION FRANÇAISE_ depuis [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.fr)
+> _VERSION FRANÇAISE_ depuis [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.fr)
 
 # Licence publique Creative Commons Attribution - Utilisation non commerciale - Partage dans les mêmes conditions 4.0 International
 
@@ -141,7 +141,7 @@ Afin de lever toute ambiguïté, le présent Article 4 complète mais ne remplac
 --------------------------------------------------------------------------------
 
 
->_ENGLISH VERSION_ from [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+> _ENGLISH VERSION_ from [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
 
 # Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License

@@ -1,10 +1,10 @@
->Date de Création : 20 septembre 2020
->Auteur initiale : Lilian Tribouilloy
->Licence : Creative Commonces BY NC SA
+> Date de Création : 20 septembre 2020
+> Auteur initiale : Lilian Tribouilloy
+> Licence : Creative Commonces BY NC SA
 
-#De quoi a‑t‑on besoin pour débuter l’électronique ?
+# De quoi a‑t‑on besoin pour débuter l’électronique ?
 
-##Introduction
+## Introduction
 Ce document est un petit guide pour celui qui souhaite découvrir l’électronique (et ce qui tourne autour).
 Il n’a pas vocation à être parfaitement pédagogique, ni exhaustif.
 Mais il donne une idée de l’investissement en temps et en argent nécessaire.
@@ -23,7 +23,7 @@ Le minimum que nous impose la modernité de notre société si on veut accéder 
 L’adhésion à un fablab peut être un soutien fort appréciable pour le soutien communautaire et pour le prêt ou la location d’outillage.
 
 
-##Niveau 0 ; Prix = 0€
+## Niveau 0 ; Prix = 0€
 Pour goûter sans dépenser.
 Que du logiciels libre, gratuit et disponible sur tous les OS.
 Des sources d’information pédagogique.
@@ -94,7 +94,7 @@ Ce qui peut être nécessaire en complément dans certain cas.
 __Conseil : La curiosité n’a jamais été un défaut.__
 
 
-##Niveau 1 ; Prix = 100€ à 300€
+## Niveau 1 ; Prix = 100€ à 300€
 Vous êtes motivé, vous souhaitez commencer à mettre les mains dans le cambui.
 
 * Multimètre entrée de gamme (40€ à 60€)
@@ -119,7 +119,7 @@ Où se procurer du matos :
 __Conseil : Pratiquer régulièrement. N’aillez pas peur de bidouiller et poser des questions.__
 
 
-##Niveau 2 ; Prix = 100€ à 300€
+## Niveau 2 ; Prix = 100€ à 300€
 La passion commence à vous gagner, alors plus de matos générals pour étoffer la caisse à outil.
 
 * Un espace bureau adapté avec de quoi ranger le matos. (Quand on commence à bricoler il faut de la place…)
@@ -137,7 +137,7 @@ La passion commence à vous gagner, alors plus de matos générals pour étoffer
 __Conseil : Trouver vous un projet qui vous passionne, mais abordable selon votre niveau. Vous devez apprendre à apprendre, un fablab n’est pas une école.__
 
 
-##Niveau 3 ; Prix = 400€ à 1000€
+## Niveau 3 ; Prix = 400€ à 1000€
 Les choses sérieuses commencent, il vous faut pourvoir débuger les cartes efficacement.
 
 * Organiser votre espace de travail.
@@ -151,7 +151,7 @@ Les choses sérieuses commencent, il vous faut pourvoir débuger les cartes effi
 __Conseil : Lancer vous des défits avec des projets toujours de plus en plus complexe.__
 
 
-##Niveau 4 ; Prix = 400€ à 1000€
+## Niveau 4 ; Prix = 400€ à 1000€
 On ne peut plus vous arrêter…
 
 * Oscilloscope (Dispo au FabLab)
@@ -172,7 +172,7 @@ Où faire fabriquer vos circuits à prix raisonnable ?
 __Conseil : Réaliser vos réves.__
 
 
-##Niveau 5 ; prix = 1000€ à 20000€
+## Niveau 5 ; prix = 1000€ à 20000€
 Vous êtes définitivement un super geek de la mort.
 
 * CNC gravure de PCB
@@ -187,7 +187,7 @@ Vous êtes définitivement un super geek de la mort.
 __Conseil : Faite de votre passion un métier.__
 
 
-##Niveau +++
+## Niveau +++
 Vers l’infini et au delà.
 
 __Conseil : Il ne reste plus qu’à monter votre boîte…     ;-)__

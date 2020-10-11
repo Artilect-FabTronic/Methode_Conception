@@ -1,10 +1,10 @@
->Date de Création : 23 septembre 2020
->Auteur initiale : Lilian Tribouilloy
->Licence : Creative Commonces BY NC SA
+> Date de Création : 23 septembre 2020
+> Auteur initiale : Lilian Tribouilloy
+> Licence : Creative Commonces BY NC SA
 
-#Méthodologie de Conception d’un Objet Électronique
+# Méthodologie de Conception d’un Objet Électronique
 
-##Introduction
+## Introduction
 
 Ce document a pour but de proposer une méthodologie de conception d’un objet électronique à destination du hobbyste de l’électronique qui a peur de franchir le pas. Peur de se lancer dans la conception d’un objet originale qu’il aurait conçu de A à Z.
 
@@ -19,37 +19,36 @@ Ce document est à destination du public des _fablabs_, du _mouvement Maker_ et 
 À n’en pas douter il existe des logiciels propriétaires bien plus puissants que ceux que je propose ici. Mais la liberté n’est pas une question de performance. La liberté est d’ailleur une performance en soit par les temps qui court. C’est une question d’écosystème, une question de partage avec votre communauté. Comme le dit si bien Richard Stallman (fondateur de la Free Software Fondation, cocréateur de GNU/Linux, entre autres choses), et il le dit en français dans le texte : _«Je peux résumer ce qu’est le logiciel libre en 3 mots : liberté, égalité, fraternité.»_
 
 
-----------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
-##C’est quoi au fait la conception ?
+## C’est quoi au fait la conception ?
 
-###Concevoir, un état d’esprit
+### Concevoir, un état d’esprit
 
 On m’a une fois poser la question, au regard de mes créations, si j’étais un designer. Voici la réponse que j’ai apporté :
 
 
->_Suis‑je designer ? Si je me conforme à la définition française, oui. Le truc, c’est que je n’aime pas beaucoup cette définition. Je trouve que ça fait trop formule magique. Dès que je vois un mot anglais, j’ai mon détecteur de langue de bois qui clignote. Je m’explique._
+> _Suis‑je designer ? Si je me conforme à la définition française, oui. Le truc, c’est que je n’aime pas beaucoup cette définition. Je trouve que ça fait trop formule magique. Dès que je vois un mot anglais, j’ai mon détecteur de langue de bois qui clignote. Je m’explique._
 >
->_Le mot designer est un mot d’emprunt de l’anglais qui veut dire concepteur. Comme tu le sais sans doute. Mais les français ont modifié le sens de ce mot pour y ajouter quelque chose de différent. Quelque chose que les anglo‑saxons, me semble‑t‑il, ne mettent pas du tout._
+> _Le mot designer est un mot d’emprunt de l’anglais qui veut dire concepteur. Comme tu le sais sans doute. Mais les français ont modifié le sens de ce mot pour y ajouter quelque chose de différent. Quelque chose que les anglo‑saxons, me semble‑t‑il, ne mettent pas du tout._
 >
->_Conception vient du latin conceptus qui signifie «action d’accueillir et de contenir». Et C’est exatement le même mot en latin pour traduire la période de gestation des femmes. N’est ce pas ce qu’elles font pendant cette période pour parler basiquement ? Elles accueillent la «graine» et elles le contiennent jusqu’à ressortir l’enfant. Du reste, aujourd’hui encore dans la langue française, on dit concevoir un enfant. Et même dans la bible, on parle d’immaculé conception._
+> _Conception vient du latin conceptus qui signifie «action d’accueillir et de contenir». Et C’est exatement le même mot en latin pour traduire la période de gestation des femmes. N’est ce pas ce qu’elles font pendant cette période pour parler basiquement ? Elles accueillent la «graine» et elles le contiennent jusqu’à ressortir l’enfant. Du reste, aujourd’hui encore dans la langue française, on dit concevoir un enfant. Et même dans la bible, on parle d’immaculé conception._
 >
->_Et bien concevoir en technologie, c’est exactement ça mais avec des idées. (Que saurait‑il faire d’autre un homme…?)
-On accueille une idée. Parfois c’est sa propre idée, parfois c’est celle des autres. (Trop souvent dans l’industrie, c’est celle des autres…) Puis on la mette en gestion un certain temps et selon un processus créatif plus ou moins complexe. Jusqu’à obtenir une chose tangible, quelque chose de réelle._
+> _Et bien concevoir en technologie, c’est exactement ça mais avec des idées. (Que saurait‑il faire d’autre un homme…?) On accueille une idée. Parfois c’est sa propre idée, parfois c’est celle des autres. (Trop souvent dans l’industrie, c’est celle des autres…) Puis on la mette en gestion un certain temps et selon un processus créatif plus ou moins complexe. Jusqu’à obtenir une chose tangible, quelque chose de réelle._
 >
->_Alors, oui, c’est exactement ce que je fais. Et définitivement, je suis un concepteur. Et si on le dit en anglais: I am a designer. Au sens strict._
+> _Alors, oui, c’est exactement ce que je fais. Et définitivement, je suis un concepteur. Et si on le dit en anglais: I am a designer. Au sens strict._
 >
->_Mais c’est un peu court pour décrire l’activité dans son détail. La question est : Je conçois quoi ? Et je mets en œuvre quel discipline ? Le quoi et le comment est, selon moi, la seule façon de ne pas se tromper dans la description de son métier._
+> _Mais c’est un peu court pour décrire l’activité dans son détail. La question est : Je conçois quoi ? Et je mets en œuvre quel discipline ? Le quoi et le comment est, selon moi, la seule façon de ne pas se tromper dans la description de son métier._
 >
->_Alors, posons les choses simplement. Je fais des claviers pour l’informatiques. Facile, ça tout le monde aura compris. Et je déploie les disciplines suivantes : électronique, mécanique, programmation, menuiserie, de l’ergonomie. Et quoi d’autre ? Quelle est donc cette substante subtile qui tend à identifier une esthétique. Et peut‑être pour certain une émotion ?_
+> _Alors, posons les choses simplement. Je fais des claviers pour l’informatiques. Facile, ça tout le monde aura compris. Et je déploie les disciplines suivantes : électronique, mécanique, programmation, menuiserie, de l’ergonomie. Et quoi d’autre ? Quelle est donc cette substante subtile qui tend à identifier une esthétique. Et peut‑être pour certain une émotion ?_
 >
->_Je ne vois pas ce que cela pourrait être d’autre que de l’art. Ou peut‑être de l’artisanat à la limite. Il me semble que c’est bien cela qui est ajouté en plus dans le mot designer à la française. Et à l’italienne aussi d’ailleurs._
+> _Je ne vois pas ce que cela pourrait être d’autre que de l’art. Ou peut‑être de l’artisanat à la limite. Il me semble que c’est bien cela qui est ajouté en plus dans le mot designer à la française. Et à l’italienne aussi d’ailleurs._
 >
->_La distinction entre art et artisanat est relativement tardive. Elle date de la Renaissance. Cette distinction est apparu en italie au moment précis où un petit groupe de gens est devenu très très riches. L’époque des grands explorateur, Marco Polo… Et la naissance des banques modernes. Et où ils ne savaient plus comment afficher, affirmer, leur distinction sociale. Alors ils ont demandé à avoir des choses, même inutiles, que personne d’autre pouvait se payer. L’art est né de cet acte d’orgueil._
+> _La distinction entre art et artisanat est relativement tardive. Elle date de la Renaissance. Cette distinction est apparu en italie au moment précis où un petit groupe de gens est devenu très très riches. L’époque des grands explorateur, Marco Polo… Et la naissance des banques modernes. Et où ils ne savaient plus comment afficher, affirmer, leur distinction sociale. Alors ils ont demandé à avoir des choses, même inutiles, que personne d’autre pouvait se payer. L’art est né de cet acte d’orgueil._
 >
->_La différence entre art et artisanat est très culturelle. Et il existe encore des cultures humaines où on ne fait pas la distinction._
+> _La différence entre art et artisanat est très culturelle. Et il existe encore des cultures humaines où on ne fait pas la distinction._
 >
->_Et c’est pour cela, que je tiens à préciser que dans ce que je fais il y a un peu d’art, de l’art utile. Et c’est là un jugement morale et une philosophie que j’assume._
+> _Et c’est pour cela, que je tiens à préciser que dans ce que je fais il y a un peu d’art, de l’art utile. Et c’est là un jugement morale et une philosophie que j’assume._
 
 
 Aussi, il subsiste dans l’acte de création quelque chose de mytérieux. Quelque chose qui dépose la simple raison. Aussi m’est‑il impossible de vous apprendre comment trouver l’idée d’un objet. Je ne peux que vous conseiller de bien prendre le temps de murir l’idée en vous et de passer le plus rapidement possible à l’expérimentation. D’écouter ce que les gens vous disent, tout en se méfiant de ce que les gens vous disent. L’intuision peut dépasser les préjugés.
@@ -57,7 +56,8 @@ Aussi, il subsiste dans l’acte de création quelque chose de mytérieux. Quelq
 Une idée n’est rien, seule compte sa réalisation tangible. Le signe quasi certain qu’une idée est bonne, est qu’elle ne vous lache pas, qu’elle vous hante continuellement. Mais le signe absolument certain qu’une idée est bonne, est qu’elle fonctionne réellement et que les gens l’utilisent.
 
 
-###Concevoir un produit complet moderne, c’est mélanger plusieurs disciplines
+### Concevoir un produit complet moderne, c’est mélanger plusieurs disciplines
+
 Un objet électronique complet moderne est toujours constituer d’aux moins 3 disciplines : Électronique, Mécanique (au sens large) et Programmation.
 
 Mais il arrive qu’il en compte bien d’avantage comme la chimie, la biologie, la menuiserie, la couture, l’architecture, l’art et que sais‑je encore. Il ne sera donc pas possible d’exposer toutes les techniques ou arts qu’il est possible de mettre en œuvre dans un objet électronique. Pour autant que l’électronique soit réellement au centre de l’objet ou qu’il serait qu’une fonctionnalité discrète.
@@ -77,7 +77,8 @@ Quoi qu’il en soit vous ne pourrez pas faire l’économie de vous investir s�
 Les fablabs, les makerspaces ou les hackerspaces ou peut importe comment on les appelle, trouvent là tout leurs intérêts…
 
 
-###Doit‑on Concevoir Seul ou à Plusieurs ?
+### Doit‑on Concevoir Seul ou à Plusieurs ?
+
 {Brouillon}
 À vous de voir. Il faut faire selon les envies.
 Il faut pas que ce soit une contraite invivable.
@@ -88,71 +89,71 @@ Attention il existe une dimension maximum à partir de laquelle ça ne fonctionn
 {/Brouillon}
 
 
-###Cartographie des étapes de Conception
+### Cartographie des étapes de Conception
 
-###Un travail de long haleine
+### Un travail de long haleine
 
-###Proposition de Dossier d’étude
+### Proposition de Dossier d’étude
 
 Voici une façon d’organiser votre dossier d’étude pour bien s’y retrouver.
 
-__00_Management__
-- Communication sur le projet
-	+ Site Internet
-	+ Logo
-	+ Articles de presse
-- Achat outils
-- Licences utilisés
-- Feuille de Route
+* __00_Management__
+	- Communication sur le projet
+		+ Site Internet
+		+ Logo
+		+ Articles de presse
+	- Achat outils
+	- Licences utilisés
+	- Feuille de Route
 
-__01_Système__
-- Documents Techniques
-- Spécification
-- Base de Données Composants
-- Suivi des Beugues
+* __01_Système__
+	- Documents Techniques
+	- Spécification
+	- Base de Données Composants
+	- Suivi des Beugues
 
-__02_Électronique__
-- Justification Théorique
-- Schéma & Routage
-	+ Carte 1
-	+ Carte 2
-- Nomenclature
-	+ Carte 1
-	+ Carte 2
-- Gerber
-	+ Carte 1
-	+ Carte 2
-- Tests de Mise au Point
-- DFMEA
+* __02_Électronique__
+	- Justification Théorique
+	- Schéma & Routage
+		+ Carte 1
+		+ Carte 2
+	- Nomenclature
+		+ Carte 1
+		+ Carte 2
+	- Gerber
+		+ Carte 1
+		+ Carte 2
+	- Tests de Mise au Point
+	- DFMEA
 
-__03_Mécanique__
-- Spécification Mécanique
-- Plan  2D
-	+ Design Préliminaire
-	+ Interface Méca / PCB
-- Plan  3D
-	+ version 1
-	+ version 2
-- Tests
+* __03_Mécanique__
+	- Spécification Mécanique
+	- Plan  2D
+		+ Design Préliminaire
+		+ Interface Méca / PCB
+	- Plan  3D
+		+ version 1
+		+ version 2
+	- Tests
 
-__04_Programmation__
-- Spécification Logiciel
-- Code Source
-- Pilote Spécifique
-- Tests
+* __04_Programmation__
+	- Spécification Logiciel
+	- Code Source
+	- Pilote Spécifique
+	- Tests
 
-__05_Fabrication__
-- Manuel de Fabrication
-- Achat Composants et Matériaux
-- Fichiers de Fabrication Partie Électronique
-- Fichiers de Fabrication Partie Mécanique
-- Téléchargement et Configuration Logiciel
+* __05_Fabrication__
+	- Manuel de Fabrication
+	- Achat Composants et Matériaux
+	- Fichiers de Fabrication Partie Électronique
+	- Fichiers de Fabrication Partie Mécanique
+	- Téléchargement et Configuration Logiciel
 
-----------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
-##Concevoir la partie Électronique
+## Concevoir la partie Électronique
 
-###Vu sur le flux de travail
+### Vu sur le flux de travail
 
 {image sur le cycle en V industriel/}
 0. ÉTUDE DE MARCHÉ
@@ -182,7 +183,7 @@ Critique de celui‑ci.
 
 Commentaire 
 
-###Une liste de questions à se poser
+### Une liste de questions à se poser
 
 0. IDÉE
 	La créativité est une chose mystérieuse. Personne ne peut prétendre donner une méthode générale pour trouver des idées. Il faudrat creuser au bout de vous même. Et vous faire confiance.
@@ -206,28 +207,28 @@ Commentaire
 8. VALIDATION
 9. FABRICATION EN SÉRIE
 
-----------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
-##Concevoir la partie Mécanique
+## Concevoir la partie Mécanique
 
-###Croquis de Design
+### Croquis de Design
 
-###Plan 3D
+### Plan 3D
 
-###Exportation plan de pré‑implantation
+### Exportation plan de pré‑implantation
 
-###Fabrication
+### Fabrication
 
-###Test de Mise au Point
+### Test de Mise au Point
 
-----------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
-##Concevoir la partie Programmation
+## Concevoir la partie Programmation
 
-###Spécification
+### Spécification
 
-###Codage
+### Codage
 
-###Instruction de téléchargement et Configuration
+### Instruction de téléchargement et Configuration
 
 

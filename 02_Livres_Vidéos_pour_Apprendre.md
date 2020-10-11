@@ -1,12 +1,12 @@
->Date de Création : 03 octobre 2020
->Auteur initiale : Lilian Tribouilloy
->Licence : Creative Commonces BY NC SA
+> Date de Création : 03 octobre 2020
+> Auteur initiale : Lilian Tribouilloy
+> Licence : Creative Commonces BY NC SA
 
-#LIVRES & VIDÉOS pour APPRENDRE
+# LIVRES & VIDÉOS pour APPRENDRE
 
-##LIVRES
+## LIVRES
 
-###Post de forum selon Électro-Bidouilleur
+### Post de forum selon Électro-Bidouilleur
 
 http://forum.bidouilleur.ca/index.php?topic=677.0
 https://www.youtube.com/watch?v=VEmyw9jPJ4g
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=VEmyw9jPJ4g
 Voici une compilation des d'ouvrages d'apprentissage de l'électronique, tels que suggérés par les bidouilleurs sur ce Forum. Ceci n'est évidemment pas une liste exhaustive de tous les ouvrages disponibles; que les recommandations mentionnés par les bidouilleurs membres du Forum. Si vous désirez ajouter des recommandations à cette liste, veuillez ajouter un message à ce sujet; je regrouperai toutes les recommandations dans ce message-ci.
 Note Légale: Les liens fournis ci-dessous sont réputés être "légaux" et en circulation libre. Si vous avez des informations contraires au sujet d'un de ces liens, veuillez me le faire savoir sans tarder. Merci.
 
-####Ouvrages pour débutants
+#### Ouvrages pour débutants
 “L'électronique pour les nuls", par Cathleen Shamieh. 2ème édition.
 Vraiment très accessible et abordable, condensé d'informations pour les composants discrets et aussi sur les circuits intégrés.
 Disponible en couleur. Disponible aussi en .PDF.
@@ -51,7 +51,7 @@ https://www.fcctests.com/neets/Neets.htm   (juste un exemple)
 Plus de détails de la part de Saranadze dans la réponse suivante: http://forum.bidouilleur.ca/index.php?topic=677.msg4106#msg4106
 
 
-####Ouvrages de niveau intermédiaire
+#### Ouvrages de niveau intermédiaire
 
 “The Art of Electronics” 3ème édition,  par Paul Horowitz.
 Yffig: "Plus de 1500 pages de pur bonheur, même à environ 60/70 € sur Amazon, c'est vraiment vouloir faire des économies de bout de chandelle que de s'en priver. Le site des auteurs offre en téléchargement la totalité de la table des matières et du chapitre 9 sur les Alimentations (135 pages) "VOLTAGE REGULATION AND POWER CONVERSION" https://artofelectronics.net/wp-content/uploads/2016/02/AoE3_chapter9.pdf "
@@ -68,7 +68,7 @@ http://sylvain.larribe.free.fr/livres/PDF/Traite_Electronique/Traite_Electroniqu
 Cyrob : Recommandé par Philippe dans une vidéo YouTube: https://www.youtube.com/watch?v=PdrvM3zxy04
 
 
-####Ouvrages de référence plus approfondis
+#### Ouvrages de référence plus approfondis
 
 “Électronique appliquée aux hautes fréquences” de François de Dieuleveult et Olivier Romain aux éditions Dunod 2ème édition..
 Oscillateur88: "Pour toute personne souhaitant trouve une source fiable, précise, pédagogique et assez accessible pour se renseigner, réviser, ou revoir les concepts de base de l'électronique hautes fréquences : c'est un must have ! Je le trouve très bon de A à Z, tout est expliqué pas à pas par les auteurs, il fait plus de 500 pages je crois (pour 70 euros). Vous pouvez voir le sommaire sur le site de Dunod ou amazon si ça vous intéresse ; il faut quelques bases pour l'aborder à la fois en électronique et en mathématiques, mais rien de poussé non plus ! Le livre décrit vraiment les bases (solides) de l’électronique haute fréquences, je le consulte de temps en temps si jamais j'ai besoin d'un rappel."
@@ -86,11 +86,11 @@ Yffig: "Incroyable petit bouquin de seulement 454 pages où chaque chapitre offr
 papyblue: "Le livre est consultable gratuitement depuis quelques années, c'est une référence pour les radaristes mais est aussi très instructif pour tous ceux qui s'intéressent aux hyperfréquences."
 http://radars-darricau.fr/livre/1-Pages/page-0l.html
 
-----------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
-##VIDÉOS
+## VIDÉOS
 
-###Sélection de Chaine YouTube sur l’Électronique
+### Sélection de Chaine YouTube sur l’Électronique
 
 * [Électro-Bidouilleur](https://www.youtube.com/channel/UCvv3bLR4Ws1GVycHG-t3dJw) : Vulgarisation de l’électronique fait par un concepteur pro, il est québéquois, mais c’est pas grave. Excellant, plus de 400 vidéos. Voir aussi son [site web](http://bidouilleur.ca/)
 * [U=RI](https://www.youtube.com/channel/UCVqx3vXNghSqUcVg2nmegYA) : Vulgarisation de l’électronique
@@ -98,13 +98,13 @@ http://radars-darricau.fr/livre/1-Pages/page-0l.html
 * [Heliox](https://www.youtube.com/c/HelioxLab) :
 
 
-###Sélection de Chaine YouTube sur la Meunuiserie
+### Sélection de Chaine YouTube sur la Meunuiserie
 * [Olivier Verdier](https://www.youtube.com/user/oliverte43) : Artisan Meunuisier
 * [Boris Beaulant](https://www.youtube.com/channel/UCMsUwOwHnbJPB9Eqgw49vhQ) :Ebéniste autodidacte, créateur du réseau social [L’air du Bois](https://www.lairdubois.fr/)
 * [Samuel Mamias](https://www.youtube.com/channel/UC9fGq2-6FaftcegcIadLf6A) :
 
 
-###Sélection de Chaine YouTube sur les Makers Multidiscipline
+### Sélection de Chaine YouTube sur les Makers Multidiscipline
 * [MrBidouille](https://www.youtube.com/user/monsieurbidouille) :
 * [La Grotte du Barbu](https://www.youtube.com/user/TravailleursDuWeb) :
 * [Maker Faire France](https://www.youtube.com/channel/UCtjPHiUM41RcPzdBrN7TEzQ/videos) :
@@ -112,13 +112,13 @@ http://radars-darricau.fr/livre/1-Pages/page-0l.html
 * [Nikof Maker](https://www.youtube.com/channel/UC7NjYALQQxuSlQvRFRqt5pA) :
 
 
-###Autour de la Culture Libre
+### Autour de la Culture Libre
 * [PasSageEnSeine](https://video.passageenseine.fr/videos/trending)
 * [FramaSoft](https://framasoft.fr/fr/)
 * [How to contribute](https://opensource.guide/how-to-contribute/)
 
 
-###Plateforme Makers
+### Plateforme Makers
 * [Intructables](https://www.instructables.com/)
 * [Intructables Électronique](https://www.instructables.com/circuits/)
 
