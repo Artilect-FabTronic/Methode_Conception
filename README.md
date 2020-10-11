@@ -18,6 +18,7 @@ Le but du projet est de partager mon expérience en matière de conception d’u
 ## À Propos de l’Auteur
 
 __Lilian Tribouilloy :__
+
 	* Formation : ingénieur en électronique, diplomé de l’[ENSEA](https://www.ensea.fr/fr) en 2004 ;
 	* Métier : concepteur électronique spécialisé dans les radiofréquences et la CEM (Compatibilité ÉlectroMagnétique) ;
 	* Exemples de produit conçu dans le cadre professionnel : émetteur et réémetteur pour la télévision numérique, amplificateur de puissance classe B pour une modulation OFDM, calculateur entrées/sorties pour camion, tableau de bord pour véhicule spéciaux, boitier de télématique pour la gestion de flotte ;
