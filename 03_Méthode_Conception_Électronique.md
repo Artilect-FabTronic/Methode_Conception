@@ -156,6 +156,7 @@ Voici une façon d’organiser votre dossier d’étude pour bien s’y retrouve
 ### Vu sur le flux de travail
 
 {image sur le cycle en V industriel/}
+
 0. ÉTUDE DE MARCHÉ
 1. SPÉCIFICATION
 2. JUSTIFICATION
@@ -172,6 +173,7 @@ Pour un projet hobbyste, je recommanderai la plus grande simplicité possible. �
 Critique de celui‑ci.
 
 {image sur ce qui correspond mieux à la façon réelle de penser}
+
 0. IDÉE
 1. SPÉCIFICATION
 2. JUSTIFICATION
