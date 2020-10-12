@@ -18,6 +18,8 @@ Ce document est à destination du public des _fablabs_, du _mouvement Maker_ et 
 
 À n’en pas douter il existe des logiciels propriétaires bien plus puissants que ceux que je propose ici. Mais la liberté n’est pas une question de performance. La liberté est d’ailleur une performance en soit par les temps qui court. C’est une question d’écosystème, une question de partage avec votre communauté. Comme le dit si bien Richard Stallman (fondateur de la Free Software Fondation, cocréateur de GNU/Linux, entre autres choses), et il le dit en français dans le texte : _«Je peux résumer ce qu’est le logiciel libre en 3 mots : liberté, égalité, fraternité.»_
 
+Le défit du matériel libre.
+
 
 ------------------------------------------------------------------------
 
@@ -91,7 +93,22 @@ Attention il existe une dimension maximum à partir de laquelle ça ne fonctionn
 
 ### Cartographie des étapes de Conception
 
-### Un travail de long haleine
+------------------------------------------------------------------
+
+##D’abord un peu d’Organisation
+
+###Un travail de long haleine
+
+Concevoir une carte électronique peut‑être un long travaille. Surtout si on veut le faire bien et le documenter correctement pour le partager. C’est pourquoi il est important de bien s’organiser et d’être honnête avec soi‑même sur notre capacité de travail.
+
+Il mauvaise organisation est une des première cause d’échec d’un projet. Il est d’autant plus difficile de s’organiser que l’on travaille à plusieurs. C’est pourquoi même dans l’industrie les équipes de développement, pour un projet donnée, sont relativement petites, rarement plus de 12. C’était d’ailleurs le chiffre que refuser de dépasser Steve Jobs. Même pour un produit aussi complexe que l’iPhone !
+
+Quand on travaille à plusieurs il est très important de bien définir le rôle de chacun. Être à deux sur le même stylo est la première cause d’engueulade dans un groupe et la première cause de l’échec du projet.
+
+Dans l’industrie, il existe de nombreux outils pour manager un projet: Mantis, Jira, ERP, Kanban, Management des exigences, Doors, ReqTify, planning, diagramme de Gantt, Réunions, Reporting, Revu de conception, Revu des coût, Cycle de développement en V, processus qualité… Trop de rigueur tue le désir, faire un projet en mode hobbyste doit rester un plaisir.
+
+Pour un projet hobbyste, je recommanderai la plus grande simplicité possible. À vous de définir vos outils de communication. Mais un dossier de partage, ou mieux une gestion de type GIT est souvent indispensable. Faite vous votre opinion rapidement sur les outils et imposait en commun accord.
+
 
 ### Proposition de Dossier d’étude
 
@@ -148,6 +165,14 @@ Voici une façon d’organiser votre dossier d’étude pour bien s’y retrouve
 	- Fichiers de Fabrication Partie Électronique
 	- Fichiers de Fabrication Partie Mécanique
 	- Téléchargement et Configuration Logiciel
+
+
+###Critique du Développement en V industriel
+
+Dans l’industrie…
+
+Pas si logique que cela…
+
 
 ------------------------------------------------------------------------
 
