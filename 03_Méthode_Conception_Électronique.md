@@ -200,38 +200,69 @@ Critique de celui‑ci.
 {image sur ce qui correspond mieux à la façon réelle de penser}
 
 0. IDÉE
-1. SPÉCIFICATION
-2. JUSTIFICATION
-3. SCHÉMA
-4. ROUTAGE
-5. FABRICATION DU PROTOTYPE
-6. MISE AU POINT
-7. DOCUMENTATION POUR COMMUNAUTÉ
+1. SPÉCIFICATION / JUSTIFICATION
+2. SCHÉMA
+3. ROUTAGE
+4. FABRICATION DU PROTOTYPE
+5. MISE AU POINT
+6. DOCUMENTATION POUR COMMUNAUTÉ
 
 Commentaire 
 
 ### Une liste de questions à se poser
 
 0. IDÉE
-	La créativité est une chose mystérieuse. Personne ne peut prétendre donner une méthode générale pour trouver des idées. Il faudrat creuser au bout de vous même. Et vous faire confiance.
+	La créativité est une chose mystérieuse. Personne ne peut prétendre donner une méthode générale pour trouver des idées. Il faudra creuser au bout de vous même et vous faire confiance.
 
+Les points 1, 2 et 3 peuvent (devraient) être faite en parallel par un processus itératif.
 
 1. SPÉCIFICATION
 	* Le but d’une spécification est de poser le besoin, idée, envie. Faites‑vous au moins pour vous même un petit texte pour expliquer ce que vous voulez faire. Faire des petits dessins. Faire une liste des caractéristiques essentielles.
-	* Essayer d’indentifier clairement quel est le problème et comment on cherche à le résoudre.
-	* Ensuite, il faut développer la solution en levant les ambiguïtés. Il faut déméler l’implicite de l’explicite. Et il faut écrire ce qui est tacite.
+	* Essayer d’indentifier clairement quel est le problème et comment on cherche à le résoudre. (Le couple problème / solution.)
 	* Faire un synoptique (schéma de principe sans les alimentations). Ce qui va permettre de clarifier l’architecture de l’objet. Il doit faire apparaitre des détailles, des fonctions nécessaire auxquelles vous n’aviez pas pensé au début. Refaire le symoptique jusqu’à ce qu’il semble complet.
 	* Faire la liste de tous les sous‑blocs fonctionnels. Cette liste pourra servir à toutes les étapes de la conception. Une sorte de check‑list pour chaque question : alimentation, référence composant, justification, routage… On peut également identifier s’il y a des parties optionnelles au projet. Il faut peut être pouvoir imaginer des extentions futures.
-	* Pour les fonctions principales fixer les choix de composants. Si ce ne pas claire, ne pas hésiter à faire de petite maquette pour éprouver la pertinence de la solution. Typiquement, le micro‑controleur est un composant qui ne sera pas interchangeable, il faut être certain qu’il pourra prendre en compte toutes les fonctions.
+	* Vous pouvez éventuellement classer les sous‑blocs fonctionnels par catégorie : alimentations, cœur numérique, entrées, sorties, interfaces homme / machine, capteurs, communications filaires, radiocommunications… Cela permet de mieux planifier le travail ou de partager le travail dans une équipe.
+	* Pour les fonctions principales fixer les choix de composants. Si ce n’est pas claire, ne pas hésiter à faire de petite maquette pour éprouver la pertinence de la solution. Par exemple, est‑ce que accéléromètre sera assez précis ?
+	* Le micro‑controleur est un composant qui ne sera pas interchangeable, il faut être certain qu’il pourra prendre en compte toutes les fonctions. Pour cela faire la liste de tous les signaux à brancher et mettre en face les options d’affectations du micro‑contrôleur.
 	* Quand les choix des composants principaux sont arrêtés. Acheter ces composants car il risque d’y avoir du délais. Il ne s’agit pas d’acheter toute la BOM. Ce n’est pas possible car la conception ne fait que commencer.
+	* Faire un bilan de consommation. Les tensions nécessaires. Les courants pour chaque fonction. Quelle est notre source d’énergie et comment la gérer ? Est‑ce qu’il y a des priorités nécessaires pour la séquence d’allumage (souvent nécessaire pour le CPU) ? Est‑ce qu’on a besoin d’alimentation permanente pour les fonctions en mode veille ?
+	* Quelles sont les contraintes environnementales (température, étanchéïté, vibration) ?
+	* Si on veut vendre le produit, il est absolument nécessaire de se demander quels sont les normes CEM (Compatibilité ÉlectroMagnétique) à respecter. L’amateur pourra se passer de cette étape.
+	* Avons nous une contraite sur la durée de vie. Si oui calcul de fiabilité et AMDEC nécessaire. Étape nécessaire dans les milieux professionnelles. C’est nécessaire aussi si vous êtes sensible à la lutte contre obsolescence programmée. Cette étape n’est pas nécessaire sur les premiers prototypes.
+	* Y‑a‑t‑il une contraite de sécurité pour les personnes ? Analyse Safety nécessaire et AMDEC. Quelles sont les fonctions de sécurité à ajouter ou à mettre en redondance ? Étape nécessaire dans les milieux professionnelles. Mais faites tout de même attention à vous et les autres si vous êtes amateur. L’électricité, c’est dangeureux, on ne le répéte jamais assez.
+	* Typiquement, ce qui est dangeureux : les batteries (risque d’incendie en cas de court‑circuit), les tensions supérieures à 50Vac ou 120Vdc (limite entre la Très Basse Tension et la Basse Tension selon la norme) (risque d’électrocution), les éléments chauffants (risque de brûlure ou d’incendie), les moteurs ou les vérins (risque de mutilation), les produits chimiques nécessaires à la fabrication (risque d’intoxication)…
+	* Faire une liste des risques projets. Quels sont les inconnus à lever plus tard ?
 
 2. JUSTIFICATION
+	* Ensuite, il faut développer la solution en levant les ambiguïtés de la spécification. Il faut déméler l’implicite de l’explicite. Et il faut écrire ce qui est tacite.
+	* Justifier la pertinence de la spécification. Est‑ce qu’on répond de façon cohérente et efficacement au besoin ? (Dans les milieux professionel on va jusqu’à faire une étude marché ou à soumettre un prototype à un client potentiel.)
+	* Justifier les choix technologiques
+	* Vérifier que le coût du produit est raisonnable. (En adéquation avec le business plan pour les professionnels.)
+	* Jutifier théoriquement que cela fonctionne. Par calcul, simulation, ou en mettant en lumière certain point de la documentation technique.
+	* Si des inconnus subsistent, il peut être pertinent de faire une maquette et des tests pour un sous‑ensemble du produit.
+	* Cette étude doit aboutir à une spécification plus précise.
+
 3. SCHÉMA
+	* Vérifier que l’architecture et les blocs fonctionnels sont OK.
+	* Faire le cartouche la page et choisir la taille des pages en fonction de la quantité de composant à mettre par page.
+	* Organiser vos pages pour faciliter la lecture et la maintenance du dossier. Faire toujours une première page de garde pour la gestion des variantes et des évolutions.
+	* Ensuite il faut organiser le schéma par catégorie de fonction et en fonction de la complexité. En page 2, il est conseiller de mettre les connecteurs qui vont vers le monde extérieur ainsi que les blocs hiérarchiques. Dans les pages suivantes, on a le contenu de ces blocs. Il est préférable de faire une page au moins par catégories de fonctions. 
+
 4. ROUTAGE
+
+
 5. FABRICATION DU PROTOTYPE
+
+
 6. VÉRIFICATION
+
+
 7. QUALIFICATION
+
+
 8. VALIDATION
+
+
 9. FABRICATION EN SÉRIE
 
 ------------------------------------------------------------------------
