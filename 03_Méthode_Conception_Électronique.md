@@ -95,9 +95,9 @@ Attention il existe une dimension maximum à partir de laquelle ça ne fonctionn
 
 ------------------------------------------------------------------
 
-##D’abord un peu d’Organisation
+## D’abord un peu d’Organisation
 
-###Un travail de long haleine
+### Un travail de long haleine
 
 Concevoir une carte électronique peut‑être un long travaille. Surtout si on veut le faire bien et le documenter correctement pour le partager. C’est pourquoi il est important de bien s’organiser et d’être honnête avec soi‑même sur notre capacité de travail.
 
@@ -167,11 +167,23 @@ Voici une façon d’organiser votre dossier d’étude pour bien s’y retrouve
 	- Téléchargement et Configuration Logiciel
 
 
-###Critique du Développement en V industriel
+### Critique du Développement en V industriel
 
 Dans l’industrie…
 
 Pas si logique que cela…
+
+
+
+------------------------------------------------------------------------
+
+## Du Bon Usage du Prototype
+
+### Éthymologie du mot Prototype
+
+### Pour en finir avec les Accronymes
+
+### Critique de la définition de l’OMC
 
 
 ------------------------------------------------------------------------
@@ -214,7 +226,7 @@ Commentaire
 0. IDÉE
 	La créativité est une chose mystérieuse. Personne ne peut prétendre donner une méthode générale pour trouver des idées. Il faudra creuser au bout de vous même et vous faire confiance.
 
-Les points 1, 2 et 3 peuvent (devraient) être faite en parallel par un processus itératif.
+Les points 1, 2 et 3 peuvent (devraient) être faite en parallèle par un processus itératif.
 
 1. SPÉCIFICATION
 	* Le but d’une spécification est de poser le besoin, idée, envie. Faites‑vous au moins pour vous même un petit texte pour expliquer ce que vous voulez faire. Faire des petits dessins. Faire une liste des caractéristiques essentielles.
@@ -247,23 +259,104 @@ Les points 1, 2 et 3 peuvent (devraient) être faite en parallel par un processu
 	* Faire le cartouche la page et choisir la taille des pages en fonction de la quantité de composant à mettre par page.
 	* Organiser vos pages pour faciliter la lecture et la maintenance du dossier. Faire toujours une première page de garde pour la gestion des variantes et des évolutions.
 	* Ensuite il faut organiser le schéma par catégorie de fonction et en fonction de la complexité. En page 2, il est conseiller de mettre les connecteurs qui vont vers le monde extérieur ainsi que les blocs hiérarchiques. Dans les pages suivantes, on a le contenu de ces blocs. Il est préférable de faire une page au moins par catégories de fonctions. 
+	* Desiner le schéma.
+	* Desiner le schematic part des composants manquants
+	* Numéroter les composants (Référence topologique).
+	* Lancer l’algorithme de vérification DRC (Design Rule Check).
+	* Créer une basse de données de vos composants.
+	* Définiser les variantes ou options.
+	* Associer à chaque composant une empreinte physique.
+	* Penser à la testabilité ou debug de la carte.
+	* Générer la nomenclature des composants.
+	* Vérifier le prix de la carte.
+	* Faire l’analyse critique de schéma.
+	* Corriger les erreurs.
+	* Générer le fichier .net pour pouvoir commencer le routage.
 
-4. ROUTAGE
+4. Routage
+	* Faire le plan d’interface Méca / PCB pour préciser la dimension et la géométrie de la carte, pour définir la position des vis, des connecteurs, des IHM et des radiateurs ou autres éléments dont il est nécessaire de fixer la position.
+	* Avec FreeCAD, on peut générer un fichier svg que l’on peut transformer en fichier dxf avec Inkscape. Ce fichier dxf est le format que peut comprendre KiCAD.
+	* Définir les hauteurs maximum selon la mécanique. Plusieurs zones peuvent être définies.
+	* Il faut choisir le processus de fabrication. Lequel avait vous accès selon vos moyens. Est‑ce qu’on fait les soudures à la main ? Est‑ce qu’on fait le PCB avec une gravure chimique artisanal, une CNC ou on passe par un fabricant de PCB professionnel, etc ?
+	* Cela va fixer la taille des pads de soudure et la précision de gravure et éventuellement le nombre de couche de cuivre auquel on a le doit. Et donc on peut alors écrire une spécification de PCB.
+	* Définir l’empilage (Stack‑up) du PCB. Le nombre de couche choisi est un compromis entre le prix, la complexité ou densité d’interconnexion et la CEM. L’utilisation des couches doit être défini : plan de masse, plan d’alimentation, les couches signaux…
+	* En cas de soudure en refusion, il faut lister les composants lourds et décider sur quelles faces ont les mets ou s’il faut les coller avant soudure ou si on les soudent à la main.
+	* Dessiner les empreintes manquantes pour certain composants.
+	* Définir dans KiCAD, la liste des piste et des vias.
+	* Définir le cartouche et la taille des pages.
+	* Importer le fichier méca au forma dxf.
+	* Fixer les repères pour faire la correspondance entre plan mécanique et le routage.
+	* Importer le fichier net pour faire le lien avec le schéma électronique.
+	* Faire le placement des composants, sans les pistes, pour appliquer les différentes contraintes.
+	* Vérifier qu’il n’y a pas de collisions avec la mécanique.
+	* Dessiner le contour de la carte avec une ceinture de masse pour la CEM.
+	* Faire le routage à proprement dit. Dessiner les pistes et les vias.
+	* Éventuellement, modifier le schéma si on trouve des simplification de routage (ou si on voit des erreurs).
+	* Dessiner les plans de masse et d’alimentation.
+	* Faire le remplissage de masse entre les pistes.
+	* Lancer le DRC (Design Rule Check) pour vérifier le respect des règles IPC.
+	* Corriger les infaisabilités, erreurs ou autres problème de fabrication.
+	* Ajouter les éléments industriels, n°, mire, espace pour étiquette, méthode de détachement (timbre poste, V‑scoring ou usinage)…
+	* Analyse critique de routage par les paires. Attention à la CEM.
+	* Faire un 3D du PCB avec composant et le mettre dans le 3D mécanique pour vérifier qu’il n’y a pas de collisions.
+	* Correction des problèmes.
+	* Faire la mise en flanc. Combien on fabrique de carte à la fois ? Quel est le sens de convoillage pour la soudure en refusion ou à la vague.
+	* Générer les fichiers de fabrication : .pos, .drl, .rpt, .d356, gerbers
+	* Vérifier les gerbers avec le visualiseur KiCAD.
+	* Générer les plans et la spécification PCB (selon le fournisseur).
 
 
-5. FABRICATION DU PROTOTYPE
+5. Fabrication
+	* Achat des composants (Attention délais)
+	* Vérifier qu’on n’a pas de composant manquant.
+	* Récupérer le PCB et vérifier qu’il est conforme à vos attentes (ouverture de vernis, inversion de couches…).
+	* Éventuellement pour la refusion, vérifier le masque de pâte à braser.
+	* Pour les pro, vérifier les continuités des pistes avec un testeur type Takaya.
+	* Brassure des composants.
+	* Vérifier que tout est correctement soudé.
+	* Pour les pro, vérifier les caractèristique des composant avec un testeur type Takaya.
+	* Séparer les différentes cartes du flanc.
 
 
-6. VÉRIFICATION
+6. Vérification unitaire et mise au point
+	* Fabriquer les outils de validation ou de débug.
+	* Vérifier les alimentations. Attention à la fumée et les surchauffe.
+	* Vérifier qu’on arrive à télécharger le logiciel.
+	* Vérification rapide des fonctions pour avoir un aperçu du bon fonctionnement global.
+	* Puis vérification détaillé de tous les blocs fonctionnnels.
+	* Vérification de la bonne tenue des performances.
+	* Vérification de la tenue en température min et max de toutes les fonctions.
+	* Vérification de la tenue aux vibrations ou chocs mécaniques.
 
 
 7. QUALIFICATION
+	* Pour le pro, pour une mise sur le marché, conformité aux standarts, aux normes et à la réglementation.
+	* Tests aux perturbations conduites
+	* Tests CEM
+	* Tests ESD
+	* Tests environnementaux du produit global
+	* Tests de vieillissement
+	* Tests de vérification à la sécurité électrique
+	* Tests de tenu aux flammes
 
 
 8. VALIDATION
+	* Pour les pro, validation que tous les exigences sont tenues point par point pour être sûr qu’on a rien oublier (management des exigences).
+	* Vérifier que toute la documentation est complète en cohérente.
 
+Remarques : Il faut réitérer entre 1 et 8 jusqu’à ce tous soit jugés satisfaisants.
 
 9. FABRICATION EN SÉRIE
+	* Industrialisation, vérifier que le produit peut être produit industriellement.
+	* Mettre en place les outils de fabrication industriel.
+	* Mettre en place les outils de vérification du bon fonctionnement semi‑automatique ou automatique.
+	* Écrire le document de méthode du fabrication.
+	* Faire lancement de la première série pour vérifier que tout se passe bien.
+	* Corriger les problèmes.
+	* Produire en série.
+	* Emballage du produit.
+	* Livraison et logistique jusqu’au point de vente.
+
 
 ------------------------------------------------------------------------
 
