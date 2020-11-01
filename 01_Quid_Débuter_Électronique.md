@@ -1,6 +1,6 @@
-> Date de Création : 20 septembre 2020 <br>
-> Auteur initiale : Lilian Tribouilloy <br>
-> Licence : Creative Commonces BY NC SA <br>
+> Date de Création : 20 septembre 2020<br>
+> Auteur initiale : Lilian Tribouilloy<br>
+> Licence : Creative Commonces BY NC SA<br>
 
 # De quoi a‑t‑on besoin pour débuter l’électronique ?
 
@@ -60,7 +60,7 @@ Il y a une grande diversité dans ce domaine. À vous de vous faire votre propre
 Ce qui peut être nécessaire en complément dans certain cas.
 	- Gimp, dessin matriciel, retouche photo.
 	- Inkscape, dessin vectoriel, pour donner à la découpe laser.
-	- Blender, image de synthése en 3D, imprimante 3D pour les objets modéliser par maillage.
+	- Blender, image de synthése en 3D, imprimante 3D pour les objets modélisés par maillage.
 	- LibreOffice
 	- Calculatrice (SpeedCrunch)
 	- Prise de note : traditionnel à la main ou informatisé (CherryTree)
