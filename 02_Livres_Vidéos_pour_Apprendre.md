@@ -1,6 +1,6 @@
-> Date de Création : 03 octobre 2020 <br>
-> Auteur initiale : Lilian Tribouilloy <br>
-> Licence : Creative Commonces BY NC SA <br>
+> Date de Création : 03 octobre 2020<br>
+> Auteur initiale : Lilian Tribouilloy<br>
+> Licence : Creative Commonces BY NC SA<br>
 
 # LIVRES & VIDÉOS pour APPRENDRE
 
@@ -113,15 +113,26 @@ http://radars-darricau.fr/livre/1-Pages/page-0l.html
 
 
 ### Autour de la Culture Libre
-* [PasSageEnSeine](https://video.passageenseine.fr/videos/trending)
+* [Free Software Fundation](https://www.fsf.org/)
+* [CERN Open Harware Licence](https://ohwr.org/project/cernohl/wikis/home)
+* [Comparaison Licence Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences)
+* [Comparaison Licence Freedom Defined](https://freedomdefined.org/Licenses)
 * [FramaSoft](https://framasoft.fr/fr/)
 * [How to contribute](https://opensource.guide/how-to-contribute/)
+* [PasSageEnSeine](https://video.passageenseine.fr/videos/trending)
 
 
 ### Plateforme Makers
 * [Intructables](https://www.instructables.com/)
 * [Intructables Électronique](https://www.instructables.com/circuits/)
+* [Open Harware IO](https://www.openhardware.io/)
+* [Hackaday](https://hackaday.io/projects)
 
+
+### Projet d’Outil de Laboratoire Libre
+* All-in-one USB Oscilloscope, Signal Generator, Power Supply, Logic Analyzer and Multimeter basée sur l' Atmega32u4 , processeur bien connu ;) : [Site](https://espotek.com/labrador/product/espotek-labrador-board/) ; [github](https://github.com/espotek/labrador)
+* [Open Source Multimeter](https://hackaday.com/2019/06/20/finally-an-open-source-multimeter/)
+* [Open Source Transistor Tester](https://www.mikrocontroller.net/articles/AVR_Transistortester#Introduction_.28English.29)
 
 
 
