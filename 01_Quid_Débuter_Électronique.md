@@ -18,7 +18,7 @@ On donne une indication approximative du prix ou sinon la disponibilité au fabl
 Le minimum que nous impose la modernité de notre société si on veut accéder à des informations et des outils à moindre coût.
 
 * Ordinateur
-* Connection internet
+* Connexion internet
 
 L’adhésion à un fablab peut être un soutien fort appréciable pour le soutien communautaire et pour le prêt ou la location d’outillage.
 
@@ -48,7 +48,7 @@ Il y a une grande diversité dans ce domaine. À vous de vous faire votre propre
 * Langages de programmation recommandés pour le bas niveau (code directement en interaction avec l’électronique)
 	- C, le langage de référence en bas niveau
 	- C++, le complément «orienté objet» du C. Il est notamment utilisé pour les bibliothèques Arduino
-	- Python, un langage de script à l’origine, ce langage a connu une popularité dans plein de domaines y compris en bas niveau avec son extention Micro‑Python.
+	- Python, un langage de script à l’origine, ce langage a connu une popularité dans plein de domaines y compris en bas niveau avec son extension Micro‑Python.
 	- GIT, pour le partage des sources et la gestion des versions
 
 * Logiciels pour la Mécanique :
@@ -60,7 +60,7 @@ Il y a une grande diversité dans ce domaine. À vous de vous faire votre propre
 Ce qui peut être nécessaire en complément dans certain cas.
 	- Gimp, dessin matriciel, retouche photo.
 	- Inkscape, dessin vectoriel, pour donner à la découpe laser.
-	- Blender, image de synthése en 3D, imprimante 3D pour les objets modélisés par maillage.
+	- Blender, image de synthèse en 3D, imprimante 3D pour les objets modélisés par maillage.
 	- LibreOffice
 	- Calculatrice (SpeedCrunch)
 	- Prise de note : traditionnel à la main ou informatisé (CherryTree)
@@ -95,7 +95,7 @@ __Conseil : La curiosité n’a jamais été un défaut.__
 
 
 ## Niveau 1 ; Prix = 100€ à 300€
-Vous êtes motivé, vous souhaitez commencer à mettre les mains dans le cambui.
+Vous êtes motivé, vous souhaitez commencer à mettre les mains dans le cambouis.
 
 * Multimètre entrée de gamme (40€ à 60€)
 * Un bloc d’alimentation secteur
@@ -125,7 +125,7 @@ La passion commence à vous gagner, alors plus de matos générals pour étoffer
 * Un espace bureau adapté avec de quoi ranger le matos. (Quand on commence à bricoler il faut de la place…)
 * Pince à dénuder
 * Pince brucelle
-* Cutter type scalpelle
+* Cutter type scalpel
 * petite lime ou ponçage
 * Divers consommables
 * Une station de soudage (on parle de brassage en fait), et les consommables associés.
@@ -138,24 +138,24 @@ __Conseil : Trouver vous un projet qui vous passionne, mais abordable selon vo
 
 
 ## Niveau 3 ; Prix = 400€ à 1000€
-Les choses sérieuses commencent, il vous faut pourvoir débuger les cartes efficacement.
+Les choses sérieuses commencent, il vous faut pourvoir débeuger les cartes efficacement.
 
 * Organiser votre espace de travail.
 * Alimentation de laboratoire (Dispo au FabLab)
 * Analyseur Logique
-* Sonde de débug
+* Sonde de débeug
 * Loupe (mieux sur bras articulé)
 * Fer à air chaud
-* Thermométre infrarouge
+* Thermomètre infrarouge
 
-__Conseil : Lancer vous des défits avec des projets toujours de plus en plus complexe.__
+__Conseil : Lancer vous des défis avec des projets toujours de plus en plus complexe.__
 
 
 ## Niveau 4 ; Prix = 400€ à 1000€
 On ne peut plus vous arrêter…
 
 * Oscilloscope (Dispo au FabLab)
-* Multimetre de laboratoire
+* Multimètre de laboratoire
 * Microscope binoculaire
 * générateur de signal BF (Dispo au FabLab)
 * Charge active
@@ -167,9 +167,9 @@ Où faire fabriquer vos circuits à prix raisonnable ?
 * https://www.pcbway.com/ : Plus de configuration possible, mais nettement plus chers.
 * https://www.eurocircuits.com/blog/the-history-of-order-pooling/ : Fabriquant européen, service industriel plus facile, mais nettement plus chers.
 * Sinon aller dans un fablab qui propose une CNC spécialisée pour les PCB (Printed Circuit Board). Attention limité à 2 couches.
-* Sinon méthode traditionnelle de prototypage : paque à trous, gravure au perchlorure de fer.
+* Sinon méthode traditionnelle de prototypage : plaque à trous, gravure au perchlorure de fer.
 
-__Conseil : Réaliser vos réves.__
+__Conseil : Réaliser vos rêves.__
 
 
 ## Niveau 5 ; prix = 1000€ à 20000€

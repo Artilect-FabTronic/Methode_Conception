@@ -10,13 +10,13 @@ Ce document a pour but de proposer une méthodologie de conception d’un objet 
 
 Il s’agit bien d’__une__ méthode et non pas de __la__ méthode. En disant cela je ne présume nullement détenir la vérité absolue sur le sujet. D’autant que je trouve dangereux d’imposer, et de façon définitive, une méthode prétendument indépassable. J’encourage tout le monde à rester critique et mieux que cela à se construire ces propres méthodes de travail. Celles qui vous conviennent parce qu’elles correspondent à votre façon de penser ou tout simplement à l’investissement en temps que vous souhaitez y consacrer. Travailler c’est « trouvailler » dit l’adage. Dès lors qu’on se laisse dicter les méthodes, on perd son métier. On perd l’opportunité de rentrer par soi‑même dans le chemin qui nous construit à force d’expériences.
 
-Cet avestissement important étant entendu. Il faut toutefois admettre que le savoir est une valeur collective. Et qu’il est bon d’apprendre de ses paires pour ne pas se perdre trop longuement dans une science ou un art difficile. Les chemins déjà tracés doivent vous enseigner, vous inspirer, vous faire gagner du temps. Pas vous contraindre.
+Cet avertissement important étant entendu. Il faut toutefois admettre que le savoir est une valeur collective. Et qu’il est bon d’apprendre de ses paires pour ne pas se perdre trop longuement dans une science ou un art difficile. Les chemins déjà tracés doivent vous enseigner, vous inspirer, vous faire gagner du temps. Pas vous contraindre.
 
-Ce document n’a pas vocation à vous apprendre les bases théoriques de l’électronique, ni à vous informer sur les avantages de telle ou telle technologie. Il propose simplement une méthode pas à pas pour transformer vos idées en réalisation concrète. Ce document n’a pas non plus pour prétention d’atteindre un niveau de rigeur industriel bien trop chronophage pour un hobbyste. Il liste les actions importantes à faire pour ne pas commettre d’erreurs anéreuses qui ruinerait votre projet. Toutefois, ce document sera parcemé de comparaison entre ce qui se pratique dans l’industrie et ce qui me semble plus raisonnable de mettre en œuvre pour un amateur. À vous de placer le curseur entre rigeur et plaisir et entre idéalisme et réalisme.
+Ce document n’a pas vocation à vous apprendre les bases théoriques de l’électronique, ni à vous informer sur les avantages de telle ou telle technologie. Il propose simplement une méthode pas à pas pour transformer vos idées en réalisation concrète. Ce document n’a pas non plus pour prétention d’atteindre un niveau de rigueur industriel bien trop chronophage pour un hobbyste. Il liste les actions importantes à faire pour ne pas commettre d’erreurs onéreuses qui ruinerait votre projet. Toutefois, ce document sera parsemé de comparaison entre ce qui se pratique dans l’industrie et ce qui me semble plus raisonnable de mettre en œuvre pour un amateur. À vous de placer le curseur entre rigueur et plaisir et entre idéalisme et réalisme.
 
-Ce document est à destination du public des _fablabs_, du _mouvement Maker_ et du _mouvement du Logiciel et matériel Libre_. Aussi les outils proposés en complément de la méthodologie sont tous des logiciels libres. À savoir : [KiCAD](https://kicad-pcb.org/) pour l’édition de schéma et le routage des cartes ; [FreeCAD](https://www.freecadweb.org/) pour la conception de la mécanique associée (simple boitier ou robot sophistiqué selon votre projet). Ce sont aujourd’hui les logiciels libres les plus avancés dans ces domaines mais on pourra d’aventure trouver des alternatives. Le choix de l’éditeur de code est laissé à votre sagassité tant la diversité dans ce domaine est grande.
+Ce document est à destination du public des _fablabs_, du _mouvement Maker_ et du _mouvement du Logiciel et matériel Libre_. Aussi les outils proposés en complément de la méthodologie sont tous des logiciels libres. À savoir : [KiCAD](https://kicad-pcb.org/) pour l’édition de schéma et le routage des cartes ; [FreeCAD](https://www.freecadweb.org/) pour la conception de la mécanique associée (simple boîtier ou robot sophistiqué selon votre projet). Ce sont aujourd’hui les logiciels libres les plus avancés dans ces domaines mais on pourra d’aventure trouver des alternatives. Le choix de l’éditeur de code est laissé à votre sagacité tant la diversité dans ce domaine est grande.
 
-À n’en pas douter il existe des logiciels propriétaires bien plus puissants que ceux que je propose ici. Mais la liberté n’est pas une question de performance. La liberté est d’ailleur une performance en soit par les temps qui court. C’est une question d’écosystème, une question de partage avec votre communauté. Comme le dit si bien Richard Stallman (fondateur de la Free Software Fondation, cocréateur de GNU/Linux, entre autres choses), et il le dit en français dans le texte : _«Je peux résumer ce qu’est le logiciel libre en 3 mots : liberté, égalité, fraternité.»_
+À n’en pas douter il existe des logiciels propriétaires bien plus puissants que ceux que je propose ici. Mais la liberté n’est pas une question de performance. La liberté est d’ailleurs une performance en soit par les temps qui court. C’est une question d’écosystème, une question de partage avec votre communauté. Comme le dit si bien Richard Stallman (fondateur de la Free Software Fondation, cocréateur de GNU/Linux, entre autres choses), et il le dit en français dans le texte : _«Je peux résumer ce qu’est le logiciel libre en 3 mots : liberté, égalité, fraternité.»_
 
 Le défit du matériel libre.
 
@@ -34,7 +34,7 @@ On m’a une fois poser la question, au regard de mes créations, si j’étais 
 >
 > _Le mot designer est un mot d’emprunt de l’anglais qui veut dire concepteur. Comme tu le sais sans doute. Mais les français ont modifié le sens de ce mot pour y ajouter quelque chose de différent. Quelque chose que les anglo‑saxons, me semble‑t‑il, ne mettent pas du tout._
 >
-> _Conception vient du latin conceptus qui signifie «action d’accueillir et de contenir». Et C’est exatement le même mot en latin pour traduire la période de gestation des femmes. N’est ce pas ce qu’elles font pendant cette période pour parler basiquement ? Elles accueillent la «graine» et elles le contiennent jusqu’à ressortir l’enfant. Du reste, aujourd’hui encore dans la langue française, on dit concevoir un enfant. Et même dans la bible, on parle d’immaculé conception._
+> _Conception vient du latin «conceptus» qui signifie «action d’accueillir et de contenir». Et C’est exactement le même mot en latin pour traduire la période de gestation des femmes. N’est ce pas ce qu’elles font pendant cette période pour parler basiquement ? Elles accueillent la «graine» et elles le contiennent jusqu’à ressortir l’enfant. Du reste, aujourd’hui encore dans la langue française, on dit concevoir un enfant. Et même dans la bible, on parle d’immaculé conception._
 >
 > _Et bien concevoir en technologie, c’est exactement ça mais avec des idées. (Que saurait‑il faire d’autre un homme…?) On accueille une idée. Parfois c’est sa propre idée, parfois c’est celle des autres. (Trop souvent dans l’industrie, c’est celle des autres…) Puis on la mette en gestion un certain temps et selon un processus créatif plus ou moins complexe. Jusqu’à obtenir une chose tangible, quelque chose de réelle._
 >
@@ -42,39 +42,39 @@ On m’a une fois poser la question, au regard de mes créations, si j’étais 
 >
 > _Mais c’est un peu court pour décrire l’activité dans son détail. La question est : Je conçois quoi ? Et je mets en œuvre quelle discipline ? Le quoi et le comment est, selon moi, la seule façon de ne pas se tromper dans la description de son métier._
 >
-> _Alors, posons les choses simplement. Je fais des claviers pour l’informatiques. Facile, ça tout le monde aura compris. Et je déploie les disciplines suivantes : électronique, mécanique, programmation, menuiserie, de l’ergonomie. Et quoi d’autre ? Quelle est donc cette substante subtile qui tend à identifier une esthétique. Et peut‑être pour certain une émotion ?_
+> _Alors, posons les choses simplement. Je fais des claviers pour l’informatique. Facile, ça tout le monde aura compris. Et je déploie les disciplines suivantes : électronique, mécanique, programmation, menuiserie, de l’ergonomie. Et quoi d’autre ? Quelle est donc cette substance subtile qui tend à identifier une esthétique. Et peut‑être pour certain une émotion ?_
 >
 > _Je ne vois pas ce que cela pourrait être d’autre que de l’art. Ou peut‑être de l’artisanat à la limite. Il me semble que c’est bien cela qui est ajouté en plus dans le mot designer à la française. Et à l’italienne aussi d’ailleurs._
 >
-> _La distinction entre art et artisanat est relativement tardive. Elle date de la Renaissance. Cette distinction est apparu en italie au moment précis où un petit groupe de gens est devenu très très riches. L’époque des grands explorateur, Marco Polo… Et la naissance des banques modernes. Et où ils ne savaient plus comment afficher, affirmer, leur distinction sociale. Alors ils ont demandé à avoir des choses, même inutiles, que personne d’autre pouvait se payer. L’art est né de cet acte d’orgueil._
+> _La distinction entre art et artisanat est relativement tardive. Elle date de la Renaissance. Cette distinction est apparue en Italie au moment précis où un petit groupe de gens est devenu très très riches. L’époque des grands explorateur, Marco Polo… Et la naissance des banques modernes. Et où ils ne savaient plus comment afficher, affirmer, leur distinction sociale. Alors ils ont demandé à avoir des choses, même inutiles, que personne d’autre pouvait se payer. L’art est né de cet acte d’orgueil._
 >
 > _La différence entre art et artisanat est très culturelle. Et il existe encore des cultures humaines où on ne fait pas la distinction._
 >
 > _Et c’est pour cela, que je tiens à préciser que dans ce que je fais il y a un peu d’art, de l’art utile. Et c’est là un jugement morale et une philosophie que j’assume._
 
 
-Aussi, il subsiste dans l’acte de création quelque chose de mytérieux. Quelque chose qui dépose la simple raison. Aussi m’est‑il impossible de vous apprendre comment trouver l’idée d’un objet. Je ne peux que vous conseiller de bien prendre le temps de murir l’idée en vous et de passer le plus rapidement possible à l’expérimentation. D’écouter ce que les gens vous disent, tout en se méfiant de ce que les gens vous disent. L’intuision peut dépasser les préjugés.
+Aussi, il subsiste dans l’acte de création quelque chose de mystérieux. Quelque chose qui dépose la simple raison. Aussi m’est‑il impossible de vous apprendre comment trouver l’idée d’un objet. Je ne peux que vous conseiller de bien prendre le temps de mûrir l’idée en vous et de passer le plus rapidement possible à l’expérimentation. D’écouter ce que les gens vous disent, tout en se méfiant de ce que les gens vous disent. L’intuition peut dépasser les préjugés.
 
-Une idée n’est rien, seule compte sa réalisation tangible. Le signe quasi certain qu’une idée est bonne, est qu’elle ne vous lache pas, qu’elle vous hante continuellement. Mais le signe absolument certain qu’une idée est bonne, est qu’elle fonctionne réellement et que les gens l’utilisent.
+Une idée n’est rien, seule compte sa réalisation tangible. Le signe quasi certain qu’une idée est bonne, est qu’elle ne vous lâche pas, qu’elle vous hante continuellement. Mais le signe absolument certain qu’une idée est bonne, est qu’elle fonctionne réellement et que les gens l’utilisent.
 
 
 ### Concevoir un produit complet moderne, c’est mélanger plusieurs disciplines
 
-Un objet électronique complet moderne est toujours constituer d’aux moins 3 disciplines : Électronique, Mécanique (au sens large) et Programmation.
+Un objet électronique complet moderne est toujours constituer d’au moins 3 disciplines : Électronique, Mécanique (au sens large) et Programmation.
 
 Mais il arrive qu’il en compte bien d’avantage comme la chimie, la biologie, la menuiserie, la couture, l’architecture, l’art et que sais‑je encore. Il ne sera donc pas possible d’exposer toutes les techniques ou arts qu’il est possible de mettre en œuvre dans un objet électronique. Pour autant que l’électronique soit réellement au centre de l’objet ou qu’il serait qu’une fonctionnalité discrète.
 
-Nous nous concentrerons ici donc que sur les trois premières disciplines sitées.
+Nous nous concentrerons ici donc que sur les trois premières disciplines citées.
 
 Doit‑on commencer le travail par l’électronique, la mécanique ou le logiciel ? Tout dépend de la nature du projet. Et du degré d’interaction entre les 3.
 
-Si la mécanique n’est qu’un simple boitier. Alors l’interaction entre électronique et mécanique sera faible. Il y a dans ce cas assez peu de sujets à aborder : Dimension et emcombrement général ; Condition environnementale (température, vibration, étanchéité…) ; Dissipation thermique ; Isolation électrique et sécurité des personnes ; Connectique ; assemblage de la carte et du boitier. On pourra donc se contrer sur l’électronique en premier. Ce qu’il ne signifie pas que l’on ne peut pas se poser les questions précédentes au fil de l’eau.
+Si la mécanique n’est qu’un simple boîtier. Alors l’interaction entre électronique et mécanique sera faible. Il y a dans ce cas assez peu de sujets à aborder : Dimension et encombrement général ; Condition environnementale (température, vibration, étanchéité…) ; Dissipation thermique ; Isolation électrique et sécurité des personnes ; Connectique ; assemblage de la carte et du boîtier. On pourra donc se contrer sur l’électronique en premier. Ce qu’il ne signifie pas que l’on ne peut pas se poser les questions précédentes au fil de l’eau.
 
 Évidement si la mécanique est en faite un objet articulé complexe comme un robot par exemple. L’interaction entre électronique et mécanique sera forte. Et il sera bon de pousser les deux disciplines simultanément ou alternativement. Faire beaucoup d’itération entre les deux permet de limiter les erreurs.
 
-L’interaction entre électronique et logiciel est presque toujours forte sur un objet moderne. Mais tout dépend de la complexité de l’objet. Là aussi, faire beaucoup d’itération entre les deux (ou finalement les trois) permet de limiter les erreurs. Dans l’industrie, on va jusqu’à faire des spécifications d’interface entre le Hardware (électronique) et le software (programmation) pour lever toutes les ambiguïtés. Et il peut y avoir des spécifications d’architecture pour coordonner les efforts des 3 métiers (quand il y en a seulement que 3). Aussi, si vous n’êtes pas tout seul sur le projet, ce qui n’arrive quasiment jamais dans l’industrie contrairement en mode hobbis, une bonne communication entre les différents métiers et absolument essentielle à la réussite du projet.
+L’interaction entre électronique et logiciel est presque toujours forte sur un objet moderne. Mais tout dépend de la complexité de l’objet. Là aussi, faire beaucoup d’itération entre les deux (ou finalement les trois) permet de limiter les erreurs. Dans l’industrie, on va jusqu’à faire des spécifications d’interface entre le Hardware (électronique) et le software (programmation) pour lever toutes les ambiguïtés. Et il peut y avoir des spécifications d’architecture pour coordonner les efforts des 3 métiers (quand il y en a seulement que 3). Aussi, si vous n’êtes pas tout seul sur le projet, ce qui n’arrive quasiment jamais dans l’industrie contrairement en mode hobby, une bonne communication entre les différents métiers et absolument essentielle à la réussite du projet.
 
-Quoi qu’il en soit vous ne pourrez pas faire l’économie de vous investir sérieusement dans les 3 (ou plus encore) disciplines. Et il sera bon de chercher de l’aide dès qu’un blocage se présente. Être concepteur, c’est passé sa vie à apprendre des choses, d’autant que les technologies ne saissent d’évoluer. Il est donc urgent d’apprendre à apprendre.
+Quoi qu’il en soit vous ne pourrez pas faire l’économie de vous investir sérieusement dans les 3 (ou plus encore) disciplines. Et il sera bon de chercher de l’aide dès qu’un blocage se présente. Être concepteur, c’est passé sa vie à apprendre des choses, d’autant que les technologies ne cessent d’évoluer. Il est donc urgent d’apprendre à apprendre.
 
 Les fablabs, les makerspaces ou les hackerspaces ou peut importe comment on les appelle, trouvent là tout leurs intérêts…
 
@@ -83,7 +83,7 @@ Les fablabs, les makerspaces ou les hackerspaces ou peut importe comment on les 
 
 {Brouillon}
 À vous de voir. Il faut faire selon les envies.
-Il faut pas que ce soit une contraite invivable.
+Il faut pas que ce soit une contrainte invivable.
 
 C’est plus difficile, car ça demande forcément plus d’organisation.
 Attention à bien se répartir les taches pour éviter la zizanie.
@@ -110,13 +110,13 @@ Pour un projet hobbyste, je recommanderai la plus grande simplicité possible. U
 
 ### Proposition d’un Dossier d’Étude
 
-Avoir un dossier projet bien rangé pour pourrait sembler être futile ou pourrait nous faire passer pour des maniacs. Mais en fait, bien ranger le dossier, c’est aussi organiser sa méthode de travail, structurer les taches à faire, une liste de tâche sans date qui ne dit pas son nom.
+Avoir un dossier projet bien rangé pour pourrait sembler être futile ou pourrait nous faire passer pour des maniaques. Mais en fait, bien ranger le dossier, c’est aussi organiser sa méthode de travail, structurer les taches à faire, une liste de tâche sans date qui ne dit pas son nom.
 
 Combien de fois, je suis tombé sur des projets sur GitHub ou GitLab, sans comprendre comment fonctionne leur source. Quoi est où ? etc… Bien structurer le dossier D’étude, c’est aussi permettre à d’autre personne de devenir des contributeur du projet plus facilement.
 
-C’est pourquoi, il m’est parût pertinent de proposer une manière de ranger un projet. Je pense qu’une bonne façon de ci‑prendre et de s’organiser par métier, puis par type d’actions fondamentales dans le deuxième niveau hièrarchique.
+C’est pourquoi, il m’est parût pertinent de proposer une manière de ranger un projet. Je pense qu’une bonne façon de ci‑prendre et de s’organiser par métier, puis par type d’actions fondamentales dans le deuxième niveau hiérarchique.
 
-Dans le dossier «Template_Dossier_Projet», je propose non pas un dossier template, deux dossiers templates (format 7zip). Le premier appelé «version débutant» et le second appelé «version rigueur». Pourquoi ? Car je pense, comme je l’ai précisé en introduction, qu’une méthode de travail, c’est quelque chose qui se construit dans le temps. Que ça sert à rien d’imposer d’emblé trop de complexité. Ces deux versions sont comme les deux points d’une trajectoire. Ainsi un débutant pourra commencer tranquilement par la version débutant ; puis au fur et à mesure que les choses apparaissent, il pourra aller chercher dans la version rigueur les éléments dont il a besoin. On comprend mieux les choses par l’expérimentation que par un cours magistral abstrait.
+Dans le dossier «Template_Dossier_Projet», je propose non pas un dossier template, deux dossiers templates (format 7zip). Le premier appelé «version débutant» et le second appelé «version rigueur». Pourquoi ? Car je pense, comme je l’ai précisé en introduction, qu’une méthode de travail, c’est quelque chose qui se construit dans le temps. Que ça sert à rien d’imposer d’emblée trop de complexité. Ces deux versions sont comme les deux points d’une trajectoire. Ainsi un débutant pourra commencer tranquillement par la version débutant ; puis au fur et à mesure que les choses apparaissent, il pourra aller chercher dans la version rigueur les éléments dont il a besoin. On comprend mieux les choses par l’expérimentation que par un cours magistral abstrait.
 
 Dans la version rigueur, vous trouverez aussi des fichiers templates pour différente chose, comme par exemple une base de donné pour les composants, ou un fichier pour faire une BOM (Bill of Material = nomenclature composant). Et plein d’autres choses utiles.
 
@@ -126,8 +126,8 @@ Les deux versions ont les dossier suivant en tête, voici à quoi ils servent :
 * __01_Système__ : Les éléments qui sont transverses à plusieurs métiers. Et en particulier, la spécification du produit et l’architecture du produit.
 * __03_Mécanique__ : Dossier d’étude pour le métier mécanique.
 * __02_Électronique__ : Dossier d’étude pour le métier électronique.
-* __04_Programmation__ : Dossier d’étude pour le métier progammation.
-* On pourra intercaller d’autres disciplines le cas échéant.
+* __04_Programmation__ : Dossier d’étude pour le métier programmation.
+* On pourra intercaler d’autres disciplines le cas échéant.
 * __XX_Fabrication__ : Ce dossier est destiné à celui qui veut simplement fabriquer le produit sans se préoccuper de l’étude. Il est un peu l’équivalent de l’onglet «Téléchargement» pour un logiciel libre.
 
 On trouve ensuite dans chaque dossier, d’autres dossiers qui correspondent aux étapes fondamentales de conception. Vous trouverai un petit «readme.md» pour comprendre à quoi sert ce dossier. Lire ensuite les paragraphes «Conception» qui suivent pour comprendre comment tout ça s’articule.
@@ -140,7 +140,7 @@ Dans ce paragraphe, je détaille les grandes lignes du processus industriel pour
 
 #### Description du Cycle de Développement en V Industriel
 
-Dans l’industrie, le mot conception est subtitué aux mots «processus de développement». Et des théories émanant des qualiticiens donne le jour à une choses que l’on appelle cycle de développement en V (ou en W). 
+Dans l’industrie, le mot conception est substitué aux mots «processus de développement». Et des théories émanant des qualiticiens donne le jour à une choses que l’on appelle cycle de développement en V (ou en W). 
 
 ![image sur le cycle en V industriel](images/cycle_en_V_industriel.png)
 
@@ -148,13 +148,13 @@ Dans l’industrie, le mot conception est subtitué aux mots «processus de dév
 0. __ÉTUDE DE MARCHÉ :__ Il s’agit de l’étape commerciale en amont qui doit définir le besoin client et l’adéquation avec une solution que l’on appelle produit (ou service dans certain cas). Je ne parlerai pas dans ce document de ce qu’il faudrait faire à cette étape.
 	
 	
-1.  __SPÉCIFICATION :__ Fixer sur le «papier», la définition du produit. Dans l’industrie, on découpe toutes les caractéristiques en petits éléments, qu’on appelle «exigence». Ainsi, on parle de management des exigences quand on mette en œuvre des actions pour s’assurer que toutes les exigences sont tenues une par une. Ces exigences sont numéroté pour être tracé dans une base de données. En particulier, le cahier des charges en amont est décliné en des spécifications métiers, puis des documents de justification théorique puis des documentation de vérification expérimentales. On parle alors d’une architecture documentaire. Dans cette architecture tous les éléments sont numérotés pour créer des liens entre spécificatin produit, les spécifications métiers puis les différent type de justification. On parle de «couverture des exigences».
+1.  __SPÉCIFICATION :__ Fixer sur le «papier», la définition du produit. Dans l’industrie, on découpe toutes les caractéristiques en petits éléments, qu’on appelle «exigence». Ainsi, on parle de management des exigences quand on mette en œuvre des actions pour s’assurer que toutes les exigences sont tenues une par une. Ces exigences sont numéroté pour être tracé dans une base de données. En particulier, le cahier des charges en amont est décliné en des spécifications métiers, puis des documents de justification théorique puis des documentation de vérification expérimentales. On parle alors d’une architecture documentaire. Dans cette architecture tous les éléments sont numérotés pour créer des liens entre spécification produit, les spécifications métiers puis les différent type de justification. On parle de «couverture des exigences».
 	
 	
 2. __JUSTIFICATION :__ Le cœur de l’étude, mettre en confrontation ce qu’on a imaginé et ce qui est réellement possible selon les technologies disponibles. Il s’agit aussi, dans un document que l’on appelle parfois «dossier justificatif de définition», de clarifier, d’expliciter tout ce qui est de l’ordre l’implicite et d’écrire tout ce qui est rester dans le domaine de tacite. Il faut remettre en cause les incohérences de la spécification pour aboutir à une spécification plus précise. Il s’agit aussi et surtout de définir la solution technique et expliquer le choix technique d’une part. Et d’autre part, il s’agit de prouver théoriquement que la solution fonctionne et répond parfaitement à l’exigence.
 	
 	
-3. __SCHÉMA :__ Dessiner contraitement le résultat de l’étude. C’est là qu’on fixe la solution technique avec la plus grande précision. Quel composant est connecté où et comment ? Et on donne la liste des composants nécessaires. On appelle cette liste une BOM ou une nomenclature.
+3. __SCHÉMA :__ Dessiner concrètement le résultat de l’étude. C’est là qu’on fixe la solution technique avec la plus grande précision. Quel composant est connecté où et comment ? Et on donne la liste des composants nécessaires. On appelle cette liste une BOM ou une nomenclature.
 	
 	
 4. __ROUTAGE :__ Dessiner le circuit imprimé et prendre en compte les contraintes liées au processus de fabrication d’un PCB. Le schéma qui est encore une certaine abstraction des choses et alors réalisé physiquement.
@@ -163,7 +163,7 @@ Dans l’industrie, le mot conception est subtitué aux mots «processus de dév
 5. __FABRICATION DU PROTOTYPE :__ Prototype destiné au développement. Ce prototype peu tout de même être fabriquer industriellement ou pas selon le degré d’avancement. On parle d’industrialisation progressive ou processus d’industrialisation.
 	
 	
-6. __VÉRIFICATION :__ Mise au point de tous les blocs fonctionnelles unitairement. C’est le moment de vérié pour le concepteur. On vérifie point par point que tout fonctionne comme attendu et selon toutes les conditions, conditions climatiques notamment. Il est quasiment impossible de faire tout bon du premier coup. Aussi les erreurs (problème, bug ou défaut) sont tracés dans un outil de suivi (par exemple, Mantis Bug Tracker ou Jira). Le traitement des défauts pourra se faire selon une méthodologie 8D dont on parlera plus loin. On aura consécutivement à la résolution des problèmes, une liste de solution à appliquer qui donneront lieu à un nouveau prototype. Et on recommencera le processus.
+6. __VÉRIFICATION :__ Mise au point de tous les blocs fonctionnelles unitairement. C’est le moment de vérité pour le concepteur. On vérifie point par point que tout fonctionne comme attendu et selon toutes les conditions, conditions climatiques notamment. Il est quasiment impossible de faire tout bon du premier coup. Aussi les erreurs (problème, bug ou défaut) sont tracés dans un outil de suivi (par exemple, Mantis Bug Tracker ou Jira). Le traitement des défauts pourra se faire selon une méthodologie 8D dont on parlera plus loin. On aura consécutivement à la résolution des problèmes, une liste de solution à appliquer qui donneront lieu à un nouveau prototype. Et on recommencera le processus.
 	
 	
 7. __VALIDATION :__ Validation fonctionnel de l’ensemble et validation de la cohérence documentaire. Vérification de la couverture des exigences. Même chose qu’à l’étape de Vérification, mais au niveau global produit. On pourra parler aussi de validation au niveau système qu’en le produit s’insère dans un ensemble plus grand. On parle de tests d’intégration système.
@@ -177,21 +177,21 @@ Dans l’industrie, le mot conception est subtitué aux mots «processus de dév
 	
 10. __FABRICATION EN SÉRIE :__ La conception est terminée. Il s’agit maintenir de fabriquer efficacement le produit en masse. L’action en amont de l’industrialisation doit permettre de bien faire le passage de relais entre le monde de la conception et le monde de la fabrication.
 
-Ce workflow (flux de travail) est écrit ici du point de vu de l’électronicien. Du point de vu du mécanicien et du codeur, les choses se déclinent différement aux étapes 3, 4, 6 et 7.
+Ce workflow (flux de travail) est écrit ici du point de vu de l’électronicien. Du point de vu du mécanicien et du codeur, les choses se déclinent différemment aux étapes 3, 4, 6 et 7.
 
 
 #### Critique et ce qui se Pratique en Condition Réelle
 
-Bien tout cela semblent parfaitement logique. Et il l’ai dans les grandes lignes. Il introduit pourtant une idée fausse qui est que tout se déroulerait linéairement dans le temps. Je connais aucun concepteur sérieux qui travaille exactement dans l’ordre des actions décrites précédement. Je m’explique.
+Bien tout cela semblent parfaitement logique. Et il l’ai dans les grandes lignes. Il introduit pourtant une idée fausse qui est que tout se déroulerait linéairement dans le temps. Je connais aucun concepteur sérieux qui travaille exactement dans l’ordre des actions décrites précédemment. Je m’explique.
 
 ![image sur ce qui correspond mieux à la façon réelle de penser]()
 
 L’image ci‑dessus décrit un cycle en V tel que typiquement réalisé dans la vie réelle pour un concepteur électronique. On commence bien
-par une spécification, mais très rapidement vient se positionner en parallèle l’action de justification, puis peu de temps après se positionne l’action d’écriture du schéma. Et il est fortement recommendé de faire beaucoup d’itérations entre ces 3 éléments (Spéc / Justif / Schéma) pour converger efficacement vers une solution. Plus on prend le temps de bien se poser tous les questions pour ces 3 éléments, et moins on aura d’erreurs au moment des vérifications, validations et qualifications. Et il faut garder en tête que ces erreurs peuvent vous coûtez chers. Pas seulement en argent, mais aussi en temps. Par exemple, si on se rend compte que l’architecture du produit ne permet pas le répondre au besoin, c’est la catastrophe. Il faut tout recommencer. Et ça peux être 6 mois ou 1 an de perdue.
+par une spécification, mais très rapidement vient se positionner en parallèle l’action de justification, puis peu de temps après se positionne l’action d’écriture du schéma. Et il est fortement recommandé de faire beaucoup d’itérations entre ces 3 éléments (Spéc / Justif / Schéma) pour converger efficacement vers une solution. Plus on prend le temps de bien se poser tous les questions pour ces 3 éléments, et moins on aura d’erreurs au moment des vérifications, validations et qualifications. Et il faut garder en tête que ces erreurs peuvent vous coûtez chers. Pas seulement en argent, mais aussi en temps. Par exemple, si on se rend compte que l’architecture du produit ne permet pas le répondre au besoin, c’est la catastrophe. Il faut tout recommencer. Et ça peux être 6 mois ou 1 an de perdue.
 
 Il y a ensuite un biseau entre schéma et routage. Dans l’industrie, le routage est souvent réalisé par une équipe spécialisé. Il faut alors réaliser une spécification de routage en bonne intelligence entre les deux équipes. Il n’est pas complètement impossible de trouver des erreurs sur le schéma à cette étape. Et on peut aussi laisser des degrés de liberté au routeur pour facilité le routage. Par exemple, inversion de pin sur des fonctions équivalentes.
 
-Mais sur des fonctions complexes le biseau schéma / routage peut aller plus loin. En effet, pour concevoir une fonction RF (radiofréquence), il faut carrément réaliser parallélement, simulation (donc justification), schéma et routage. Car dans le domaine radio, un bout de piste devient équivalent à un composant à part entière, avec par exemple une impédance ou un couplage particulier.
+Mais sur des fonctions complexes le biseau schéma / routage peut aller plus loin. En effet, pour concevoir une fonction RF (radiofréquence), il faut carrément réaliser parallèlement, simulation (donc justification), schéma et routage. Car dans le domaine radio, un bout de piste devient équivalent à un composant à part entière, avec par exemple une impédance ou un couplage particulier.
 
 
 #### Adaptation pour un Hobbyste
@@ -207,21 +207,21 @@ Ne vous mettez pas la pression. Après tout, ne pas arriver tout à fait au bout
 
 ## Du Bon Usage du Prototype
 
-### Pour en finir avec les Accronymes
+### Pour en finir avec les Acronymes
 
 POC, MVP, modèle A, modèle B, C‑model, Ramp‑up model, prototypage (rapide ou pas)…
 
 
 ### Critique de la définition de l’OMC
 
-L’OMC (Organisation Mondial du Commerce) a donné une définition de ce qu’est un prototype à des fins de promouvoir l’innovation. (Non mais de quoi je me mèle, Est ce que je me permet de leur expliquer ce que c’est une loi…). La voici :
+L’OMC (Organisation Mondial du Commerce) a donné une définition de ce qu’est un prototype à des fins de promouvoir l’innovation. (Non mais de quoi je me mêle, Est ce que je me permet de leur expliquer ce que c’est une loi…). La voici :
 
 > « Un prototype est un modèle original qui possède toutes les qualités techniques et toutes les caractéristiques de fonctionnement du nouveau produit. » (…) (OCDE, 1993, alinéa 115, p. 46).
 
-Voyez vous le problème ? Ils sont en train de dire que le prototype a déjà toutes les qualités d’un produit fini. Ils veulent la charue avant les bœufs. Hors un prototype ce n’est précisément pas cela.
+Voyez vous le problème ? Ils sont en train de dire que le prototype a déjà toutes les qualités d’un produit fini. Ils veulent la charrue avant les bœufs. Hors un prototype ce n’est précisément pas cela.
 
 
-### Éthymologie du mot Prototype
+### Étymologie du mot Prototype
 
 
 
@@ -248,47 +248,47 @@ Voyez vous le problème ? Ils sont en train de dire que le prototype a déjà to
 
 ### Une Liste de Questions à se Poser
 
-La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhaustives, ni limitatives. À vous de vous faire votre propre opinion. Au cours de la conception, il y aura surement des sous‑tâches, qu’on ne peut pas prévoir à l’avance, qui vont apparaitre.
+La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhaustives, ni limitatives. À vous de vous faire votre propre opinion. Au cours de la conception, il y aura sûrement des sous‑tâches, qu’on ne peut pas prévoir à l’avance, qui vont apparaître.
 
 0. __IDÉE__
 	La créativité est une chose mystérieuse. Personne ne peut prétendre donner une méthode générale pour trouver des idées. Il faudra creuser au bout de vous même et vous faire confiance. Laissez‑vous guider par vos envies.
 
 > Les points 1, 2 et 3 peuvent (devraient) être faite en parallèle par un processus itératif.
 
-1. __SPÉCIFICATION / JUTIFICATION__
+1. __SPÉCIFICATION / JUSTIFICATION__
 	* Le but d’une spécification est de poser le besoin, idée, envie. Faites‑vous au moins pour vous même un petit texte pour expliquer ce que vous voulez faire. Faire des petits dessins. Faire une liste des caractéristiques essentielles.
 	
-	* Essayer d’indentifier clairement quel est le problème et comment on cherche à le résoudre. (Le couple problème / solution.)
+	* Essayer d’identifier clairement quel est le problème et comment on cherche à le résoudre. (Le couple problème / solution.)
 	
-	* Faire un synoptique (schéma de principe sans les alimentations). Ce qui va permettre de clarifier l’architecture de l’objet. Il doit faire apparaitre des détailles, des fonctions nécessaire auxquelles vous n’aviez pas pensé au début. Refaire le symoptique jusqu’à ce qu’il semble complet.
+	* Faire un synoptique (schéma de principe sans les alimentations). Ce qui va permettre de clarifier l’architecture de l’objet. Il doit faire apparaître des détailles, des fonctions nécessaire auxquelles vous n’aviez pas pensé au début. Refaire le synoptique jusqu’à ce qu’il semble complet.
 	
-	* Faire la liste de tous les sous‑blocs fonctionnels. Cette liste pourra servir à toutes les étapes de la conception. Une sorte de check‑list pour chaque question : alimentation, référence composant, justification, routage… On peut également identifier s’il y a des parties optionnelles au projet. Il faut peut être pouvoir imaginer des extentions futures.
+	* Faire la liste de tous les sous‑blocs fonctionnels. Cette liste pourra servir à toutes les étapes de la conception. Une sorte de check‑list pour chaque question : alimentation, référence composant, justification, routage… On peut également identifier s’il y a des parties optionnelles au projet. Il faut peut être pouvoir imaginer des extensions futures.
 	
 	* Vous pouvez éventuellement classer les sous‑blocs fonctionnels par catégorie : alimentations, cœur numérique, entrées, sorties, interfaces homme / machine, capteurs, communications filaires, radiocommunications… Cela permet de mieux planifier le travail ou de partager le travail dans une équipe.
 	
 	* Pour les fonctions principales fixer les choix de composants. Si ce n’est pas claire, ne pas hésiter à faire de petite maquette pour éprouver la pertinence de la solution. Par exemple, est‑ce que accéléromètre sera assez précis ?
 	
-	* Le micro‑controleur est un composant qui ne sera pas interchangeable, il faut être certain qu’il pourra prendre en compte toutes les fonctions. Pour cela faire la liste de tous les signaux à brancher et mettre en face les options d’affectations du micro‑contrôleur.
+	* Le micro‑contrôleur est un composant qui ne sera pas interchangeable, il faut être certain qu’il pourra prendre en compte toutes les fonctions. Pour cela faire la liste de tous les signaux à brancher et mettre en face les options d’affectations du micro‑contrôleur.
 	
 	* Quand les choix des composants principaux sont arrêtés. Acheter ces composants car il risque d’y avoir du délais. Il ne s’agit pas d’acheter toute la BOM. Ce n’est pas possible car la conception ne fait que commencer.
 	
 	* Faire un bilan de consommation. Les tensions nécessaires. Les courants pour chaque fonction. Quelle est notre source d’énergie et comment la gérer ? Est‑ce qu’il y a des priorités nécessaires pour la séquence d’allumage (souvent nécessaire pour le CPU) ? Est‑ce qu’on a besoin d’une alimentation permanente pour les fonctions en mode veille ?
 	
-	* Quelles sont les contraintes environnementales (température, étanchéïté, vibration) ?
+	* Quelles sont les contraintes environnementales (température, étanchéité, vibration) ?
 	
 	* Si on veut vendre le produit, il est absolument nécessaire de se demander quels sont les normes CEM (Compatibilité ÉlectroMagnétique) à respecter. L’amateur pourra se passer de cette étape.
 	
-	* Avons nous une contraite sur la durée de vie. Si oui calcul de fiabilité et AMDEC nécessaire. Étape nécessaire dans les milieux professionnelles. C’est nécessaire aussi si vous êtes sensible à la lutte contre obsolescence programmée. Cette étape n’est pas nécessaire sur les premiers prototypes.
+	* Avons nous une contrainte sur la durée de vie. Si oui calcul de fiabilité et AMDEC nécessaire. Étape nécessaire dans les milieux professionnelles. C’est nécessaire aussi si vous êtes sensible à la lutte contre obsolescence programmée. Cette étape n’est pas nécessaire sur les premiers prototypes.
 	
-	* Y‑a‑t‑il une contraite de sécurité pour les personnes ? Analyse Safety nécessaire et AMDEC. Quelles sont les fonctions de sécurité à ajouter ou à mettre en redondance ? Étape nécessaire dans les milieux professionnelles. Mais faites tout de même attention à vous et les autres si vous êtes amateur. L’électricité, c’est dangeureux, on ne le répéte jamais assez.
+	* Y‑a‑t‑il une contrainte de sécurité pour les personnes ? Analyse Safety nécessaire et AMDEC. Quelles sont les fonctions de sécurité à ajouter ou à mettre en redondance ? Étape nécessaire dans les milieux professionnelles. Mais faites tout de même attention à vous et les autres si vous êtes amateur. L’électricité, c’est dangereux, on ne le répète jamais assez.
 	
-	* Typiquement, ce qui est dangeureux : les batteries (risque d’incendie en cas de court‑circuit), les tensions supérieures à 50Vac ou 120Vdc (limite entre la Très Basse Tension et la Basse Tension selon la norme) (risque d’électrocution), les éléments chauffants (risque de brûlure ou d’incendie), les moteurs ou les vérins (risque de mutilation), les produits chimiques nécessaires à la fabrication (risque d’intoxication)…
+	* Typiquement, ce qui est dangereux : les batteries (risque d’incendie en cas de court‑circuit), les tensions supérieures à 50Vac ou 120Vdc (limite entre la Très Basse Tension et la Basse Tension selon la norme) (risque d’électrocution), les éléments chauffants (risque de brûlure ou d’incendie), les moteurs ou les vérins (risque de mutilation), les produits chimiques nécessaires à la fabrication (risque d’intoxication)…
 	
 	* Faire une liste des risques projets. Quels sont les inconnus à lever plus tard ?
 	
-	* Ensuite, il faut développer la solution en levant les ambiguïtés de la spécification. Il faut déméler l’implicite de l’explicite. Et il faut écrire ce qui est tacite.
+	* Ensuite, il faut développer la solution en levant les ambiguïtés de la spécification. Il faut démêler l’implicite de l’explicite. Et il faut écrire ce qui est tacite.
 	
-	* Justifier la pertinence de la spécification. Est‑ce qu’on répond de façon cohérente et efficacement au besoin ? (Dans les milieux professionel on va jusqu’à faire une étude marché ou à soumettre un prototype à un client potentiel.)
+	* Justifier la pertinence de la spécification. Est‑ce qu’on répond de façon cohérente et efficacement au besoin ? (Dans les milieux professionnel on va jusqu’à faire une étude marché ou à soumettre un prototype à un client potentiel.)
 	
 	* Justifier les choix technologiques
 	
@@ -310,9 +310,9 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 	
 	* Ensuite il faut organiser le schéma par catégorie de fonction et en fonction de la complexité. En page 2, il est conseiller de mettre les connecteurs qui vont vers le monde extérieur ainsi que les blocs hiérarchiques. Dans les pages suivantes, on a le contenu de ces blocs. Il est préférable de faire une page au moins par catégories de fonctions. 
 	
-	* Desiner le schéma.
+	* Dessiner le schéma.
 	
-	* Desiner le schematic part des composants manquants
+	* Desiner le symbole (schematic part) des composants manquants
 	
 	* Numéroter les composants (Référence topologique).
 	
@@ -320,11 +320,11 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 	
 	* Créer une basse de données de vos composants.
 	
-	* Définiser les variantes ou options.
+	* Définissez les variantes ou options.
 	
 	* Associer à chaque composant une empreinte physique.
 	
-	* Penser à la testabilité ou debug de la carte.
+	* Penser à la testabilité ou debeug de la carte.
 	
 	* Générer la nomenclature des composants.
 	
@@ -390,7 +390,7 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 	
 	* Correction des problèmes.
 	
-	* Faire la mise en flanc. Combien on fabrique de carte à la fois ? Quel est le sens de convoillage pour la soudure en refusion ou à la vague.
+	* Faire la mise en flanc. Combien on fabrique de carte à la fois ? Quel est le sens de convoyage pour la soudure en refusion ou à la vague.
 	
 	* Générer les fichiers de fabrication : .pos, .drl, .rpt, gerbers
 	
@@ -410,17 +410,17 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 	
 	* Pour les pro, vérifier les continuités des pistes avec un testeur type Takaya.
 	
-	* Brassure des composants.
+	* Brasure des composants.
 	
 	* Vérifier que tout est correctement soudé.
 	
-	* Pour les pro, vérifier les caractèristique des composant avec un testeur type Takaya.
+	* Pour les pro, vérifier les caractéristique des composant avec un testeur type Takaya.
 	
 	* Séparer les différentes cartes du flanc.
 	
 	
 5. __Vérification unitaire et mise au point__
-	* Fabriquer les outils de validation ou de débug.
+	* Fabriquer les outils de validation ou de débeug.
 	
 	* Vérifier les alimentations. Attention à la fumée et les surchauffe.
 	
@@ -428,20 +428,20 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 	
 	* Vérification rapide des fonctions pour avoir un aperçu du bon fonctionnement global.
 	
-	* Puis vérification détaillé de tous les blocs fonctionnnels.
+	* Puis vérification détaillé de tous les blocs fonctionnels.
 	
 	* Vérification de la bonne tenue des performances.
 	
 	* Vérification de la tenue en température min et max de toutes les fonctions. (Il faut avoir une étuve…)
 	
 	
-> _Les actions qui suivent n’on de sens que dans un cadre professionnel._
+> _Les actions qui suivent n’ont de sens que dans un cadre professionnel._
 > _Donc à vous de voir si vous voulez allez plus loin._
 > _Sinon aller directement à l’étape 7 bis._
 	
 	
 6. __QUALIFICATION__
-	* Pour le pro, pour une mise sur le marché, conformité aux standarts, aux normes et à la réglementation.
+	* Pour le pro, pour une mise sur le marché, conformité aux standards, aux normes et à la réglementation.
 	
 	* Tests aux perturbations conduites
 	
@@ -505,7 +505,7 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 	
 	* Faire un document qui explique très clairement comment on fait pour fabriquer l’objet étape par étape. L’utilisateur doit être capable de voir s’il est possible de faire des adaptations selon les moyens qu’il a à sa disposition.
 	
-	* Faire un dossier avec tous les logiciels à télécharger dans le ou les microcontrolleurs ou microprocesseur ou autre FPGA ou que sais‑je.
+	* Faire un dossier avec tous les logiciels à télécharger dans le ou les microcontrôleurs ou microprocesseur ou autre FPGA ou que sais‑je.
 	
 	* Faire un document qui explique étape par étape comment télécharger les logiciels et le cas échéant il faut faire les configuration ou les réglages.
 	
@@ -534,7 +534,7 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 
 ### Une Liste de Questions à se Poser
 
-La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhaustives, ni limitatives. À vous de vous faire votre propre opinion. Au cours de la conception, il y aura surement des sous‑tâches, qu’on ne peut pas prévoir à l’avance, qui vont apparaitre.
+La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhaustives, ni limitatives. À vous de vous faire votre propre opinion. Au cours de la conception, il y aura sûrement des sous‑tâches, qu’on ne peut pas prévoir à l’avance, qui vont apparaître.
 
 0. __CROQUIS DU DESIGN__
 
@@ -573,7 +573,7 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 
 ### Une Liste de Questions à se Poser
 
-La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhaustives, ni limitatives. À vous de vous faire votre propre opinion. Au cours de la conception, il y aura surement des sous‑tâches, qu’on ne peut pas prévoir à l’avance, qui vont apparaitre.
+La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhaustives, ni limitatives. À vous de vous faire votre propre opinion. Au cours de la conception, il y aura sûrement des sous‑tâches, qu’on ne peut pas prévoir à l’avance, qui vont apparaître.
 
 
 0. __IDÉE__
@@ -583,11 +583,11 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 1. __SPÉCIFICATION & ARCHITECTURE LOGICIEL__
 	* Il est fort risquer de partir dans le codage de but en blanc sans avoir réfléchi au préalable. Comme pour l’électronique, il faut ici interroger la spécification et expliciter l’implicite.
 	
-	* Construire une architecture des fichiers ou fonctions nécessaires et mettre en lumière leurs interractions. La méthode de modélisation UML ([Unified Modeling Language](https://fr.wikipedia.org/wiki/UML_(informatique)) peut être d’une aide précieuse.
+	* Construire une architecture des fichiers ou fonctions nécessaires et mettre en lumière leurs interactions. La méthode de modélisation UML ([Unified Modeling Language](https://fr.wikipedia.org/wiki/UML_(informatique)) ) peut être d’une aide précieuse.
 	
 	* Choisir le cœur numérique (MCU, CPU, FPGA ou autres) selon la nature du projet.
 	
-	* Définiser les outils de débeug dont vous aurez besoin.
+	* Définissez les outils de débeug dont vous aurez besoin.
 
 
 2. __CODAGE__
@@ -597,7 +597,7 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 	
 	* Préparer le terrain pour transférer ce premier code pour la vraie carte électronique.
 	
-	* Faire avec l’électronicien une revue des affectations au(x) cœur(s) numérique(s) pour mettre au clair les capaciter des micro.
+	* Faire avec l’électronicien une revue des affectations au(x) cœur(s) numérique(s) pour mettre au clair les capacités des micro.
 	
 	* Passer en revue les mémoires pour vérifier que l’électronique prend bien en compte les besoins logiciels.
 	
@@ -625,9 +625,9 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 	
 	* Pour les pro, faire une livraison d’une version de logiciel destinée à la qualification.
 	
-	* Prendre en compte les remarques et demandes des concepteurs ou des utilisateur. Et corriger les problèmes risiduels.
+	* Prendre en compte les remarques et demandes des concepteurs ou des utilisateur. Et corriger les problèmes résiduels.
 	
-	* Faire une nouvelle remise de master. Et réitaire, ce processus jusqu’à ce que l’on considère le résultat satisfaisant.
+	* Faire une nouvelle remise de master. Et réitère, ce processus jusqu’à ce que l’on considère le résultat satisfaisant.
 
 
 5. __DOCUMENTATION POUR LA COMMUNAUTÉ__
@@ -635,6 +635,6 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 	
 	* Faire un document qui permet à monsieur tout le monde de télécharger le logiciel dans l’objet.
 	
-	* Faire une procedure de réglage ou de configuration le cas échéant.
+	* Faire une procédure de réglage ou de configuration le cas échéant.
 	
 	* Donner un contact pour les questions et pour obtenir un retour sur la satisfaction de l’utilisateur.

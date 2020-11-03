@@ -24,7 +24,7 @@ https://ia801607.us.archive.org/35/items/LelectroniquePourLesNuls2eEditionFirst/
 "Arduino pour les nuls", par John Nussey. 2ème édition.
 http://www.multimedialab.be/doc/erg/2017-2018/Arduino/Arduino_pour_les_nuls_poche_2e_Edition_Mai_2017.pdf
 
-“Apprendre l’Électronique en Partant de Zéro”.  Une compilation du Cours “Électronique en Partant de Zéro” parus dans les numéros 1 à 79 de la revue ELECTRONIQUE et Loisirs magazine.
+“Apprendre l’Électronique en Partant de Zéro”.  Une compilation du Cours “Électronique en Partant de Zéro” parus dans les numéros 1 à 79 de la revue ÉLECTRONIQUE et Loisirs magazine.
 De l’auteur: Vous permettra de vous familiariser avec le sujet. En partant du courant électrique il vous entraînera à la découverte  des composants. Résistances, condensateurs, diodes, transistors, thyristors et autres n’auront plus de secret pour vous. Plusieurs chapitres consacrés à l’apprentissage de la soudure, l’utilisation du multimètre. L’aspect « radio » est également abordé avec une partie réservée aux ondes radio-électriques. Réalisation de montages simples d’alimentations, de récepteurs radio ou d’appareils de mesure. Disponibles seulement en .PDF
 Niveau 1: https://ia601306.us.archive.org/13/items/ApprendreLElectroniqueEnPartantDeZeroNiveau1Lecons01A28_201510/Apprendre%20l%27Electronique%20en%20Partant%20de%20Z%C3%A9ro%20-%20Niveau%201%20-%20Lecons_01%20%C3%A0%2028.pdf
 Niveau 2: https://archive.org/download/ApprendreLElectroniqueEnPartantDeZeroNiveau1Lecons01A28_201510/Apprendre%20l%27%20Electronique%20en%20Partant%20De%20Z%C3%A9ro%20-%20Niveau%202%20-%20Le%C3%A7ons%2029%20%C3%A0%2037.pdf
@@ -76,7 +76,7 @@ Oscillateur88: "Pour toute personne souhaitant trouve une source fiable, précis
 “Composants pour Télécoms” par François de Dieuleveult.
 Oscillateur88: "Il s'agit d'un livre qui présente les principales fonctions utilisées dans l'électronique des communications. Il coûte 60 euros et ratisse vraiment beaucoup de choses sur : Les amplificateurs, les oscillateurs, les mélangeurs, les modulateurs, les filtres, etc... C'est très orienté théorie et conception, l'auteur développe les concepts avec à chaque fois : une base physique et mathématiques solide suivie d'extraits de simulations sur le logiciel ADS. Le livre est très fourni et assez approfondi. Pour les pratiquants recherchant un ouvrage pouvant les aider à comprendre comment fonctionnent et sont conçus les composants de base."
 
-“Electronique Analogique Composants et Systèmes Complexes” de nombreux auteurs.
+“Électronique Analogique Composants et Systèmes Complexes” de nombreux auteurs.
 Oscillateur88: "Pour la somme de 50 euros le livre est un peu un équivalent au premier mais pour l'électronique analogique en général, c'est assez complet sans aller trop loin dans les détails : C'est les bases mais les bases solides !"
 
 "Radio Frequency Electronics, 2nd edition" par JB Hagen.
@@ -90,32 +90,32 @@ http://radars-darricau.fr/livre/1-Pages/page-0l.html
 
 ## VIDÉOS
 
-### Sélection de Chaine YouTube sur l’Électronique
+### Sélection de Chaîne YouTube sur l’Électronique
 
-* [Électro-Bidouilleur](https://www.youtube.com/channel/UCvv3bLR4Ws1GVycHG-t3dJw) : Vulgarisation de l’électronique fait par un concepteur pro, il est québéquois, mais c’est pas grave. Excellant, plus de 400 vidéos. Voir aussi son [site web](http://bidouilleur.ca/)
+* [Électro-Bidouilleur](https://www.youtube.com/channel/UCvv3bLR4Ws1GVycHG-t3dJw) : Vulgarisation de l’électronique fait par un concepteur pro, il est québécois, mais c’est pas grave. Excellant, plus de 400 vidéos. Voir aussi son [site web](http://bidouilleur.ca/)
 * [U=RI](https://www.youtube.com/channel/UCVqx3vXNghSqUcVg2nmegYA) : Vulgarisation de l’électronique
 * [Deus Ex Silicium ](https://www.youtube.com/user/dexsilicium) : Démontage et analyse d’appareil. Beaucoup de vidéo dédiée à la science des semi-conducteurs
 * [Heliox](https://www.youtube.com/c/HelioxLab) :
 
 
-### Sélection de Chaine YouTube sur la Meunuiserie
-* [Olivier Verdier](https://www.youtube.com/user/oliverte43) : Artisan Meunuisier
-* [Boris Beaulant](https://www.youtube.com/channel/UCMsUwOwHnbJPB9Eqgw49vhQ) :Ebéniste autodidacte, créateur du réseau social [L’air du Bois](https://www.lairdubois.fr/)
+### Sélection de Chaîne YouTube sur la Menuiserie
+* [Olivier Verdier](https://www.youtube.com/user/oliverte43) : Artisan Menuisier
+* [Boris Beaulant](https://www.youtube.com/channel/UCMsUwOwHnbJPB9Eqgw49vhQ) : Ébéniste autodidacte, créateur du réseau social [L’air du Bois](https://www.lairdubois.fr/)
 * [Samuel Mamias](https://www.youtube.com/channel/UC9fGq2-6FaftcegcIadLf6A) :
 
 
-### Sélection de Chaine YouTube sur les Makers Multidiscipline
+### Sélection de Chaîne YouTube sur les Makers Multi‑discipline
 * [MrBidouille](https://www.youtube.com/user/monsieurbidouille) :
 * [La Grotte du Barbu](https://www.youtube.com/user/TravailleursDuWeb) :
 * [Maker Faire France](https://www.youtube.com/channel/UCtjPHiUM41RcPzdBrN7TEzQ/videos) :
-* [LJVS](https://www.youtube.com/channel/UCxiqy-VOYw6uBE4raFCz4Ow) : Artisan multicompétance
+* [LJVS](https://www.youtube.com/channel/UCxiqy-VOYw6uBE4raFCz4Ow) : Artisan multi‑compétance
 * [Nikof Maker](https://www.youtube.com/channel/UC7NjYALQQxuSlQvRFRqt5pA) :
 
 
 ### Autour de la Culture Libre
 * [Free Software Fundation](https://www.fsf.org/)
-* [CERN Open Harware Licence](https://ohwr.org/project/cernohl/wikis/home)
-* [Comparaison Licence Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences)
+* [CERN Open Hardware Licence](https://ohwr.org/project/cernohl/wikis/home)
+* [Comparaison Licence Wikipédia](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences)
 * [Comparaison Licence Freedom Defined](https://freedomdefined.org/Licenses)
 * [FramaSoft](https://framasoft.fr/fr/)
 * [How to contribute](https://opensource.guide/how-to-contribute/)
@@ -125,7 +125,7 @@ http://radars-darricau.fr/livre/1-Pages/page-0l.html
 ### Plateforme Makers
 * [Intructables](https://www.instructables.com/)
 * [Intructables Électronique](https://www.instructables.com/circuits/)
-* [Open Harware IO](https://www.openhardware.io/)
+* [Open Hardware IO](https://www.openhardware.io/)
 * [Hackaday](https://hackaday.io/projects)
 
 
