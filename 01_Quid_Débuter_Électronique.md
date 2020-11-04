@@ -8,7 +8,7 @@
 Ce document est un petit guide pour celui qui souhaite découvrir l’électronique (et ce qui tourne autour).
 Il n’a pas vocation à être parfaitement pédagogique, ni exhaustif.
 Mais il donne une idée de l’investissement en temps et en argent nécessaire.
-Et ceci pour vous permettre de voir si vous êtes prêt à allez plus loin. (On va pas vous mentir l’électronique est une discipline difficile et chronophage)
+Et ceci pour vous permettre de voir si vous êtes prêt à aller plus loin. (On ne va pas vous mentir l’électronique est une discipline difficile et chronophage)
 
 Et si d’aventure vous êtes motivé, cela vous aide à construire votre boite à outil.
 On donne une indication approximative du prix ou sinon la disponibilité au fablab [Artilect](https://artilect.fr/).
@@ -36,7 +36,7 @@ Des exemples de projet pour motiver.
 	- QElectroTech, électricité domestique
 	- Fritzing, routage sur carte de test (type breadboard)
 
-__«L’électronique a deux super potes dans sa bande : la programmation et la mécanique.»__
+__« L’électronique a deux super potes dans sa bande : la programmation et la mécanique. »__
 
 * Logiciels pour la Programmation :
 Il y a une grande diversité dans ce domaine. À vous de vous faire votre propre opinion.
@@ -47,7 +47,7 @@ Il y a une grande diversité dans ce domaine. À vous de vous faire votre propre
 
 * Langages de programmation recommandés pour le bas niveau (code directement en interaction avec l’électronique)
 	- C, le langage de référence en bas niveau
-	- C++, le complément «orienté objet» du C. Il est notamment utilisé pour les bibliothèques Arduino
+	- C++, le complément « orienté objet » du C. Il est notamment utilisé pour les bibliothèques Arduino
 	- Python, un langage de script à l’origine, ce langage a connu une popularité dans plein de domaines y compris en bas niveau avec son extension Micro‑Python.
 	- GIT, pour le partage des sources et la gestion des versions
 
@@ -100,7 +100,7 @@ Vous êtes motivé, vous souhaitez commencer à mettre les mains dans le camboui
 * Multimètre entrée de gamme (40€ à 60€)
 * Un bloc d’alimentation secteur
 * Fer à souder entrée de gamme (Dispo au FabLab)
-* Outillage à main divers: pince coupante, pince plate, jeux de tournevis…
+* Outillage à main divers : pince coupante, pince plate, jeux de tournevis…
 * Carte de développement : Arduino ou Rapsberry Pi ou autres…
 * Composants de base selon le premier petit projet pédagogique (Résistance, LED, condensateur, fil, diodes, transistor…)
 
@@ -116,11 +116,11 @@ Où se procurer du matos :
 * Amazon
 * …
 
-__Conseil : Pratiquer régulièrement. N’aillez pas peur de bidouiller et poser des questions.__
+__Conseil : Pratiquer régulièrement. N’ayez pas peur de bidouiller et poser des questions.__
 
 
 ## Niveau 2 ; Prix = 100€ à 300€
-La passion commence à vous gagner, alors plus de matos générals pour étoffer la caisse à outil.
+La passion commence à vous gagner, alors plus de matos général pour étoffer la caisse à outil.
 
 * Un espace bureau adapté avec de quoi ranger le matos. (Quand on commence à bricoler il faut de la place…)
 * Pince à dénuder
@@ -166,7 +166,7 @@ Où faire fabriquer vos circuits à prix raisonnable ?
 * https://jlcpcb.com/ : Le moins chers mais limiter à 6 couches. Et on est très limité sur l’empilage.
 * https://www.pcbway.com/ : Plus de configuration possible, mais nettement plus chers.
 * https://www.eurocircuits.com/blog/the-history-of-order-pooling/ : Fabriquant européen, service industriel plus facile, mais nettement plus chers.
-* Sinon aller dans un fablab qui propose une CNC spécialisée pour les PCB (Printed Circuit Board). Attention limité à 2 couches.
+* Sinon aller dans un fablab qui propose une CNC spécialisée pour les PCB (Printed Circuit Board). Attention, limité à 2 couches.
 * Sinon méthode traditionnelle de prototypage : plaque à trous, gravure au perchlorure de fer.
 
 __Conseil : Réaliser vos rêves.__
@@ -179,7 +179,7 @@ Vous êtes définitivement un super geek de la mort.
 * Imprimante 3D (Dispo au FabLab)
 * Découpe laser (Dispo au FabLab)
 * Fraiseuse numérique (Dispo au FabLab)
-* Four à composant CMS
+* Four à refusion pour composants CMS miniatures
 * Machine pick and place
 * Analyseur de spectre
 * Analyseur vectoriel de réseaux
@@ -188,7 +188,7 @@ __Conseil : Faite de votre passion un métier.__
 
 
 ## Niveau +++
-Vers l’infini et au delà.
+Vers l’infini et au‑delà.
 
 __Conseil : Il ne reste plus qu’à monter votre boîte…     ;-)__
 
