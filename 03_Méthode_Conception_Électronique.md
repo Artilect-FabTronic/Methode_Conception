@@ -18,7 +18,11 @@ Ce document est à destination du public des _fablabs_, du _mouvement Maker_ et 
 
 À n’en pas douter il existe des logiciels propriétaires bien plus puissants que ceux que je propose ici. Mais la liberté n’est pas une question de performance. La liberté est d’ailleurs une performance en soit par les temps qui court. C’est une question d’écosystème, une question de partage avec votre communauté. Comme le dit si bien Richard Stallman (fondateur de la Free Software Fondation, cocréateur de GNU/Linux, entre autres choses), et il le dit en français dans le texte : _«Je peux résumer ce qu’est le logiciel libre en 3 mots : liberté, égalité, fraternité.»_
 
-Le défit du matériel libre.
+Et pourquoi un tel ouvrage ? Il m’est apparût que le matériel libre (ou objet libre) est beaucoup moins développé que le logiciel libre. Et à n’en pas douter il y a des raisons à cela assez simples. Les objets libres représentent un défit plus grand encore que le logiciel libre pour les communautés libristes internationales. En effet, il y a d’abord le prix, si le logiciel libre peut donner l’illusion de la gratuité pour l’utilisateur ; avec un objet libre, il devient évidant que ça ne peut aucunement être gratuit. Sans oublier que la fabrication de n’est pas évidente car il faut être équiper en outils et il faut se forger du savoir, développer ses facultés manuelles.
+
+Il y a aussi la difficulté, car un objet libre moderne et complet, c’est au moins trois disciplines, au logiciel, s’ajoute l’électronique et la mécanique. Et cela pose un défi collaboratif et organisationnel important. Car peu de gens sont suffisamment forts pour avoir un bon niveau de maîtrise dans ces 3 disciplines. Quand il n’y en a que 3… Il faut aller chercher les compétences nécessaires chez d’autres personnes et les motivés à travailler sur le projet. Motiver est une difficulté loin d’être négligeable.
+
+Ainsi, ce manuel est aussi une modeste contribution pour favoriser une bonne organisation des projets objets libres et pour favoriser une bonne structuration de leurs dossiers d’étude associés. D’autant que je n’ai pas trouvé de sur le net de site qui explique comment concevoir concrètement un objet. Le peu que j’ai trouvé reste sur des grands principes qui ne sont pas forcément d’un grand renfort pour l’exercice réel. Ou bien au contraire pour un projet donné, la personne dit j’ai fait donne ça. Avec parfois une grande précision, certe, mais il ne se dégage jamais une vue d’ensemble sur une méthodologie.
 
 
 ------------------------------------------------------------------------
@@ -58,7 +62,7 @@ Aussi, il subsiste dans l’acte de création quelque chose de mystérieux. Quel
 Une idée n’est rien, seule compte sa réalisation tangible. Le signe quasi certain qu’une idée est bonne, est qu’elle ne vous lâche pas, qu’elle vous hante continuellement. Mais le signe absolument certain qu’une idée est bonne, est qu’elle fonctionne réellement et que les gens l’utilisent.
 
 
-### Concevoir un produit complet moderne, c’est mélanger plusieurs disciplines
+### Concevoir un produit complet et moderne, c’est mélanger plusieurs disciplines
 
 Un objet électronique complet moderne est toujours constituer d’au moins 3 disciplines : Électronique, Mécanique (au sens large) et Programmation.
 
@@ -81,14 +85,21 @@ Les fablabs, les makerspaces ou les hackerspaces ou peu importe comment on les a
 
 ### Doit‑on Concevoir Seul ou à Plusieurs ?
 
-{Brouillon}
-À vous de voir. Il ne faut faire selon les envies.
-Il faut pas que ce soit une contrainte invivable.
+Comme je le disais en introduction, les objets libres sont un défi organisationnels. Aussi, sur un projet d’envergure, il serait complétement fou de rester seul. D’un autre côté, si on se lance dans la conception d’un objet libre, c’est peut‑être aussi pour trouver de la liberté. Pour trouver enfin la liberté de laisser libre court à sa créativité. Il n’est pas si courant de pouvoir exprimer sa créativité dans le monde du travail salarié. Hors, être à plusieurs peu de faite restrindre à nouveau notre liberté.
 
-C’est plus difficile, car ça demande forcément plus d’organisation.
-Attention à bien se répartir les tâches pour éviter la zizanie.
-Attention il existe une dimension maximum à partir de laquelle ça ne fonctionne plus.
-{/Brouillon}
+Il y a donc là, un jeu de subtile équilibre entre l’ambition du projet, préserver la créativité de chacun et rester cohérent pour avancer. Je n’ai pas de recette magique pour trouver cet équilibre. Je crois qu’il faut agir selon ces envies, faire confiance à son instinct. Il ne faut pas que travailler à plusieurs soit une contrainte invivable. Les disputes, la zizanie  est la première cause d’échec dans un projet.
+
+Si vous souhaitez rester seul ou que vous ne parvenez pas à emmener avec vous des gens dans votre projet. Il sera peu être raisonnable de revoir vos ambitions à la baisse. L’important est toujours d’avancer et de se faire plaisir. Ça n’empêche pas que vous pouvez trouver des personnes en cours de route. D’une part, quand le projet commence à prendre forme, c’est plus facile d’expliquer le projet et de motiver les autres à vous rejoindre. Mais d’un autre côté, en avancant le projet on fige les paradigmes initiaux du projet. Ce qui peut‑être une difficulté pour ceux qui rentre dans le projet, car il risque de ne pas trouver leur compte au niveau liberté d’action et créativité. Il faut quasiment que les gens « tombent amoureux » du projet pour qu’ils acceptent de travailler gratuitement, et travailler sur le long terme, sur un projet communautaire. La perle rare quoi… 
+
+C’est pourquoi la création d’une entreprise peut résoudre bien des problèmes au niveau du recrutement. Si toutefois, on en a l’ambition et qu’on pense pouvoir trouver une rentabilité avec le projet. Car être rémunérer pour travailler sur un projet passionnant devient acceptable pour beaucoup de gens. Quitte à revoir un peu à la baisse ses ambitions sur le plan de la créativité. En effet en france, des sondages (je vous laisse faire des recherches) montrent que 30% des gens détestent leur travail et que seulement 9% des gens déclarent adorer leur travail. Voilà qui laisse à réfléchir sur les conditions de vie des salariés et de leur épanouïsement au travail…
+
+Il me semble important d’insister sur un point. Il y a toujours une part d’intimité dans la créativité qui fait qu’un travail est pas ou peu partageable dans le sens du développement collaboratif. Et cela tient à la nature de l’activité. En effet, vous êtes vous déjà demandé pourquoi un roman n’est jamais écrit à plus de 1 auteur ? Cela tient précisément au degré d’intimité de l’exercice de l’écriture. Devoir discuter du choix de chaque mot et de chaque adjectif à plusieurs et ceci sur 300 pages. C’est mission impossible. Avec une telle contrainte de devoir écrire un roman à deux, même les gens plus calmes s’engueulent au bout de 2 jours.
+
+C’est pourquoi dans les milieux artistiques, la créativité collective n’est pas si utilisé que cela. Dans un orchestre symphonique, il y a toujours un seul chef d’orchestre, jamais deux. De même, en dance, il y a un seul chorégraphe. Au théatre, il y a un seul metteur en scène. En BD, il y a soit un auteur qui fait tout, soit un dessinateur et un scénariste, avec éventuellement un coloriste. Mais les rôles sont bien répartis. Au cinéma, il peut y avoir une très grosse équipe, toujours bien hiérarchisée, mais il y a toujours un seul réalisateur, avec éventuellement un seul auteur qui travaille en étroite collaboration pour l’adaptation. Voilà pour moi, la raison profonde du piètre scénario de la troisième trilogie Star Wars… 
+
+C’est pourquoi, je pense qu’il existe toujours, et selon le type de discipline, même les disciplines techniques ou il y a moins d’affect à priori, une dimension maximum de l’équipe à partir de laquelle ça ne fonctionne plus. À partir de laquelle le rendement s’écroule dramatiquement. C’est pourquoi, il est important de bien répartir les rôles pour que les gens de se marche pas dessus. Et c’est pourquoi, les organisations hiérarchisés sont si courantes. Cela me semble être une vérité anthropologique. Une limitation humaine à l’origine de bien des maux. Mais je voudrais pas me perdre dans trop de philosophie ici…
+
+Quoi qu’il en soit vous êtes les seules à pouvoir choisir comment manager (pour employer un mot barbare) un projet. Personne ne peut faire les choix fondamentaux à votre place. Mais garder à l’esprit qu’il est très important de faire ces choix.
 
 
 ------------------------------------------------------------------
@@ -101,7 +112,7 @@ Concevoir une carte électronique peut‑être un long travail. Surtout si on ve
 
 Une mauvaise organisation est une des premières causes d’échec d’un projet. Il est d’autant plus difficile de s’organiser que l’on travaille à plusieurs. C’est pourquoi même dans l’industrie les équipes de développement, pour un projet donné, sont relativement petites, rarement plus de 12. C’était d’ailleurs le chiffre que refuser de dépasser Steve Jobs. Même pour un produit aussi complexe que l’iPhone !
 
-Quand on travaille à plusieurs il est très important de bien définir le rôle de chacun. Être à deux sur le même stylo est la première cause d’engueulade dans un groupe et la première cause de l’échec du projet.
+Quand on travaille à plusieurs, il est très important de bien définir le rôle de chacun. Être à deux sur le même stylo est la première cause d’engueulade dans un groupe et la première cause de l’échec du projet.
 
 Dans l’industrie, il existe de nombreux outils pour manager un projet : Mantis, Jira, ERP, Kanban, Management des exigences, Doors, ReqTify, planning, diagramme de Gantt, Réunions, Reporting, Revu de conception, Revu des coût, Cycle de développement en V, processus qualité… Trop de rigueur tue le désir, faire un projet en mode hobbyste doit rester un plaisir.
 
@@ -112,13 +123,13 @@ Pour un projet hobbyste, je recommanderai la plus grande simplicité possible. U
 
 Avoir un dossier projet bien rangé pour pourrait sembler être futile ou pourrait nous faire passer pour des maniaques. Mais en fait, bien ranger le dossier, c’est aussi organiser sa méthode de travail, structurer les taches à faire, une liste de tâche sans date qui ne dit pas son nom.
 
-Combien de fois, je suis tombé sur des projets sur GitHub ou GitLab, sans comprendre comment fonctionne leur source. Quoi est où ? etc… Bien structurer le dossier D’étude, c’est aussi permettre à d’autre personne de devenir des contributeurs du projet plus facilement.
+Combien de fois, je suis tombé sur des projets sur GitHub ou GitLab, sans comprendre comment fonctionne leur source. Quoi est où ? etc… Bien structurer le dossier D’étude, c’est aussi permettre à d’autres personnes de devenir des contributeurs du projet plus facilement.
 
-C’est pourquoi, il m’est parût pertinent de proposer une manière de ranger un projet. Je pense qu’une bonne façon de ci‑prendre et de s’organiser par métier, puis par type d’actions fondamentales dans le deuxième niveau hiérarchique.
+C’est pourquoi, il m’est parût pertinent de proposer une manière de ranger un projet. Je pense qu’une bonne façon de s’y prendre et de s’organiser par métier, puis par type d’actions fondamentales dans le deuxième niveau hiérarchique.
 
-Dans le dossier « Template_Dossier_Projet », je propose non pas un dossier template, deux dossiers templates (format 7zip). Le premier appelé «version débutant» et le second appelé « version rigueur ». Pourquoi ? Car je pense, comme je l’ai précisé en introduction, qu’une méthode de travail, c’est quelque chose qui se construit dans le temps. Que ça ne sert à rien d’imposer d’emblée trop de complexité. Ces deux versions sont comme les deux points d’une trajectoire. Ainsi un débutant pourra commencer tranquillement par la « version débutant » ; puis au fur et à mesure que les choses apparaissent, il pourra aller chercher dans la version rigueur les éléments dont il a besoin. On comprend mieux les choses par l’expérimentation que par un cours magistral abstrait.
+Dans le dossier « Template_Dossier_Projet », je propose non pas un dossier template, mais deux dossiers templates. Le premier appelé «version débutant» et le second appelé « version rigueur ». Pourquoi ? Car je pense, comme je l’ai précisé en introduction, qu’une méthode de travail, c’est quelque chose qui se construit dans le temps. Que ça ne sert à rien d’imposer d’emblée trop de complexité. Ces deux versions sont comme les deux points d’une trajectoire. Ainsi un débutant pourra commencer tranquillement par la « version débutant » ; puis au fur et à mesure que les choses apparaissent, il pourra aller chercher dans la version rigueur les éléments dont il a besoin. On comprend mieux les choses par l’expérimentation que par un cours magistral abstrait.
 
-Dans la version rigueur, vous trouverez aussi des fichiers templates pour différente chose, comme par exemple une base de données pour les composants, ou un fichier pour faire une BOM (Bill of Material = nomenclature composant). Et plein d’autres choses utiles.
+Dans la version rigueur, vous trouverez aussi des fichiers templates pour différente chose, comme par exemple une base de données pour les composants, ou un fichier pour faire une BOM (Bill of Material = nomenclature composant), une spécification template. Et plein d’autres choses utiles.
 
 Les deux versions ont les dossier suivants en tête, voici à quoi ils servent :
 
@@ -189,22 +200,22 @@ Bien tout cela semble parfaitement logique. Et il l’est dans les grandes ligne
 L’image ci‑dessus décrit un cycle en V tel que typiquement réalisé dans la vie réelle pour un concepteur électronique. On commence bien
 par une spécification, mais très rapidement vient se positionner en parallèle l’action de justification, puis peu de temps après se positionne l’action d’écriture du schéma. Et il est fortement recommandé de faire beaucoup d’itérations entre ces 3 éléments (Spéc / Justif / Schéma) pour converger efficacement vers une solution. Plus on prend le temps de bien se poser toutes les questions pour ces 3 éléments, et moins on aura d’erreurs au moment des vérifications, validations et qualifications. Et il faut garder en tête que ces erreurs peuvent vous coûtez chers. Pas seulement en argent, mais aussi en temps. Par exemple, si on se rend compte que l’architecture du produit ne permet pas le répondre au besoin, c’est la catastrophe. Il faut tout recommencer. Et ça peut‑être 6 mois ou 1 an de perdue.
 
-Il y a ensuite un biseau entre schéma et routage. Dans l’industrie, le routage est souvent réalisé par une équipe spécialisée. Il faut alors réaliser une spécification de routage en bonne intelligence entre les deux équipes. Il n’est pas complètement impossible de trouver des erreurs sur le schéma à cette étape. Et on peut aussi laisser des degrés de liberté au routeur pour faciliter le routage. Par exemple, inversion de pin sur des fonctions équivalentes.
+Il y a ensuite un biseau entre schéma et routage. Dans l’industrie, le routage est souvent réalisé par une équipe spécialisée. Il faut alors réaliser une spécification de routage en bonne intelligence entre les deux équipes. Il n’est pas complètement impossible de trouver des erreurs sur le schéma à cette étape. Et on peut aussi laisser des degrés de liberté au routeur pour faciliter le routage. Par exemple, inversion de pins sur des fonctions équivalentes.
 
 Mais sur des fonctions complexes le biseau schéma / routage peut aller plus loin. En effet, pour concevoir une fonction RF (radiofréquence), il faut carrément réaliser parallèlement, simulation (donc justification), schéma et routage. Car dans le domaine radio, un bout de piste devient équivalent à un composant à part entière, avec par exemple une impédance ou un couplage particulier.
 
 
 #### Adaptation pour un Hobbyste
 
-Alors comment faire pour un hobbyste ? Ayez confiance en vous. Ne vous laissez pas impressionné par toutes ces étapes. Gardez votre bon sens à chaque instant. Éliminez toutes les actions qui n’ont de sens que dans un cadre professionnel rigoureux. Soyez au clair avec vos ambitions. Ne vous laissez pas embarquer dans un planning trop précis. Les plannings sont des tue‑l’amour. Du reste, ils ne marchent jamais (même dans le cadre professionnel !). Laissez‑vous guider par vos envies. Concevoir doit rester un plaisir.
+Alors comment faire pour un hobbyste ? Ayez confiance en vous. Ne vous laissez pas impressionné par toutes ces étapes. Gardez votre bon sens à chaque instant. Éliminez toutes les actions qui n’ont de sens que dans un cadre professionnel rigoureux. Soyez au clair avec vos ambitions. Ne vous laissez pas embarquer dans un planning trop précis. Les plannings sont des tue‑l’amour. Du reste, ils ne marchent jamais (même dans le cadre professionnel !). Laissez‑vous guider par vos envies. Concevoir doit rester un plaisir. (Sans jeu de mot graveleux, bande de petits coquins…)
 
 Le processus de développement est également simplifié, et peut ressembler à ceci :
 
 ![Diagramme de Gantt simplié pour les hobbystes](images/Gantt_Typique_Hobbyste.png)
 
-En revanche, et c’est là toute la difficulté, il faut sélectionner les actions essentielles qui vous permettrons d’arriver à bon port. Je vous propose dans les chapitres suivants les actions qui me semble les plus importantes. Mais comme je le disais en introduction, il vous faut faire des choix en fonction de votre niveau et de vos ambitions. La méthode que je propose ici est (je l’espère) conçu pour que vous ajustiez par vous‑même votre méthode de travail progressivement à mesure des expériences. Mais soyez bien conscient que personne ne peut placer le curseur entre rigueur et réalisme à votre place. Vous devez rester maître de votre propre méthode de travail.
+En revanche, et c’est là toute la difficulté, il faut sélectionner les actions essentielles qui vous permettrons d’arriver à bon port. Je vous propose dans les chapitres suivants les actions qui me semble les plus importantes. Mais comme je le disais en introduction, il vous faut faire des choix en fonction de votre niveau et de vos ambitions. La méthode que je propose ici est (je l’espère) conçu pour que vous ajustiez par vous‑même votre méthode de travail progressivement à mesure des expériences. Mais, soyez bien conscient que personne ne peut placer le curseur entre rigueur et réalisme à votre place. Vous devez rester maître de votre propre méthode de travail.
 
-Ne vous mettez pas la pression. Après tout, ne pas arriver tout à fait au bout n’est peut‑être pas si grave, si votre but et simplement d’apprendre. Et à n’en pas douter, vous ferez mieux la prochaine fois.
+Ne vous mettez pas la pression. Après tout, ne pas arriver tout à fait au bout n’est peut‑être pas si grave, si votre but et simplement d’apprendre. Et à n’en pas douter, vous ferez mieux la prochaine fois. Apprendre est déjà en soi une noble ambition.
 
 
 ------------------------------------------------------------------------
@@ -218,11 +229,11 @@ POC, MVP, modèle A, modèle B, C‑model, Ramp‑up model, prototypage (rapide 
 
 ### Critique de la définition de l’OMC
 
-L’OMC (Organisation Mondial du Commerce) a donné une définition de ce qu’est un prototype à des fins de promouvoir l’innovation. (Non mais de quoi je me mêle, Est ce que je me permets de leur expliquer ce que c’est une loi…). La voici :
+L’OMC (Organisation Mondial du Commerce) a donné une définition de ce qu’est un prototype à des fins de promouvoir l’innovation. ( Non mais de quoi je me mêle, Est ce que je me permets de leur expliquer ce que c’est une loi… ) La voici :
 
 > « Un prototype est un modèle original qui possède toutes les qualités techniques et toutes les caractéristiques de fonctionnement du nouveau produit. » (…) (OCDE, 1993, alinéa 115, p. 46).
 
-Voyez‑vous le problème ? Ils sont en train de dire que le prototype a déjà toutes les qualités d’un produit fini. Ils veulent la charrue avant les bœufs. Hors un prototype ce n’est précisément pas cela.
+Voyez‑vous le problème ? Ils sont en train de dire que le prototype a déjà toutes les qualités d’un produit fini. Ils veulent la charrue avant les bœufs. Hors un prototype ce n’est précisément pas cela. Et je regrette que Wikipédia propage cette définition.
 
 
 ### Étymologie du mot Prototype
@@ -243,7 +254,7 @@ Voyez‑vous le problème ? Ils sont en train de dire que le prototype a déjà 
 2. SCHÉMA
 3. ROUTAGE
 4. FABRICATION DU PROTOTYPE
-5. MISE AU POINT
+5. MISE AU POINT<br>
 → _Réitération des étapes 1 à 5 jusqu’à ce que tout soit OK._ ↺
 6. DOCUMENTATION POUR LA COMMUNAUTÉ
 
@@ -529,7 +540,7 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 1. PLAN 3D
 2. PROJECTION DES PLANS EN 2D
 3. FABRICATION DU PROTOTYPE
-4. MISE AU POINT
+4. MISE AU POINT<br>
 → _Réitération des étapes 1 à 4 jusqu’à ce que tout soit OK._ ↺
 5. DOCUMENTATION POUR LA COMMUNAUTÉ
 
@@ -541,21 +552,66 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhaustives, ni limitatives. À vous de vous faire votre propre opinion. Au cours de la conception, il y aura sûrement des sous‑tâches, qu’on ne peut pas prévoir à l’avance, qui vont apparaître.
 
 0. __CROQUIS DU DESIGN__
+	* Faire des croquis pour travailler, donner une première forme à ce que vous imaginez. Il n’est pas nécessaire d’être un grand artiste pour ça. L’important c’est de faire naître l’idée.
+	
+	* On peut confirmer les choses avec des dessins technique en 2D ou 3D à la main. À la main, pour garder en vitesse, l’idée n’est pas de faire un plan super propre, mais de confirmer la faisabilité.
+	
+	* Le dessin reste une chose très utilisée par les designeurs d’objet professionnel. Parfois, ils vont jusqu’à faire des maquettes (même dégeu avec du carton, de la patte à modeler ou avec des légos®). C’est plus parlant qu’un dessin si on veut mettre les choses en situation.
 
 
 1. __PLAN 3D__
+	* Il faut transposer ce que vous avez imaginé dans un dessin plus formaté par le logiciel FreeCAD. Ce qui oblige à être concret.
+	
+	* Identifier les différentes pièces mécaniques qui seront nécessaires.
+	
+	* Choisir les différents matériaux que vous voulez utilisés.
+	
+	* Comment on ferra pour assembler les pièces : vis, clips, collage, etc ?
+	
+	* Il faut dessiner en gardant en tête quels seront les moyens de fabrication que vous aurez à votre disposition.
 
 
 2. __PROJECTION DES PLANS EN 2D__
-
+	* Faire ce qu’on appel une projection en 2D permet de créer les plans qui seront nécessaire à la fabrication.
+	
+	* Faire les fichiers nécessaires à la fabrication comme le Gcode pour la CNC ou l’imprimante 3D.
+	
+	* Faire un plan dxf pour importer les dimensions de la boîte et les différentes contrainte dans l’outil de CAO électrique KiCAD.
 
 3. __FABRICATION DU PROTOTYPE__
+	* Vérifier que tous les fichiers de fabrication ont bien été générés.
+	
+	* Assurez‑vous que vous avez tous les matériaux, composants et consammables nécessaires.
+	
+	* S’il y a des manquants demandez‑vous ce qui peut être fait malgré tout en attendant.
+	
+	* Organiser votre plan de travail avant de commencer. Il faut avoir les outils à disposition au bon moment.
+	
+	* Noter toutes les étapes de fabrication au moment où vous le faite pour ne rien oublier.
+	
+	* La mécanique étant terminé assembler l’électronique à l’intérieur.
 
 
 4. __MISE AU POINT__
+	* Vérifier que le montage de la carte électronique est correct. Toutes les vis sont OK. Les connecteurs sont accessibles.
+	
+	* Noter au fur et à mesure les défauts ou les voix d’amélioration.
+	
+	* S’il s’agit d’un objet articulé, vérifier que le mouvement est correct.
+	
+	* Vérifier les différentes contraintes environnementales.
 
 
 5. __DOCUMENTATION POUR LA COMMUNAUTÉ__
+	* Il s’agit de faire une documentation qui explique comment fonctionne l’objet et les sources de l’objet pour pouvoir garantir une maintenance des problèmes constatés.
+	
+	* Faire un document qui permet à «monsieur‑tout‑le‑monde» de fabriquer l’objet.
+	
+	* Faire une procédure de réglage le cas échéant.
+	
+	* Éventuellement, expliquer comment configurer l’objet ?
+	
+	* Donner un contact pour les questions et pour obtenir un retour sur la satisfaction de l’utilisateur.
 
 
 ------------------------------------------------------------------------
@@ -568,7 +624,7 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 1. SPÉCIFICATION & ARCHITECTURE LOGICIEL
 2. CODAGE
 3. DÉBEUG
-4. VALIDATION FONCTIONNELLE
+4. VALIDATION FONCTIONNELLE<br>
 → _Réitération des étapes 1 à 4 jusqu’à ce que tout soit OK._ ↺
 5. DOCUMENTATION POUR LA COMMUNAUTÉ
 
@@ -610,6 +666,8 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 	* Vérifier que l’électronique met bien en œuvre l’accès aux pins de téléchargement et de débeug.
 	
 	* Lancer vous, pour de bon cette fois‑ci, dans le codage à proprement parler.
+	
+	* Ne pas oublier de bien commenter le code. Il faut penser à la maintenance du logiciel et à la possibilité de faire entrer des contributeurs dans le projet.
 
 
 3. __DÉBEUG__
@@ -617,7 +675,7 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 	
 	* Mettre en place les outils qui permettront de faire des téléchargements régulièrement. Car il y aura une itération très intensive entre codage et débeug.
 	
-	* Noter les fonctions essentielles dont l’électronicien à besoin pour faire la vérification unitaire et la mise au point. Électronicien et Codeur doivent travailler en bonne intelligence. C’est un point clé pour la bonne conduite du projet.
+	* Noter les fonctions essentielles dont l’électronicien à besoin pour faire la vérification unitaire et la mise au point. Électronicien et codeur doivent travailler en bonne intelligence. C’est un point clé pour la bonne conduite du projet.
 
 
 4. __VALIDATION FONCTIONNELLE__
@@ -625,7 +683,7 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 	
 	* Faire les corrections nécessaires
 	
-	* Faire une livraison de master. Il s’agit de figer une version majeure du logiciel en vue de fixer la solution final du produit.
+	* Faire une livraison de master. Il s’agit de figer une version majeure du logiciel en vue de fixer la solution finale du produit.
 	
 	* Pour les pro, faire une livraison d’une version de logiciel destinée à la qualification.
 	
