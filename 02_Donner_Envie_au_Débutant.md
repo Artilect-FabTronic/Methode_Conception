@@ -2,10 +2,10 @@
 > Auteur initiale : Lilian Tribouilloy<br>
 > Licence : Creative Commonces BY NC SA<br>
 
-# De quoi a‑t‑on besoin pour débuter l’électronique ?
+# Donner Envie au Débutant
 
-## Introduction
-Ce document est un petit guide pour celui qui souhaite découvrir l’électronique (et ce qui tourne autour).
+## De quoi a‑t‑on besoin pour débuter l’électronique ?
+Ce chapitre est un petit guide pour celui qui souhaite découvrir l’électronique (et ce qui tourne autour).
 Il n’a pas vocation à être parfaitement pédagogique, ni exhaustif.
 Mais il donne une idée de l’investissement en temps et en argent nécessaire.
 Et ceci pour vous permettre de voir si vous êtes prêt à aller plus loin. (On ne va pas vous mentir l’électronique est une discipline difficile et chronophage)
@@ -14,16 +14,20 @@ Et si d’aventure vous êtes motivé, cela vous aide à construire votre boite 
 On donne une indication approximative du prix ou sinon la disponibilité au fablab [Artilect](https://artilect.fr/).
 
 
-## Préalable indispensable
+## Les Marges de Progression
+
+### Préalable indispensable
 Le minimum que nous impose la modernité de notre société si on veut accéder à des informations et des outils à moindre coût.
 
 * Ordinateur
 * Connexion internet
 
-L’adhésion à un fablab peut être un soutien fort appréciable pour le soutien communautaire et pour le prêt ou la location d’outillage.
+Mais si vous êtes arrivé ici, c’est que selon tous vraisemblance vous disposez déjà de cela.
+
+L’adhésion à un fablab, makerspace, hackerspace ou autres types de club de bricolage peut être un soutien fort appréciable pour le soutien communautaire et pour le prêt ou la location d’outillage.
 
 
-## Niveau 0 ; Prix = 0€
+### Niveau 0 ; Prix = 0€
 Pour goûter sans dépenser.
 Que du logiciels libre, gratuit et disponible sur tous les OS.
 Des sources d’information pédagogique.
@@ -94,7 +98,7 @@ Ce qui peut être nécessaire en complément dans certain cas.
 __Conseil : La curiosité n’a jamais été un défaut.__
 
 
-## Niveau 1 ; Prix = 100€ à 300€
+### Niveau 1 ; Prix = 100€ à 300€
 Vous êtes motivé, vous souhaitez commencer à mettre les mains dans le cambouis.
 
 * Multimètre entrée de gamme (40€ à 60€)
@@ -119,7 +123,7 @@ Où se procurer du matos :
 __Conseil : Pratiquer régulièrement. N’ayez pas peur de bidouiller et poser des questions.__
 
 
-## Niveau 2 ; Prix = 100€ à 300€
+### Niveau 2 ; Prix = 100€ à 300€
 La passion commence à vous gagner, alors plus de matos général pour étoffer la caisse à outil.
 
 * Un espace bureau adapté avec de quoi ranger le matos. (Quand on commence à bricoler il faut de la place…)
@@ -137,7 +141,7 @@ La passion commence à vous gagner, alors plus de matos général pour étoffer 
 __Conseil : Trouver vous un projet qui vous passionne, mais abordable selon votre niveau. Vous devez apprendre à apprendre, un fablab n’est pas une école.__
 
 
-## Niveau 3 ; Prix = 400€ à 1000€
+### Niveau 3 ; Prix = 400€ à 1000€
 Les choses sérieuses commencent, il vous faut pourvoir débeuger les cartes efficacement.
 
 * Organiser votre espace de travail.
@@ -151,7 +155,7 @@ Les choses sérieuses commencent, il vous faut pourvoir débeuger les cartes eff
 __Conseil : Lancer vous des défis avec des projets toujours de plus en plus complexe.__
 
 
-## Niveau 4 ; Prix = 400€ à 1000€
+### Niveau 4 ; Prix = 400€ à 1000€
 On ne peut plus vous arrêter…
 
 * Oscilloscope (Dispo au FabLab)
@@ -172,7 +176,7 @@ Où faire fabriquer vos circuits à prix raisonnable ?
 __Conseil : Réaliser vos rêves.__
 
 
-## Niveau 5 ; prix = 1000€ à 20000€
+### Niveau 5 ; prix = 1000€ à 20000€
 Vous êtes définitivement un super geek de la mort.
 
 * CNC gravure de PCB
@@ -187,9 +191,147 @@ Vous êtes définitivement un super geek de la mort.
 __Conseil : Faite de votre passion un métier.__
 
 
-## Niveau +++
+### Niveau +++
 Vers l’infini et au‑delà.
 
 __Conseil : Il ne reste plus qu’à monter votre boîte…     ;-)__
 
+
+------------------------------------------------------------------------
+
+## Où Trouver de quoi Apprendre ?
+
+### Livres pour Apprendre
+
+#### Post de forum selon Électro-Bidouilleur
+
+http://forum.bidouilleur.ca/index.php?topic=677.0
+https://www.youtube.com/watch?v=VEmyw9jPJ4g
+« Modifié: janvier 24, 2020, 02:42:18 pm par Électro-Bidouilleur »
+
+Voici une compilation des d'ouvrages d'apprentissage de l'électronique, tels que suggérés par les bidouilleurs sur ce Forum. Ceci n'est évidemment pas une liste exhaustive de tous les ouvrages disponibles; que les recommandations mentionnés par les bidouilleurs membres du Forum. Si vous désirez ajouter des recommandations à cette liste, veuillez ajouter un message à ce sujet; je regrouperai toutes les recommandations dans ce message-ci.
+Note Légale: Les liens fournis ci-dessous sont réputés être "légaux" et en circulation libre. Si vous avez des informations contraires au sujet d'un de ces liens, veuillez me le faire savoir sans tarder. Merci.
+
+#### Ouvrages pour débutants
+“L'électronique pour les nuls", par Cathleen Shamieh. 2ème édition.
+Vraiment très accessible et abordable, condensé d'informations pour les composants discrets et aussi sur les circuits intégrés.
+Disponible en couleur. Disponible aussi en .PDF.
+https://ia801607.us.archive.org/35/items/LelectroniquePourLesNuls2eEditionFirst/L%27%C3%A9lectronique%20Pour%20les%20Nuls%202e%20Edition%20-%20First.pdf
+
+"Arduino pour les nuls", par John Nussey. 2ème édition.
+http://www.multimedialab.be/doc/erg/2017-2018/Arduino/Arduino_pour_les_nuls_poche_2e_Edition_Mai_2017.pdf
+
+“Apprendre l’Électronique en Partant de Zéro”.  Une compilation du Cours “Électronique en Partant de Zéro” parus dans les numéros 1 à 79 de la revue ÉLECTRONIQUE et Loisirs magazine.
+De l’auteur: Vous permettra de vous familiariser avec le sujet. En partant du courant électrique il vous entraînera à la découverte  des composants. Résistances, condensateurs, diodes, transistors, thyristors et autres n’auront plus de secret pour vous. Plusieurs chapitres consacrés à l’apprentissage de la soudure, l’utilisation du multimètre. L’aspect « radio » est également abordé avec une partie réservée aux ondes radio-électriques. Réalisation de montages simples d’alimentations, de récepteurs radio ou d’appareils de mesure. Disponibles seulement en .PDF
+Niveau 1: https://ia601306.us.archive.org/13/items/ApprendreLElectroniqueEnPartantDeZeroNiveau1Lecons01A28_201510/Apprendre%20l%27Electronique%20en%20Partant%20de%20Z%C3%A9ro%20-%20Niveau%201%20-%20Lecons_01%20%C3%A0%2028.pdf
+Niveau 2: https://archive.org/download/ApprendreLElectroniqueEnPartantDeZeroNiveau1Lecons01A28_201510/Apprendre%20l%27%20Electronique%20en%20Partant%20De%20Z%C3%A9ro%20-%20Niveau%202%20-%20Le%C3%A7ons%2029%20%C3%A0%2037.pdf
+Niveau 3:
+https://archive.org/download/ApprendreLElectroniqueEnPartantDeZeroNiveau1Lecons01A28_201510/Apprendre%20l%27%20Electronique%20en%20Partant%20de%20Z%C3%A9ro%20-%20Niveau%203%20-%20Le%C3%A7ons%2038%20%C3%A0%2047.pdf
+
+“La radio? mais c'est très simple!”, par Eugène Aisberg. 29ème édition. Série Nostalgie.
+Curiosus: "Je trouve ce livre génial, il y a pas mieux pour commencer à apprendre l'électronique. L'auteur à mis de l'humour pour faire comprendre des choses compliqués, bel exemple pour nos professeurs qui sont parfois trop sérieux, et qui n'attirent plus l'attention des élèves."
+https://ia801402.us.archive.org/22/items/la_radio_mais_cest_tres_simple/la_radio_mais_cest_tres_simple.pdf
+
+"Électronique pratique - 2ème édition", par Jacques-Michel Fouchet, Arsène Perez-Mas.
+ksyrium: "Lors d'une formation, j'avais eu ce livre. Très bien pour acquérir les bases et plus (avec exercices et corrigés)."
+https://www.dunod.com/sciences-techniques/electronique-pratique?gclid=EAIaIQobChMIqrbPu_L-5gIVFYbVCh35dg5bEAQYASABEgJo6fD_BwE
+
+"All New Electronics Self-Teaching Guide", par Harry Kybett et Earl Boysen.
+AlanFromJapan: Le graal pour un sérieux débutant, parce qu'il part de zéro et est rempli d'exercices avec correction! Ce fut le plus instructif pour moi, mais tout le monde n'aime pas l'approche académique.
+
+"Electrical Engineering 101: Everything You Should Have Learned in School...but Probably Didn't", par Darren Ashby.
+AlanFromJapan: Loin d'être académique, si vous voulez juste intuiter plus que comprendre, avoir une espèce de raccourci pour apprendre les bases, c'est un bon livre. Par contre si vous préférez apprendre "sérieusement" passez votre chemin.
+
+"NEETS (US Navy electronic courses)".
+Saranadze: En anglais mais c'est une mine d'or: Il s'agit d'un cours complet, destiné à des gens qui arrivent dans l’armée sans avoir forcément eu une éducation supérieure, donc écrit de manière à être compréhensible par tout le monde... Et c'est gratuit, facile a trouver:
+https://www.fcctests.com/neets/Neets.htm   (juste un exemple)
+Plus de détails de la part de Saranadze dans la réponse suivante: http://forum.bidouilleur.ca/index.php?topic=677.msg4106#msg4106
+
+
+#### Ouvrages de niveau intermédiaire
+
+“The Art of Electronics” 3ème édition,  par Paul Horowitz.
+Yffig: "Plus de 1500 pages de pur bonheur, même à environ 60/70 € sur Amazon, c'est vraiment vouloir faire des économies de bout de chandelle que de s'en priver. Le site des auteurs offre en téléchargement la totalité de la table des matières et du chapitre 9 sur les Alimentations (135 pages) "VOLTAGE REGULATION AND POWER CONVERSION" https://artofelectronics.net/wp-content/uploads/2016/02/AoE3_chapter9.pdf "
+cschopfer: "Juste merveilleux. Sauf son prix..."
+
+“Traité de l’Électronique”, par Paul Horowitz et Winfield Hill.
+Oxygene: Basé sur “The Art of Electronics” de Paul Horowitz. Disponible seulement en .PDF:
+Volume 1:
+http://sylvain.larribe.free.fr/livres/PDF/Traite_Electronique/Traite_Electronique_V1_S_01_A_I_ocr.pdf
+Volume 2:
+http://sylvain.larribe.free.fr/livres/PDF/Traite_Electronique/Traite_Electronique_V2_S_16_17_I_ocr.pdf
+
+"Percer les mystères de l'électronique", par Robert Lacoste. ISBN: 978-2-86661-207-8
+Cyrob : Recommandé par Philippe dans une vidéo YouTube: https://www.youtube.com/watch?v=PdrvM3zxy04
+
+
+#### Ouvrages de référence plus approfondis
+
+“Électronique appliquée aux hautes fréquences” de François de Dieuleveult et Olivier Romain aux éditions Dunod 2ème édition..
+Oscillateur88: "Pour toute personne souhaitant trouve une source fiable, précise, pédagogique et assez accessible pour se renseigner, réviser, ou revoir les concepts de base de l'électronique hautes fréquences : c'est un must have ! Je le trouve très bon de A à Z, tout est expliqué pas à pas par les auteurs, il fait plus de 500 pages je crois (pour 70 euros). Vous pouvez voir le sommaire sur le site de Dunod ou amazon si ça vous intéresse ; il faut quelques bases pour l'aborder à la fois en électronique et en mathématiques, mais rien de poussé non plus ! Le livre décrit vraiment les bases (solides) de l’électronique haute fréquences, je le consulte de temps en temps si jamais j'ai besoin d'un rappel."
+
+“Composants pour Télécoms” par François de Dieuleveult.
+Oscillateur88: "Il s'agit d'un livre qui présente les principales fonctions utilisées dans l'électronique des communications. Il coûte 60 euros et ratisse vraiment beaucoup de choses sur : Les amplificateurs, les oscillateurs, les mélangeurs, les modulateurs, les filtres, etc... C'est très orienté théorie et conception, l'auteur développe les concepts avec à chaque fois : une base physique et mathématiques solide suivie d'extraits de simulations sur le logiciel ADS. Le livre est très fourni et assez approfondi. Pour les pratiquants recherchant un ouvrage pouvant les aider à comprendre comment fonctionnent et sont conçus les composants de base."
+
+“Électronique Analogique Composants et Systèmes Complexes” de nombreux auteurs.
+Oscillateur88: "Pour la somme de 50 euros le livre est un peu un équivalent au premier mais pour l'électronique analogique en général, c'est assez complet sans aller trop loin dans les détails : C'est les bases mais les bases solides !"
+
+"Radio Frequency Electronics, 2nd edition" par JB Hagen.
+Yffig: "Incroyable petit bouquin de seulement 454 pages où chaque chapitre offre une liste d'ouvrages ou de papiers en référence bibliographique absolument indispensables sur le sujet traité. La première édition avait été traduite en français chez Elektor en 1999 sous le titre "Comprendre et utiliser l'électronique des hautes fréquences". J'ai pu l'acquérir d'occaze sur eBay il y a dix ans et on le trouve encore d'occaze sur divers sites."
+
+“Physique et Théorie du Radar” par Jacques Darricau.
+papyblue: "Le livre est consultable gratuitement depuis quelques années, c'est une référence pour les radaristes mais est aussi très instructif pour tous ceux qui s'intéressent aux hyperfréquences."
+http://radars-darricau.fr/livre/1-Pages/page-0l.html
+
+------------------------------------------------------------------------
+
+### Vidéos pour Apprendre
+
+#### Sélection de Chaîne YouTube sur l’Électronique
+
+* [Électro-Bidouilleur](https://www.youtube.com/channel/UCvv3bLR4Ws1GVycHG-t3dJw) : Vulgarisation de l’électronique fait par un concepteur pro, il est québécois, mais c’est pas grave. Excellant, plus de 400 vidéos. Voir aussi son [site web](http://bidouilleur.ca/)
+* [U=RI](https://www.youtube.com/channel/UCVqx3vXNghSqUcVg2nmegYA) : Vulgarisation de l’électronique
+* [Deus Ex Silicium ](https://www.youtube.com/user/dexsilicium) : Démontage et analyse d’appareil. Beaucoup de vidéo dédiée à la science des semi-conducteurs
+* [Heliox](https://www.youtube.com/c/HelioxLab) :
+
+
+#### Sélection de Chaîne YouTube sur la Menuiserie
+* [Olivier Verdier](https://www.youtube.com/user/oliverte43) : Artisan Menuisier
+* [Boris Beaulant](https://www.youtube.com/channel/UCMsUwOwHnbJPB9Eqgw49vhQ) : Ébéniste autodidacte, créateur du réseau social [L’air du Bois](https://www.lairdubois.fr/)
+* [Samuel Mamias](https://www.youtube.com/channel/UC9fGq2-6FaftcegcIadLf6A) :
+
+
+#### Sélection de Chaîne YouTube sur les Makers Multi‑discipline
+* [MrBidouille](https://www.youtube.com/user/monsieurbidouille) :
+* [La Grotte du Barbu](https://www.youtube.com/user/TravailleursDuWeb) :
+* [Maker Faire France](https://www.youtube.com/channel/UCtjPHiUM41RcPzdBrN7TEzQ/videos) :
+* [LJVS](https://www.youtube.com/channel/UCxiqy-VOYw6uBE4raFCz4Ow) : Artisan multi‑compétance
+* [Nikof Maker](https://www.youtube.com/channel/UC7NjYALQQxuSlQvRFRqt5pA) :
+
+
+#### Autour de la Culture Libre
+* [Free Software Fundation](https://www.fsf.org/)
+* [CERN Open Hardware Licence](https://ohwr.org/project/cernohl/wikis/home)
+* [Comparaison Licence Wikipédia](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences)
+* [Comparaison Licence Freedom Defined](https://freedomdefined.org/Licenses)
+* [FramaSoft](https://framasoft.fr/fr/)
+* [How to contribute](https://opensource.guide/how-to-contribute/)
+* [PasSageEnSeine](https://video.passageenseine.fr/videos/trending)
+
+
+#### Plateforme Makers
+* [Intructables](https://www.instructables.com/)
+* [Intructables Électronique](https://www.instructables.com/circuits/)
+* [Open Hardware IO](https://www.openhardware.io/)
+* [Hackaday](https://hackaday.io/projects)
+
+
+------------------------------------------------------------------------
+
+## FabLab, MakerSpace, HackerSpace et autres Clubs Bricolage
+
+### Qu’est ce que c’est que ces Choses ?
+
+
+### Aller à la Rencontre de ces Lieux
 
