@@ -1,140 +1,68 @@
-> Date de Création : 03 octobre 2020<br>
-> Auteur initiale : Lilian Tribouilloy<br>
+> Date de Création : 11 novembre 2020<br>
+> Auteur : Lilian Tribouilloy<br>
 > Licence : Creative Commonces BY NC SA<br>
 
-# LIVRES & VIDÉOS pour APPRENDRE
+# Introduction
 
-## LIVRES
+## But de Document
 
-### Post de forum selon Électro-Bidouilleur
+Ce document a pour but de proposer une méthodologie de conception d’un objet électronique à destination du hobbyste de l’électronique qui a peur de franchir le pas. Peur de se lancer dans la conception d’un objet originale qu’il aurait conçu de A à Z.
 
-http://forum.bidouilleur.ca/index.php?topic=677.0
-https://www.youtube.com/watch?v=VEmyw9jPJ4g
-« Modifié: janvier 24, 2020, 02:42:18 pm par Électro-Bidouilleur »
+Il s’agit bien d’__une__ méthode et non pas de __la__ méthode. En disant cela je ne présume nullement détenir la vérité absolue sur le sujet. D’autant que je trouve dangereux d’imposer, et de façon définitive, une méthode prétendument indépassable. J’encourage tout le monde à rester critique et mieux que cela à se construire ces propres méthodes de travail. Celles qui vous conviennent parce qu’elles correspondent à votre façon de penser ou tout simplement à l’investissement, en temps, que vous souhaitez y consacrer. Travailler c’est « trouvailler » dit l’adage. Dès lors qu’on se laisse dicter les méthodes, on perd son métier. On perd l’opportunité de rentrer par soi‑même dans le chemin qui nous construit à force d’expériences.
 
-Voici une compilation des d'ouvrages d'apprentissage de l'électronique, tels que suggérés par les bidouilleurs sur ce Forum. Ceci n'est évidemment pas une liste exhaustive de tous les ouvrages disponibles; que les recommandations mentionnés par les bidouilleurs membres du Forum. Si vous désirez ajouter des recommandations à cette liste, veuillez ajouter un message à ce sujet; je regrouperai toutes les recommandations dans ce message-ci.
-Note Légale: Les liens fournis ci-dessous sont réputés être "légaux" et en circulation libre. Si vous avez des informations contraires au sujet d'un de ces liens, veuillez me le faire savoir sans tarder. Merci.
+Cet avertissement important étant entendu. Il faut toutefois admettre que le savoir est une valeur collective. Et qu’il est bon d’apprendre de ses paires pour ne pas se perdre trop longuement dans une science ou un art difficile. Les chemins déjà tracés doivent vous enseigner, vous inspirer, vous faire gagner du temps. Pas vous contraindre.
 
-#### Ouvrages pour débutants
-“L'électronique pour les nuls", par Cathleen Shamieh. 2ème édition.
-Vraiment très accessible et abordable, condensé d'informations pour les composants discrets et aussi sur les circuits intégrés.
-Disponible en couleur. Disponible aussi en .PDF.
-https://ia801607.us.archive.org/35/items/LelectroniquePourLesNuls2eEditionFirst/L%27%C3%A9lectronique%20Pour%20les%20Nuls%202e%20Edition%20-%20First.pdf
+Ce document n’a pas vocation à vous apprendre les bases théoriques de l’électronique, ni à vous informer sur les avantages de telle ou telle technologie. Il propose simplement une méthode pas à pas pour transformer vos idées en réalisation concrète. Ce document n’a pas non plus pour prétention d’atteindre un niveau de rigueur industriel bien trop chronophage pour un hobbyste. Il liste les actions importantes à faire pour ne pas commettre d’erreurs onéreuses qui ruinerait votre projet. Toutefois, ce document sera parsemé de comparaison entre ce qui se pratique dans l’industrie et ce qui me semble plus raisonnable de mettre en œuvre pour un amateur. À vous de placer le curseur entre rigueur et plaisir et entre idéalisme et réalisme.
 
-"Arduino pour les nuls", par John Nussey. 2ème édition.
-http://www.multimedialab.be/doc/erg/2017-2018/Arduino/Arduino_pour_les_nuls_poche_2e_Edition_Mai_2017.pdf
+Ce document est à destination du public des _fablabs_, du _mouvement Maker_ et du _mouvement du Logiciel et matériel Libre_. Aussi les outils proposés en complément de la méthodologie sont tous des logiciels libres. À savoir : [KiCAD](https://kicad-pcb.org/) pour l’édition de schéma et le routage des cartes ; [FreeCAD](https://www.freecadweb.org/) pour la conception de la mécanique associée (simple boîtier ou robot sophistiqué selon votre projet). Ce sont aujourd’hui les logiciels libres les plus avancés dans ces domaines mais on pourra d’aventure trouver des alternatives. Le choix de l’éditeur de code est laissé à votre sagacité tant la diversité dans ce domaine est grande.
 
-“Apprendre l’Électronique en Partant de Zéro”.  Une compilation du Cours “Électronique en Partant de Zéro” parus dans les numéros 1 à 79 de la revue ÉLECTRONIQUE et Loisirs magazine.
-De l’auteur: Vous permettra de vous familiariser avec le sujet. En partant du courant électrique il vous entraînera à la découverte  des composants. Résistances, condensateurs, diodes, transistors, thyristors et autres n’auront plus de secret pour vous. Plusieurs chapitres consacrés à l’apprentissage de la soudure, l’utilisation du multimètre. L’aspect « radio » est également abordé avec une partie réservée aux ondes radio-électriques. Réalisation de montages simples d’alimentations, de récepteurs radio ou d’appareils de mesure. Disponibles seulement en .PDF
-Niveau 1: https://ia601306.us.archive.org/13/items/ApprendreLElectroniqueEnPartantDeZeroNiveau1Lecons01A28_201510/Apprendre%20l%27Electronique%20en%20Partant%20de%20Z%C3%A9ro%20-%20Niveau%201%20-%20Lecons_01%20%C3%A0%2028.pdf
-Niveau 2: https://archive.org/download/ApprendreLElectroniqueEnPartantDeZeroNiveau1Lecons01A28_201510/Apprendre%20l%27%20Electronique%20en%20Partant%20De%20Z%C3%A9ro%20-%20Niveau%202%20-%20Le%C3%A7ons%2029%20%C3%A0%2037.pdf
-Niveau 3:
-https://archive.org/download/ApprendreLElectroniqueEnPartantDeZeroNiveau1Lecons01A28_201510/Apprendre%20l%27%20Electronique%20en%20Partant%20de%20Z%C3%A9ro%20-%20Niveau%203%20-%20Le%C3%A7ons%2038%20%C3%A0%2047.pdf
+À n’en pas douter il existe des logiciels propriétaires bien plus puissants que ceux que je propose ici. Mais la liberté n’est pas une question de performance. La liberté est d’ailleurs une performance en soit par les temps qui court. C’est une question d’écosystème, une question de partage avec votre communauté. Comme le dit si bien Richard Stallman (fondateur de la Free Software Fondation, cocréateur de GNU/Linux, entre autres choses), et il le dit en français dans le texte : _«Je peux résumer ce qu’est le logiciel libre en 3 mots : liberté, égalité, fraternité.»_
 
-“La radio? mais c'est très simple!”, par Eugène Aisberg. 29ème édition. Série Nostalgie.
-Curiosus: "Je trouve ce livre génial, il y a pas mieux pour commencer à apprendre l'électronique. L'auteur à mis de l'humour pour faire comprendre des choses compliqués, bel exemple pour nos professeurs qui sont parfois trop sérieux, et qui n'attirent plus l'attention des élèves."
-https://ia801402.us.archive.org/22/items/la_radio_mais_cest_tres_simple/la_radio_mais_cest_tres_simple.pdf
+Et pourquoi un tel ouvrage ? Il m’est apparût que le matériel libre (ou objet libre) est beaucoup moins développé que le logiciel libre. Et à n’en pas douter il y a des raisons à cela assez simples. Les objets libres représentent un défit plus grand encore que le logiciel libre pour les communautés libristes internationales. En effet, il y a d’abord le prix, si le logiciel libre peut donner l’illusion de la gratuité pour l’utilisateur ; avec un objet libre, il devient évidant que ça ne peut aucunement être gratuit. Sans oublier que la fabrication de n’est pas évidente car il faut être équiper en outils et il faut se forger du savoir, développer ses facultés manuelles.
 
-"Électronique pratique - 2ème édition", par Jacques-Michel Fouchet, Arsène Perez-Mas.
-ksyrium: "Lors d'une formation, j'avais eu ce livre. Très bien pour acquérir les bases et plus (avec exercices et corrigés)."
-https://www.dunod.com/sciences-techniques/electronique-pratique?gclid=EAIaIQobChMIqrbPu_L-5gIVFYbVCh35dg5bEAQYASABEgJo6fD_BwE
+Il y a aussi la difficulté, car un objet libre moderne et complet, c’est au moins trois disciplines, au logiciel, s’ajoute l’électronique et la mécanique. Et cela pose un défi collaboratif et organisationnel important. Car peu de gens sont suffisamment forts pour avoir un bon niveau de maîtrise dans ces 3 disciplines. Quand il n’y en a que 3… Il faut aller chercher les compétences nécessaires chez d’autres personnes et les motivés à travailler sur le projet. Motiver est une difficulté loin d’être négligeable.
 
-"All New Electronics Self-Teaching Guide", par Harry Kybett et Earl Boysen.
-AlanFromJapan: Le graal pour un sérieux débutant, parce qu'il part de zéro et est rempli d'exercices avec correction! Ce fut le plus instructif pour moi, mais tout le monde n'aime pas l'approche académique.
-
-"Electrical Engineering 101: Everything You Should Have Learned in School...but Probably Didn't", par Darren Ashby.
-AlanFromJapan: Loin d'être académique, si vous voulez juste intuiter plus que comprendre, avoir une espèce de raccourci pour apprendre les bases, c'est un bon livre. Par contre si vous préférez apprendre "sérieusement" passez votre chemin.
-
-"NEETS (US Navy electronic courses)".
-Saranadze: En anglais mais c'est une mine d'or: Il s'agit d'un cours complet, destiné à des gens qui arrivent dans l’armée sans avoir forcément eu une éducation supérieure, donc écrit de manière à être compréhensible par tout le monde... Et c'est gratuit, facile a trouver:
-https://www.fcctests.com/neets/Neets.htm   (juste un exemple)
-Plus de détails de la part de Saranadze dans la réponse suivante: http://forum.bidouilleur.ca/index.php?topic=677.msg4106#msg4106
+Ainsi, ce manuel est aussi une modeste contribution pour favoriser une bonne organisation des projets objets libres et pour favoriser une bonne structuration de leurs dossiers d’étude associés. D’autant que je n’ai pas trouvé de sur le net de site qui explique comment concevoir concrètement un objet. Le peu que j’ai trouvé reste sur des grands principes qui ne sont pas forcément d’un grand renfort pour l’exercice réel. Ou bien au contraire pour un projet donné, la personne dit j’ai fait donne ça. Avec parfois une grande précision, certe, mais il ne se dégage jamais une vue d’ensemble sur une méthodologie.
 
 
-#### Ouvrages de niveau intermédiaire
+## À Propos de l’Auteur
 
-“The Art of Electronics” 3ème édition,  par Paul Horowitz.
-Yffig: "Plus de 1500 pages de pur bonheur, même à environ 60/70 € sur Amazon, c'est vraiment vouloir faire des économies de bout de chandelle que de s'en priver. Le site des auteurs offre en téléchargement la totalité de la table des matières et du chapitre 9 sur les Alimentations (135 pages) "VOLTAGE REGULATION AND POWER CONVERSION" https://artofelectronics.net/wp-content/uploads/2016/02/AoE3_chapter9.pdf "
-cschopfer: "Juste merveilleux. Sauf son prix..."
+__Lilian Tribouilloy__
 
-“Traité de l’Électronique”, par Paul Horowitz et Winfield Hill.
-Oxygene: Basé sur “The Art of Electronics” de Paul Horowitz. Disponible seulement en .PDF:
-Volume 1:
-http://sylvain.larribe.free.fr/livres/PDF/Traite_Electronique/Traite_Electronique_V1_S_01_A_I_ocr.pdf
-Volume 2:
-http://sylvain.larribe.free.fr/livres/PDF/Traite_Electronique/Traite_Electronique_V2_S_16_17_I_ocr.pdf
-
-"Percer les mystères de l'électronique", par Robert Lacoste. ISBN: 978-2-86661-207-8
-Cyrob : Recommandé par Philippe dans une vidéo YouTube: https://www.youtube.com/watch?v=PdrvM3zxy04
+* __Formation :__ Ingénieur en électronique, diplômé de l’[ENSEA](https://www.ensea.fr/fr) en 2004.
+* __Métier :__ Concepteur électronique spécialisé dans les radiofréquences et la CEM (Compatibilité ÉlectroMagnétique).
+* __Exemples de produit conçu dans le cadre professionnel :__ Émetteur et Réémetteur pour la télévision numérique ; Amplificateur de puissance classe AB pour une modulation OFDM ; Calculateur entrées/sorties pour camion ; Tableau de bord pour véhicule spéciaux ; Boîtier de télématique pour la gestion de flotte.
+* __Objet Libre conçu :__ [ToucheLibre](http://touchelibre.fr/), un clavier d’ordinateur ergonomique en bois. Aliant l’esthétique à l’utile, il s’inscrit dans des valeurs de liberté, d’écologie et de santé.
 
 
-#### Ouvrages de référence plus approfondis
+## Licences
 
-“Électronique appliquée aux hautes fréquences” de François de Dieuleveult et Olivier Romain aux éditions Dunod 2ème édition..
-Oscillateur88: "Pour toute personne souhaitant trouve une source fiable, précise, pédagogique et assez accessible pour se renseigner, réviser, ou revoir les concepts de base de l'électronique hautes fréquences : c'est un must have ! Je le trouve très bon de A à Z, tout est expliqué pas à pas par les auteurs, il fait plus de 500 pages je crois (pour 70 euros). Vous pouvez voir le sommaire sur le site de Dunod ou amazon si ça vous intéresse ; il faut quelques bases pour l'aborder à la fois en électronique et en mathématiques, mais rien de poussé non plus ! Le livre décrit vraiment les bases (solides) de l’électronique haute fréquences, je le consulte de temps en temps si jamais j'ai besoin d'un rappel."
+Ce manuel est placé sous licence Creative Commons 
 
-“Composants pour Télécoms” par François de Dieuleveult.
-Oscillateur88: "Il s'agit d'un livre qui présente les principales fonctions utilisées dans l'électronique des communications. Il coûte 60 euros et ratisse vraiment beaucoup de choses sur : Les amplificateurs, les oscillateurs, les mélangeurs, les modulateurs, les filtres, etc... C'est très orienté théorie et conception, l'auteur développe les concepts avec à chaque fois : une base physique et mathématiques solide suivie d'extraits de simulations sur le logiciel ADS. Le livre est très fourni et assez approfondi. Pour les pratiquants recherchant un ouvrage pouvant les aider à comprendre comment fonctionnent et sont conçus les composants de base."
+Dont vous trouverez la version originale ici : [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode) 
 
-“Électronique Analogique Composants et Systèmes Complexes” de nombreux auteurs.
-Oscillateur88: "Pour la somme de 50 euros le livre est un peu un équivalent au premier mais pour l'électronique analogique en général, c'est assez complet sans aller trop loin dans les détails : C'est les bases mais les bases solides !"
+Et la traduction française ici : [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode.fr)
 
-"Radio Frequency Electronics, 2nd edition" par JB Hagen.
-Yffig: "Incroyable petit bouquin de seulement 454 pages où chaque chapitre offre une liste d'ouvrages ou de papiers en référence bibliographique absolument indispensables sur le sujet traité. La première édition avait été traduite en français chez Elektor en 1999 sous le titre "Comprendre et utiliser l'électronique des hautes fréquences". J'ai pu l'acquérir d'occaze sur eBay il y a dix ans et on le trouve encore d'occaze sur divers sites."
+De plus, ce manuel utilise les polices de caractères suivantes :
 
-“Physique et Théorie du Radar” par Jacques Darricau.
-papyblue: "Le livre est consultable gratuitement depuis quelques années, c'est une référence pour les radaristes mais est aussi très instructif pour tous ceux qui s'intéressent aux hyperfréquences."
-http://radars-darricau.fr/livre/1-Pages/page-0l.html
+* Exo2, créé par Natanael Gama sous licence SIL Open Font, accessible sur le site [Font Squirrel](https://www.fontsquirrel.com/fonts/exo-2)
+* Cinzel, créé par Natanael Gama sous licence SIL Open Font, accessible sur le site [Font Squirrel](https://www.fontsquirrel.com/fonts/cinzel)
 
-------------------------------------------------------------------------
+Ces polices devrons être installées pour voir l’ouvrage dans la forme voulu par l’auteur.
 
-## VIDÉOS
+Vous pouvez accédérer aux sources du document soit sur le repository suivant sur [GitHub](https://github.com/LilyTouch/Methode_Conception), ou soit en ouvrant ce fichier « Méthode_de_Conception_d’un_Objet_Libre.pdf » avec LibreOffice.
 
-### Sélection de Chaîne YouTube sur l’Électronique
-
-* [Électro-Bidouilleur](https://www.youtube.com/channel/UCvv3bLR4Ws1GVycHG-t3dJw) : Vulgarisation de l’électronique fait par un concepteur pro, il est québécois, mais c’est pas grave. Excellant, plus de 400 vidéos. Voir aussi son [site web](http://bidouilleur.ca/)
-* [U=RI](https://www.youtube.com/channel/UCVqx3vXNghSqUcVg2nmegYA) : Vulgarisation de l’électronique
-* [Deus Ex Silicium ](https://www.youtube.com/user/dexsilicium) : Démontage et analyse d’appareil. Beaucoup de vidéo dédiée à la science des semi-conducteurs
-* [Heliox](https://www.youtube.com/c/HelioxLab) :
+En effet, ce fichier est un pdf hydride. C’est à dire qu’il embarque directement le fichier source odt, il peut être directement éditer par LibreOffice.
 
 
-### Sélection de Chaîne YouTube sur la Menuiserie
-* [Olivier Verdier](https://www.youtube.com/user/oliverte43) : Artisan Menuisier
-* [Boris Beaulant](https://www.youtube.com/channel/UCMsUwOwHnbJPB9Eqgw49vhQ) : Ébéniste autodidacte, créateur du réseau social [L’air du Bois](https://www.lairdubois.fr/)
-* [Samuel Mamias](https://www.youtube.com/channel/UC9fGq2-6FaftcegcIadLf6A) :
+## Références Documentaires
+
+Ouvrages qui ont été des sources d’inspiration et qui pourront vous servir à approfondir le sujet.
+
+* [Résolu](https://framabook.org/resolu/)
+* [Logiciels et Objets Libres](https://framabook.org/logiciels-et-objets-libres/)
+* [Produire du Logiciel Libre](https://framabook.org/produire-du-logiciel-libre-2/)
 
 
-### Sélection de Chaîne YouTube sur les Makers Multi‑discipline
-* [MrBidouille](https://www.youtube.com/user/monsieurbidouille) :
-* [La Grotte du Barbu](https://www.youtube.com/user/TravailleursDuWeb) :
-* [Maker Faire France](https://www.youtube.com/channel/UCtjPHiUM41RcPzdBrN7TEzQ/videos) :
-* [LJVS](https://www.youtube.com/channel/UCxiqy-VOYw6uBE4raFCz4Ow) : Artisan multi‑compétance
-* [Nikof Maker](https://www.youtube.com/channel/UC7NjYALQQxuSlQvRFRqt5pA) :
-
-
-### Autour de la Culture Libre
-* [Free Software Fundation](https://www.fsf.org/)
-* [CERN Open Hardware Licence](https://ohwr.org/project/cernohl/wikis/home)
-* [Comparaison Licence Wikipédia](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences)
-* [Comparaison Licence Freedom Defined](https://freedomdefined.org/Licenses)
-* [FramaSoft](https://framasoft.fr/fr/)
-* [How to contribute](https://opensource.guide/how-to-contribute/)
-* [PasSageEnSeine](https://video.passageenseine.fr/videos/trending)
-
-
-### Plateforme Makers
-* [Intructables](https://www.instructables.com/)
-* [Intructables Électronique](https://www.instructables.com/circuits/)
-* [Open Hardware IO](https://www.openhardware.io/)
-* [Hackaday](https://hackaday.io/projects)
-
-
-### Projet d’Outils de Laboratoire Libres
-* All-in-one USB Oscilloscope, Signal Generator, Power Supply, Logic Analyzer and Multimeter basée sur l' Atmega32u4 , processeur bien connu ;) : [Site](https://espotek.com/labrador/product/espotek-labrador-board/) ; [github](https://github.com/espotek/labrador)
-* [Open Source Multimeter](https://hackaday.com/2019/06/20/finally-an-open-source-multimeter/)
-* [Open Source Transistor Tester](https://www.mikrocontroller.net/articles/AVR_Transistortester#Introduction_.28English.29)
-* [Scope Fun](https://www.scopefun.com/) : un oscilloscope performant en développement libre. Voir également le [répertoire GitLab](https://gitlab.com/scopefun) pour les sources. Et pour soutenir le projet voir ce [Crowd Supply](https://www.crowdsupply.com/scopefun/open-source-instrumentation).
-* [The Much More Personal Computer](https://mntre.com/media/reform_md/2020-05-08-the-much-more-personal-computer.html) : Un PC portable entièrement libre. Voir également leur [répertoire GiTea](https://source.mntmn.com/MNT) pour les sources. Et pour soutenir le projet voir ce [Crowd Supply](https://www.crowdsupply.com/mnt/reform).
-
-
+## Convention Graphique
 
