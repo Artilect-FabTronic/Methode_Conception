@@ -1,6 +1,6 @@
 > Date de Création : 20 septembre 2020<br>
 > Auteur : Lilian Tribouilloy<br>
-> Licence : Creative Commonces BY NC SA<br>
+> Licence : Creative Commonces BY SA<br>
 
 # Donner Envie au Débutant
 

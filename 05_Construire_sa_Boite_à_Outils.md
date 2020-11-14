@@ -1,6 +1,6 @@
 > Date de Création : 11 novembre 2020<br>
 > Auteur : Lilian Tribouilloy<br>
-> Licence : Creative Commonces BY NC SA<br>
+> Licence : Creative Commonces BY SA<br>
 
 # Construire sa Boîte à Outils
 
