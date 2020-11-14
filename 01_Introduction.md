@@ -1,6 +1,6 @@
 > Date de Création : 11 novembre 2020<br>
 > Auteur : Lilian Tribouilloy<br>
-> Licence : Creative Commonces BY NC SA<br>
+> Licence : Creative Commonces BY SA<br>
 
 # Introduction
 
@@ -37,11 +37,11 @@ __Lilian Tribouilloy__
 
 ## Licences
 
-Ce manuel est placé sous licence Creative Commons 
+Ce manuel est placé sous licence Creative Commons BY-SA 4.0 international.
 
-Dont vous trouverez la version originale ici : [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode) 
+![](images/by-sa.png)
 
-Et la traduction française ici : [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode.fr)
+Vous trouverez la version originale ici : [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode) ; et la traduction française ici : [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode.fr)
 
 De plus, ce manuel utilise les polices de caractères suivantes :
 
@@ -62,6 +62,7 @@ Ouvrages qui ont été des sources d’inspiration et qui pourront vous servir �
 * [Résolu](https://framabook.org/resolu/)
 * [Logiciels et Objets Libres](https://framabook.org/logiciels-et-objets-libres/)
 * [Produire du Logiciel Libre](https://framabook.org/produire-du-logiciel-libre-2/)
+* Pour les commentaires éthymologiques : Dictionnaire Historiqu de la Langue Française ; édition 2000 ; sous la direction de Alain Rey
 
 
 ## Convention Graphique
