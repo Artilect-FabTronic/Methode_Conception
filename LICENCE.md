@@ -210,13 +210,13 @@ _Your_ exercise of the _Licensed Rights_ is expressly made subject to the follow
 			5. a URI or hyperlink to the _Licensed Material_ to the extent reasonably practicable;
 		2. indicate if _You_ modified the _Licensed Material_ and retain an indication of any previous modifications; and
 		3. indicate the _Licensed Material_ is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
-	2. _You_ may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which _You_ _Share_ the _Licensed Material_. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
-	3. If requested by the _Licensor_, _You_ must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
+	2. _You_ may satisfy the conditions in Section **3.1.1** in any reasonable manner based on the medium, means, and context in which _You_ _Share_ the _Licensed Material_. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+	3. If requested by the _Licensor_, _You_ must remove any of the information required by Section **3.1.1.1** to the extent reasonably practicable.
 
 2. **ShareAlike.**
 
-3. In addition to the conditions in Section 3(a), if _You_ _Share_ _Adapted Material_ _You_ produce, the following conditions also apply.
-	1. The _Adapter’s License_ _You_ apply must be a Creative Commons license with the same _License Elements_, this version or later, or a _BY-SA Compatible License_.
+3. In addition to the conditions in Section **3.1**, if _You_ _Share_ _Adapted Material_ _You_ produce, the following conditions also apply.
+	1. The _Adapter’s License_ _You_ apply must be a Creative Commons license with the same _License Elements_, this version or later, or a _**BY-SA** Compatible License_.
 	2. _You_ must include the text of, or the URI or hyperlink to, the _Adapter’s License_ _You_ apply. _You_ may satisfy this condition in any reasonable manner based on the medium, means, and context in which _You_ _Share_ _Adapted Material_.
 	3. _You_ may not offer or impose any additional or different terms or conditions on, or apply any _Effective Technological Measures_ to, _Adapted Material_ that restrict exercise of the rights granted under the _Adapter’s License_ _You_ apply.
 
