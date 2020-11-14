@@ -27,3 +27,11 @@ __Lilian Tribouilloy :__
 * __Objet Libre conçu :__ [ToucheLibre](http://touchelibre.fr/), un clavier d’ordinateur ergonomique en bois. Aliant l’esthétique à l’utile, il s’inscrit dans des valeurs de liberté, d’écologie et de santé.
 
 
+## Licences
+
+Ce manuel est placé sous licence Creative Commons BY-SA 4.0 international.
+
+![](images/by-sa.png)
+
+Vous trouverez la version originale ici : [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode) ; et la traduction française ici : [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode.fr)
+
