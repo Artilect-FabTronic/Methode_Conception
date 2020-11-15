@@ -59,10 +59,10 @@ En effet, ce fichier est un pdf hydride. C’est à dire qu’il embarque direct
 
 Ouvrages qui ont été des sources d’inspiration et qui pourront vous servir à approfondir le sujet.
 
-* [Résolu](https://framabook.org/resolu/)
-* [Logiciels et Objets Libres](https://framabook.org/logiciels-et-objets-libres/)
-* [Produire du Logiciel Libre](https://framabook.org/produire-du-logiciel-libre-2/)
-* Pour les commentaires éthymologiques : Dictionnaire Historiqu de la Langue Française ; édition 2000 ; sous la direction de Alain Rey
+* [Résolu](https://framabook.org/resolu/) : Petit libre qui résume bien le lien entre le « mouvement libriste » et « l’économie sociale et solidaire ». Il donne également des conseils élémentaires pour bien communiquer, collaborer et organiser.
+* [Logiciels et Objets Libres](https://framabook.org/logiciels-et-objets-libres/) : Un monument sur comment bien construire, organiser et manager un projet libre.
+* [Produire du Logiciel Libre](https://framabook.org/produire-du-logiciel-libre-2/) : Dans la même veine que le précédent, il rentre d’avantage sur les particularités du logiciel libre.
+* Pour les commentaires éthymologiques : Le Robert, Dictionnaire Historique de la Langue Française ; édition 2000 ; sous la direction de Alain Rey
 
 
 ## Convention Graphique

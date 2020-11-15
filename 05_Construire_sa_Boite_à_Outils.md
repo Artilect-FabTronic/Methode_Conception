@@ -6,10 +6,19 @@
 
 ## Les Outils, c’est la Vie
 
+Comme je le disais plus haut pour faire l’épreuve du réel, il faut être concret. Et pour cela les outils sont une composante essentielle (avec les idées et les matériaux).
+
 
 
 ## Les Logiciels Libres dédiés la Conception
 
+je vous recommande ceci. Il s’agit là de valeurs sûres, reconnues et largement utilisées. Bien sûr les choses évoluront dans le temps et cette liste pourra être revue.
+
+* Édition Schéma et Routage Électronique : [KiCAD]()
+* Éditeur de Schéma Électrotechnique ou Électricité Domestique : [QElectroTech](https://qelectrotech.org/)
+* Conception Mécanique en 3D : [FreeCAD]()
+* Éditeur de Code :
+* 
 
 
 ## Outils de Laboratoire Libres

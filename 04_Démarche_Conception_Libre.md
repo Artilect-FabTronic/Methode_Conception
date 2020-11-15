@@ -33,13 +33,13 @@ Pourquoi faire le choix de la liberté ? Et quel rapport avec la technologie ?
 
 ------------------------------------------------------------------------
 
-## Comment faire en sorte que votre projet soit Libre ?
+## Comment faire en sorte que votre projet soit véritiblement Libre ?
 
 ### Problématique
 
 Il n’est pas si facile de comprendre le degré d’ouverture d’un projet et s’il suit bien la philosophie du libre. Même pour l’équipe de conception qui n’est pas forcément au fait de toutes les bonnes pratiques. De plus, il est très possible de s’améliorer dans le domaine. D’autant que le développement d’un projet se fait sur un temps long et que l’ouverture peut se fait progressivement au fur et à mesure du travail. C’est pourquoi un document donnant les intentions du projet et le degré d’avencement est important pour ne pas juger trop hativement un projet. 
 
-Et les gens qui conçoivent un objet libre doivent être au clair avec leur objectif. Je sous entends par là qu’il peut être respectable de travailler de façon propriétaire, mais faire semblant d’être libre constitue une tromperie. La liberté ne doit pas être un argument markéting dévoyé. Au même titre que l’on parle de «green washing», on peut aussi parler de «freedom washing».
+Les gens qui conçoivent un objet libre doivent être au clair avec leur objectif. Je sous entends par là qu’il peut être respectable de travailler de façon propriétaire, mais faire semblant d’être libre constitue une tromperie. La liberté ne doit pas être un argument markéting dévoyé. Au même titre que l’on parle de «green washing», on peut aussi parler de «freedom washing».
 
 Il ne s’agit pas ici d’être contre les entreprises. Même si dans le logiciel libre, on peut donner l’illusion, surtout pour l’utilisateur, de la gratuité ; dans le matériel libre, le doute n’est plus permis. Concevoir un objet libre, c’est beaucoup de travail. Ça devient rapidement un travail à plein temps qui se doit d’être rémunéré. La matière première, les composants et les outils sont belles et bien achetés dans le commerce à des gens qui n’ont pas de raison, à priori, de faire parti du projet et qui doivent eux aussi faire vivre des gens… Cette impossibilité de la gratuité conduit donc bien souvent, et si on souhaite sérieusement à péréniser le projet, à développer une entreprise avec une rentabilité qui permet de survivre dans notre dure société.
 
@@ -47,7 +47,7 @@ Mais, précisément parce que la société est difficile, il s’agit de vérifi
 
 Pour l’entreprise, l’ouverture peut avoir des avantages. Les clients peuvent devenir plus que de simple consommateurs, ils peuvent devenir des contributeurs du projet qui permettent d’améliorer le produit plus activement et plus efficacement que par une simple plainte. L’ouverture améliore significativement l’image de marque. Certain client sont près à payer plus chers un produit, justement parce qu’il est libre. L’ouverture élimine de fait l’existance de vices cachés. En effet tout est visible et tout défaut peut donc être remonté ou résolu par une communauté d’utilisateur. De plus, pour l’entreprise, il n’est plus nécessaire de dépenser beaucoup d’argent dans des protections juridiques tels que les brevés. Les brevés n’ont d’avantage que pour les très grosses entreprises qui peuvent se payer une armée d’avocat pour attaquer la concurrence. Il faut bien comprendre qu’on ne peut pas breveter une idée. On brevete la façon de réaliser une idée. Hors, il y a toujours mille façon de réaliser une idée. Un brevé donne une protection toute relative. Ainsi l’ouverture donne une seconde voix possible pour portéger la pérénité de l’entreprise.
 
-L’entreprise est libre de choisir ou pas cette voix. L’utilisateur est libre de choisir ou pas un objet libre. De là, un écosystème économique résillance et diversifié peut naître.
+L’entreprise est libre de choisir ou pas cette voix. L’utilisateur est libre de choisir ou pas un objet libre. De là, un écosystème économique diversifié et résillance peut naître.
 
 
 ### Liste de Vérification
@@ -76,7 +76,7 @@ __Les sources :__
 - [] Les sources logicielles sont‑elles éditables et compilables avec des logiciels libres ?
 - [] Les langages informatiques utilisés sont‑ils sous licences libres ?
 - [] Les sources types de sources sont‑elles éditées avec des logiciels libres ?
-- [] Le cas échéant, si le projet utilise des composants externes sous une autre licence (ex: [SoC](https://en.wikipedia.org/wiki/System_on_a_chip) avec un firmware propriétaire, ou une bibliothèque logicielle, etc), ceux‑ci sont‑ils disponibles facilement et l’interfacage est‑il expliqué ?
+- [] Le cas échéant, si le projet utilise des composants externes sous une autre licence (ex: [SoC](https://en.wikipedia.org/wiki/System_on_a_chip) avec un firmware propriétaire, ou une bibliothèque logicielle, etc), ceux‑ci sont‑ils disponibles facilement et l’interfaçage est‑il expliqué ?
 
 __L’utilisation :__
 - [] Un document pour expliquer le fonctionnement du produit existe‑t‑il ?
@@ -93,24 +93,59 @@ __La fabrication :__
 - [] Un manuel pour expliquer comment fabriquer, régler et configuer le produit existe‑il ?
 - [] Un niveau de compétence nécessaire pour la fabrication est‑il indiqué (au moins de façon approximative) ?
 - [] Les fichiers nécessaires à la fabrication sont‑ils clairement identifiés (pour éviter de fouiller dans les sources) ?
-- [] Le projet ou l’entreprise donne‑t‑elle la possibilité d’acheter le produit complet et/ou en kit ?
+- [] L’association ou l’entreprise donne‑t‑elle la possibilité d’acheter le produit complet et/ou en kit ?
 - [] Puis‑je personnaliser l’objet facilement ?
 
 
 Voir aussi les recommandations de [l’association Open Source Hardware](https://www.oshwa.org/sharing-best-practices/bonnes-pratiques-de-lopen-source-hardware-1-0/)
 
 
+### Choisir une Licence Libre
+
+Pour avoir une connaissance très approfondi des licences vous pouvez aller chercher des informations ici :
+* Option Libre
+* FSF
+* …
+
+Si vous voulez pas vous prendre la tête, je recommande les licences suivantes pour obtenir du vrai libre. Je suis pour avoir une licence différente selon ce qui est produit pour avoir une protection juridique bien pensé et optimisé selon la nature du projet. Il s’agit là de valeurs sûres, reconnues et largement utilisées.
+
+* **CERN Open Hardware Licence strongly reciprocal** pour les parties Électronique, Mécanique et Système.
+* **GNU GPL v3** pour la partie Logiciel
+* **Creative Commons By-SA** pour la partie manuel d’utilisation et de fabrication.
+
+Il faut toutefois avoir un point de vigilance sur l’imbrication de bibliothèque logiciel sous une licence différente et les composants qui intégre du code propriétaire (firmware). Dans ce cas il pourrait être nécessaire de rester sur des licences faiblement réciproque.
+
+* **CERN Open Hardware Licence weakly reciprocal** pour les parties Électronique, Mécanique et Système.
+* **GNU Leaser GPL v3** pour la partie Logiciel
+
+Dans tous les cas, il faut banir les licences permissives tel que par exemple la licence MIT. Car cela pervertirer le projet et risque une récupération par les entreprises qui replacerai votre projet sous licence propriétaire.
+
+Si vous compter fabriquer le produit pour le vendre. Il peut aussi être pertinent de déposer une marque pour protéger l’identité de votre structure. En France, il faut s’adresser à l’[INPI](https://www.inpi.fr/fr) pour le faire. C’est par exemple ce que fait Arduino. Cette démarche permet donner aux utilisateurs un repère clair sur qui à fabriquer le produit et ne pas se retrouver avec de mauvaise copie chinoise. L’association ou l’entreprise ne peut que s’engager sur la qualité de ce qu’elle produit elle‑même. Il faut mieux utiliser la version originale, le reste est hasardeux. 
+
+
 ------------------------------------------------------------------------
 
-## Au Travail
+## Au Travail : Cadrer les Paradigmes du Projet
 
-### Choisir une Licence
+Il s’agit là d’un vaste sujet qui a été fort bien décrit dans « Logiciel et Objet Libre » dont je vous recommande la lecture. Je ferai ici un résumé sur ce qui me semble le plus essentiel.
+
+### Organiser l’Équipe Projet
+
+
 
 ### Choisir des Outils Libres eux aussi
 
+Votre projet ne sera jamais véritablement libre si vous utiliser des logiciels propriétaires ou permissifs. Que ce soit pour concevoir, pour organiser le travail ou pour communiquer sur le projet.
+
+Il existe une grande quantité de logiciel libre qui sont valables. Il existe une multitude de site web qui en parle. L’un des sites web des plus complet pour cela est [FramaSoft](https://framasoft.fr/fr/).
+
+Si vous avez la paresse de cherche, rendez‑vous au chapitre 5, Construire sa Boîte à Outils.
+
+
 ### Créer un Espace d’Échange pour le Projet
 
-### Organiser l’Équipe
 
 ### Rester Motivé
+
+
 
