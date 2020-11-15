@@ -2,11 +2,11 @@
 > Auteur : Lilian Tribouilloy<br>
 > Licence : Creative Commonces BY SA<br>
 
-# Conception dans la Démarche Matériel Libre
+# Conception dans la Démarche Libriste
 
 ## Introduction
 
-Ce document a pour but d’expliquer ce qu’est le matériel libre ou l’objet libre, mais aussi de proposer un ensemble de bonne pratique pour faire en sorte que votre projet de conception libre soit réellement profitable à votre communauté.
+Ce chapitre a pour but d’expliquer ce qu’est le matériel libre ou l’objet libre, mais aussi de proposer un ensemble de bonne pratique pour faire en sorte que votre projet de conception libre soit réellement profitable à votre communauté.
 
 Loin être encore une évidence pour tout le monde, la culture libriste cherche encore son chemin dans la tête des gens. Et confronté à la réalité de notre société et les difficultés de vivre, quelconque humain ne s’intéresse au logiciel libre que par le plus grand des hasards.
 
@@ -18,7 +18,6 @@ Loin être encore une évidence pour tout le monde, la culture libriste cherche 
 ### La Liberté n’est pas une Question de Performance
 
 Pourquoi faire le choix de la liberté ? Et quel rapport avec la technologie ?
-
 
 
 
@@ -127,13 +126,17 @@ Si vous compter fabriquer le produit pour le vendre. Il peut aussi être pertine
 
 ## Au Travail : Cadrer les Paradigmes du Projet
 
-Il s’agit là d’un vaste sujet qui a été fort bien décrit dans « Logiciel et Objet Libre » dont je vous recommande la lecture. Je ferai ici un résumé sur ce qui me semble le plus essentiel.
+Il s’agit là d’un vaste sujet qui a été fort bien décrit dans le livre [« Logiciels et Objets Libres »](https://framabook.org/logiciels-et-objets-libres/) dont je vous recommande la lecture. Je ferai ici un résumé sur ce qui me semble le plus essentiel.
 
 ### Organiser l’Équipe Projet
 
 
 
-### Choisir des Outils Libres eux aussi
+### Créer un Habitat Numérique pour Échanger sur le Projet
+
+
+
+### Choisir les Outils Libres que vous aurez en Commun
 
 Votre projet ne sera jamais véritablement libre si vous utiliser des logiciels propriétaires ou permissifs. Que ce soit pour concevoir, pour organiser le travail ou pour communiquer sur le projet.
 
@@ -142,10 +145,18 @@ Il existe une grande quantité de logiciel libre qui sont valables. Il existe un
 Si vous avez la paresse de cherche, rendez‑vous au chapitre 5, Construire sa Boîte à Outils.
 
 
-### Créer un Espace d’Échange pour le Projet
+### Communiquer le Projet vers l’Extérieur
+
+
+
+### Le Dur Monde Réel : Achat et Financement
+
+
+
+### Organiser une Production
+
 
 
 ### Rester Motivé
-
 
 
