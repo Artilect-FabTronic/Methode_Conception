@@ -12,7 +12,7 @@
 On m’a une fois posé la question, au regard de mes créations, si j’étais un designer. Voici la réponse que j’ai apporté :
 
 
-> _Suis‑je designer ? Si je me conforme à la définition française, oui. Le truc, c’est que je n’aime pas beaucoup cette définition. Je trouve que ça fait trop formule magique. Dès que je vois un mot anglais, j’ai mon détecteur de langue de bois qui clignote. Je m’explique._
+> _Suis‑je designer ? Si je me conforme à la définition française, oui. Le truc, c’est que je n’aime pas beaucoup cette définition. Je trouve que ça fait trop formule magique. Dès que je vois un mot anglais, j’ai mon détecteur de langue de bois qui clignote. Je m’explique._
 >
 > _Le mot designer est un mot d’emprunt de l’anglais qui veut dire concepteur. Comme tu le sais sans doute. Mais les français ont modifié le sens de ce mot pour y ajouter quelque chose de différent. Quelque chose que les anglo‑saxons, me semble‑t‑il, ne mettent pas du tout._
 >
@@ -22,9 +22,9 @@ On m’a une fois posé la question, au regard de mes créations, si j’étais 
 >
 > _Alors, oui, c’est exactement ce que je fais. Et définitivement, je suis un concepteur. Et si on le dit en anglais : I am a designer. Au sens strict._
 >
-> _Mais c’est un peu court pour décrire l’activité dans son détail. La question est : Je conçois quoi ? Et je mets en œuvre quelle discipline ? Le quoi et le comment est, selon moi, la seule façon de ne pas se tromper dans la description de son métier._
+> _Mais c’est un peu court pour décrire l’activité dans son détail. La question est : Je conçois quoi ? Et je mets en œuvre quelle discipline ? Le quoi et le comment est, selon moi, la seule façon de ne pas se tromper dans la description de son métier._
 >
-> _Alors, posons les choses simplement. Je fais des claviers pour l’informatique. Facile, ça tout le monde aura compris. Et je déploie les disciplines suivantes : électronique, mécanique, programmation, menuiserie, de l’ergonomie. Et quoi d’autre ? Quelle est donc cette substance subtile qui tend à identifier une esthétique. Et peut‑être pour certain une émotion ?_
+> _Alors, posons les choses simplement. Je fais des claviers pour l’informatique. Facile, ça tout le monde aura compris. Et je déploie les disciplines suivantes : électronique, mécanique, programmation, menuiserie, de l’ergonomie. Et quoi d’autre ? Quelle est donc cette substance subtile qui tend à identifier une esthétique. Et peut‑être pour certain une émotion ?_
 >
 > _Je ne vois pas ce que cela pourrait être d’autre que de l’art. Ou peut‑être de l’artisanat à la limite. Il me semble que c’est bien cela qui est ajouté en plus dans le mot designer à la française. Et à l’italienne aussi d’ailleurs._
 >
@@ -39,9 +39,9 @@ Aussi, il subsiste dans l’acte de création quelque chose de mystérieux. Quel
 
 Une idée n’est rien, seule compte sa réalisation tangible. Le signe quasi certain qu’une idée est bonne, est qu’elle ne vous lâche pas, qu’elle vous hante continuellement. Mais le signe absolument certain qu’une idée est bonne, est qu’elle fonctionne réellement et que les gens l’utilisent.
 
-Concevoir est un exercice de l’esprit particulier. Il a ceci du particulier par rapport à la philosophie et au marketing, qu’il faut faire l’épreuve du réel. Et ce n’est pas une petite chose que de faire l’épreuve du réel. Il s’agit d’être concret. Être concret, c’est 3 choses : _des idées, des matériaux (ou composants) et des outils_. Et il faut répondre à la question suivante. Comment on assemble tout cela **précisément** ? Précisément, ça veut dire qu’on est plus dans le domaine des supputations philosophiques et des spéculations intellectuelles où on raisonne dans l’absolu avec des hypthèses sur la comète. On est plus là pour faire de la science fiction. On doit faire quelques choses de réalisable avec les moyens dont on dispose réellement.
+Concevoir est un exercice de l’esprit particulier. Il a ceci du particulier par rapport à la philosophie et au marketing, qu’il faut faire l’épreuve du réel. Et ce n’est pas une petite chose que de faire l’épreuve du réel. Il s’agit d’être concret. Être concret, c’est 3 choses : _des idées, des matériaux (ou composants) et des outils_. Et il faut répondre à la question suivante. Comment on assemble tout cela **précisément** ? Précisément, ça veut dire qu’on est plus dans le domaine des supputations philosophiques et des spéculations intellectuelles où on raisonne dans l’absolu avec des hypothèses sur la comète. On est plus là pour faire de la science‑fiction. On doit faire quelques choses de réalisable avec les moyens dont on dispose réellement.
 
-Et c’est là une très grande différence entre un «chercheur‑scientifique» et un «concepteur‑technicien». Bien qu’il existe des chercheurs en technologie. Et il en existe de plus en plus. Précisément, car on fini par trouver des limitations structurelles à nos réalisations à cause des moyens limités dont on dispose. Il m’est arrivé de rencontrer des ingénieurs qui n’arrivaient pas à faire le deuil de ne pas être des scientifiques (c’est courant chez les jeunes qui sortent de l’école). Il est vrai que les écoles forment les gens en sélectionnant ceux qui deviendront des chercheurs. Et ne pas y arriver est vécu comme un echec. Oubliez cela et réjouissez‑vous. Il y a bien des joies à passer du côté de la réalisation concrète et de la créativité. Souvenez‑vous du plaisir que vous aviez enfant à assembler des légos. En devenant concepteur, vous allez pouvoir jouer avec des «légos high‑tech» super cools.
+Et c’est là une très grande différence entre un « chercheur‑scientifique » et un « concepteur‑technicien ». Bien qu’il existe des chercheurs en technologie. Et il en existe de plus en plus. Précisément, car on finit par trouver des limitations structurelles à nos réalisations à cause des moyens limités dont on dispose. Il m’est arrivé de rencontrer des ingénieurs qui n’arrivaient pas à faire le deuil de ne pas être des scientifiques (c’est courant chez les jeunes qui sortent de l’école). Il est vrai que les écoles forment les gens en sélectionnant ceux qui deviendront des chercheurs. Et ne pas y arriver est vécu comme un échec. Oubliez cela et réjouissez‑vous. Il y a bien des joies à passer du côté de la réalisation concrète et de la créativité. Souvenez‑vous du plaisir que vous aviez enfant à assembler des Légos®. En devenant concepteur, vous allez pouvoir jouer avec des « Légos® high‑tech » super cools.
 
 
 ### Concevoir un produit complet et moderne, c’est mélanger plusieurs disciplines
@@ -67,21 +67,21 @@ Les fablabs, les makerspaces ou les hackerspaces ou peu importe comment on les a
 
 ### Doit‑on Concevoir Seul ou à Plusieurs ?
 
-Comme je le disais en introduction, les objets libres sont un défi organisationnels. Aussi, sur un projet d’envergure, il serait complétement fou de rester seul. D’un autre côté, si on se lance dans la conception d’un objet libre, c’est peut‑être aussi pour trouver de la liberté. Pour trouver enfin la liberté de laisser libre court à sa créativité. Il n’est pas si courant de pouvoir exprimer sa créativité dans le monde du travail salarié. Hors, être à plusieurs peu de faite restrindre à nouveau notre liberté.
+Comme je le disais en introduction, les objets libres sont un défi organisationnel. Aussi, sur un projet d’envergure, il serait complétement fou de rester seul. D’un autre côté, si on se lance dans la conception d’un objet libre, c’est peut‑être aussi pour trouver de la liberté. Pour trouver enfin la liberté de laisser libre court à sa créativité. Il n’est pas si courant de pouvoir exprimer sa créativité dans le monde du travail salarié. Hors, être à plusieurs peu de faite restreindre à nouveau notre liberté.
 
-Il y a donc là, un jeu de subtile équilibre entre l’ambition du projet, préserver la créativité de chacun et rester cohérent pour avancer. Je n’ai pas de recette magique pour trouver cet équilibre. Je crois qu’il faut agir selon ces envies, faire confiance à son instinct. Il ne faut pas que travailler à plusieurs soit une contrainte invivable. Les disputes, la zizanie  est la première cause d’échec dans un projet.
+Il y a donc là, un jeu de subtil équilibre entre l’ambition du projet, préserver la créativité de chacun et rester cohérent pour avancer. Je n’ai pas de recette magique pour trouver cet équilibre. Je crois qu’il faut agir selon ces envies, faire confiance à son instinct. Il ne faut pas que travailler à plusieurs soit une contrainte invivable. Les disputes, la zizanie est la première cause d’échec dans un projet.
 
-Si vous souhaitez rester seul ou que vous ne parvenez pas à emmener avec vous des gens dans votre projet. Il sera peu être raisonnable de revoir vos ambitions à la baisse. L’important est toujours d’avancer et de se faire plaisir. Ça n’empêche pas que vous pouvez trouver des personnes en cours de route. D’une part, quand le projet commence à prendre forme, c’est plus facile d’expliquer le projet et de motiver les autres à vous rejoindre. Mais d’un autre côté, en avancant le projet on fige les paradigmes initiaux du projet. Ce qui peut‑être une difficulté pour ceux qui rentre dans le projet, car il risque de ne pas trouver leur compte au niveau liberté d’action et créativité. Il faut quasiment que les gens « tombent amoureux » du projet pour qu’ils acceptent de travailler gratuitement, et travailler sur le long terme, sur un projet communautaire. Et en plus, il faudrait que la personne soit dans le même état d’esprit que vous pour que vous arriviez à travailler ensemble. La perle rare quoi… 
+Si vous souhaitez rester seul ou que vous ne parvenez pas à emmener avec vous des gens dans votre projet. Il sera peut‑être raisonnable de revoir vos ambitions à la baisse. L’important est toujours d’avancer et de se faire plaisir. Ça n’empêche pas que vous pouvez trouver des personnes en cours de route. D’une part, quand le projet commence à prendre forme, c’est plus facile d’expliquer le projet et de motiver les autres à vous rejoindre. Mais d’un autre côté, en avançant le projet on fige les paradigmes initiaux du projet. Ce qui peut‑être une difficulté pour ceux qui rentre dans le projet, car il risque de ne pas trouver leur compte au niveau liberté d’action et créativité. Il faut quasiment que les gens « tombent amoureux » du projet pour qu’ils acceptent de travailler gratuitement, et travailler sur le long terme, sur un projet communautaire. Et en plus, il faudrait que la personne soit dans le même état d’esprit que vous pour que vous arriviez à travailler ensemble. La perle rare quoi… 
 
-C’est pourquoi la création d’une entreprise peut résoudre bien des problèmes au niveau du recrutement. Si toutefois, on en a l’ambition et qu’on pense pouvoir trouver une rentabilité avec le projet. Car être rémunérer pour travailler sur un projet passionnant devient acceptable pour beaucoup de gens. Quitte à revoir un peu à la baisse ses ambitions sur le plan de la créativité. En effet en france, des sondages (je vous laisse faire des recherches) montrent que 30% des gens détestent leur travail et que seulement 9% des gens déclarent adorer leur travail. Voilà qui laisse à réfléchir sur les conditions de vie des salariés et de leur épanouïsement au travail…
+C’est pourquoi la création d’une entreprise peut résoudre bien des problèmes au niveau du recrutement. Si toutefois, on en a l’ambition et qu’on pense pouvoir trouver une rentabilité avec le projet. Car être rémunérer pour travailler sur un projet passionnant devient acceptable pour beaucoup de gens. Quitte à revoir un peu à la baisse ses ambitions sur le plan de la créativité. En effet en France, des sondages (je vous laisse faire des recherches) montrent que 30% des gens détestent leur travail et que seulement 9% des gens déclarent adorer leur travail. Voilà qui laisse à réfléchir sur les conditions de vie des salariés et de leur épanouissement au travail…
 
-Il me semble important d’insister sur un point. Il y a toujours une part d’intimité dans la créativité qui fait qu’un travail n’est pas ,ou peu, partageable (dans le sens du développement collaboratif). Et cela tient à la nature de l’activité. En effet, vous êtes vous déjà demandé pourquoi un roman n’est jamais écrit à plus de **1** auteur ? Cela tient précisément au degré d’intimité de l’exercice de l’écriture. Devoir discuter du choix de chaque mot et de chaque adjectif à plusieurs et ceci sur 300 pages. C’est mission impossible. Avec une telle contrainte de devoir écrire un roman à deux, même les gens plus calmes s’engueulent au bout de 2 jours.
+Il me semble important d’insister sur un point. Il y a toujours une part d’intimité dans la créativité qui fait qu’un travail n’est pas, ou peu, partageable (dans le sens du développement collaboratif). Et cela tient à la nature de l’activité. En effet, vous êtes‑vous déjà demandé pourquoi un roman n’est jamais écrit à plus de **1** auteur ? Cela tient précisément au degré d’intimité de l’exercice de l’écriture. Devoir discuter du choix de chaque mot et de chaque adjectif à plusieurs et ceci sur 300 pages. C’est mission impossible. Avec une telle contrainte de devoir écrire un roman à deux, même les gens plus calmes s’engueulent au bout de 2 jours.
 
-C’est pourquoi dans les milieux artistiques, la créativité collective n’est pas si utilisé que cela. Dans un orchestre symphonique, il y a toujours un seul chef d’orchestre, jamais deux. De même, en dance, il y a un seul chorégraphe. Au théatre, il y a un seul metteur en scène. En BD, il y a soit un auteur qui fait tout, soit un dessinateur et un scénariste, avec éventuellement un coloriste. Mais les rôles sont bien répartis. Au cinéma, il peut y avoir une très grosse équipe, toujours bien hiérarchisée, mais il y a toujours un seul réalisateur, avec éventuellement un seul auteur qui travaille en étroite collaboration pour l’adaptation. (Voilà pour moi, la raison profonde du piètre scénario de la troisième trilogie Star Wars…) 
+C’est pourquoi dans les milieux artistiques, la créativité collective n’est pas si utilisée que cela. Dans un orchestre symphonique, il y a toujours un seul chef d’orchestre, jamais deux. De même, en dance, il y a un seul chorégraphe. Au théâtre, il y a un seul metteur en scène. En BD, il y a soit un auteur qui fait tout, soit un dessinateur et un scénariste, avec éventuellement un coloriste. Mais les rôles sont bien répartis. Au cinéma, il peut y avoir une très grosse équipe, toujours bien hiérarchisée, mais il y a toujours un seul réalisateur, avec éventuellement un seul auteur qui travaille en étroite collaboration pour l’adaptation. (Voilà pour moi, la raison profonde du piètre scénario de la troisième trilogie Star Wars…) 
 
-C’est pourquoi, je pense qu’il existe toujours, et selon le type de discipline (même dans les disciplines techniques où il y a moins d’affect à priori), une dimension maximum de l’équipe à partir de laquelle ça ne fonctionne plus. À partir de laquelle le rendement s’écroule dramatiquement. C’est pourquoi, il est important de bien répartir les rôles pour que les gens de se marche pas dessus. Et c’est pourquoi, les organisations hiérarchisés sont si courantes. Cela me semble être une vérité anthropologique. Une limitation humaine à l’origine de bien des maux. Mais je voudrais pas me perdre dans trop de philosophie ici…
+C’est pourquoi, je pense qu’il existe toujours, et selon le type de discipline (même dans les disciplines techniques où il y a moins d’affect à priori), une dimension maximum de l’équipe à partir de laquelle ça ne fonctionne plus. À partir de laquelle le rendement s’écroule dramatiquement. C’est pourquoi, il est important de bien répartir les rôles pour que les gens de se marche pas dessus. Et c’est pourquoi, les organisations hiérarchisées sont si courantes. Cela me semble être une vérité anthropologique. Une limitation humaine à l’origine de bien des maux. Mais je ne voudrais pas me perdre dans trop de philosophie ici…
 
-Quoi qu’il en soit vous êtes les seules à pouvoir choisir comment manager (pour employer un mot barbare) un projet. Personne ne peut faire les choix fondamentaux à votre place. Mais garder à l’esprit qu’il est très important de faire ces choix. Ne pas faire ces choix et laisser courir une ambiguïté à ce sujet, vous ménera immanquablement à des déconvenu le jour où vous devrez collaborer avec quelqu’un.
+Quoi qu’il en soit vous êtes les seules à pouvoir choisir comment manager (pour employer un mot barbare) un projet. Personne ne peut faire les choix fondamentaux à votre place. Mais garder à l’esprit qu’il est très important de faire ces choix. Ne pas faire ces choix et laisser courir une ambiguïté à ce sujet, vous mènera immanquablement à des déconvenues le jour où vous devrez collaborer avec quelqu’un.
 
 
 ------------------------------------------------------------------
@@ -109,11 +109,11 @@ Combien de fois, je suis tombé sur des projets sur GitHub ou GitLab, sans compr
 
 C’est pourquoi, il m’est parût pertinent de proposer une manière de ranger un projet. Je pense qu’une bonne façon de s’y prendre et de s’organiser par métier, puis par type d’actions fondamentales dans le deuxième niveau hiérarchique.
 
-Dans le dossier « Template_Dossier_Projet », je propose non pas un dossier template, mais deux dossiers templates. Le premier appelé «version débutant» et le second appelé « version rigueur ». Pourquoi ? Car je pense, comme je l’ai précisé en introduction, qu’une méthode de travail, c’est quelque chose qui se construit dans le temps. Que ça ne sert à rien d’imposer d’emblée trop de complexité. Ces deux versions sont comme les deux points d’une trajectoire. Ainsi un débutant pourra commencer tranquillement par la « version débutant » ; puis au fur et à mesure que les choses apparaissent, il pourra aller chercher dans la version rigueur les éléments dont il a besoin. On comprend mieux les choses par l’expérimentation que par un cours magistral abstrait.
+Dans le dossier « Template_Dossier_Projet », je propose non pas un dossier template, mais deux dossiers templates. Le premier appelé « version débutant » et le second appelé « version rigueur ». Pourquoi ? Car je pense, comme je l’ai précisé en introduction, qu’une méthode de travail, c’est quelque chose qui se construit dans le temps. Que ça ne sert à rien d’imposer d’emblée trop de complexité. Ces deux versions sont comme les deux points d’une trajectoire. Ainsi un débutant pourra commencer tranquillement par la « version débutant » ; puis au fur et à mesure que les choses apparaissent, il pourra aller chercher dans la version rigueur les éléments dont il a besoin. On comprend mieux les choses par l’expérimentation que par un cours magistral abstrait.
 
 Dans la version rigueur, vous trouverez aussi des fichiers templates pour différentes choses, comme par exemple une base de données pour les composants, ou un fichier pour faire une BOM (Bill of Material = nomenclature composant), une spécification template, un fichier pour calculer la fiabilité. Et plein d’autres choses utiles.
 
-Les deux versions ont les dossier suivants en tête, voici à quoi ils servent :
+Les deux versions ont les dossiers suivants en tête, voici à quoi ils servent :
 
 * __00_Management__ : Ce dossier n’a pas nécessairement vocation à être partagé au grand publique. Il sert surtout à l’équipe de développement pour s’organiser.
 * __01_Système__ : Les éléments qui sont transverses à plusieurs métiers. Et en particulier, la spécification du produit et l’architecture du produit.
@@ -126,7 +126,7 @@ Les deux versions ont les dossier suivants en tête, voici à quoi ils servent :
 On trouve ensuite dans chaque dossier, d’autres dossiers qui correspondent aux étapes fondamentales de conception. Vous trouverez un petit « readme.md » pour comprendre à quoi sert ce dossier. Lire ensuite les paragraphes « Conception » qui suivent pour comprendre comment tout ça s’articule.
 
 
-### Cycle de  Développement en V et Critique du Processus Industriel
+### Cycle de Développement en V et Critique du Processus Industriel
 
 Dans ce paragraphe, je détaille les grandes lignes du processus industriel pour mieux mettre en lumière ce qui applicable ou pas pour un hobbyste. Et ainsi expliquer qu’il est possible de faire les choses plus simplement.
 
@@ -138,28 +138,28 @@ Dans l’industrie, le mot conception est substitué aux mots « processus de 
 ![image sur le cycle en V industriel](images/cycle_en_V_industriel.png)
 
 
-0. __ÉTUDE DE MARCHÉ :__ Il s’agit de l’étape commerciale en amont qui doit définir le besoin client et l’adéquation avec une solution que l’on appelle produit (ou service dans certain cas). Je ne parlerai pas dans ce document de ce qu’il faudrait faire à cette étape. On peut pour faire émerger l’idée initiale s’appuyer sur la méthode du [design thinking](https://en.wikipedia.org/wiki/Design_thinking).
+0. __ÉTUDE DE MARCHÉ :__ Il s’agit de l’étape commerciale en amont qui doit définir le besoin client et l’adéquation avec une solution que l’on appelle produit (ou service dans certain cas). Je ne parlerai pas dans ce document de ce qu’il faudrait faire à cette étape. On peut pour faire émerger l’idée initiale s’appuyer sur la méthode du [design thinking](https://en.wikipedia.org/wiki/Design_thinking).
 	
 	
 1.  __SPÉCIFICATION :__ Fixer sur le « papier », la définition du produit. Dans l’industrie, on découpe toutes les caractéristiques en petits éléments, qu’on appelle « exigence ». Ainsi, on parle de management des exigences quand on mette en œuvre des actions pour s’assurer que toutes les exigences sont tenues une par une. Ces exigences sont numérotées pour être tracé dans une base de données. En particulier, le cahier des charges en amont est décliné en des spécifications métiers, puis des documents de justification théorique puis des documentations de vérification expérimentales. On parle alors d’une architecture documentaire. Dans cette architecture tous les éléments sont numérotés pour créer des liens entre spécification produit, les spécifications métiers puis les différents types de justification. On parle de « couverture des exigences ».
 	
 	
-2. __JUSTIFICATION :__ Le cœur de l’étude, mettre en confrontation ce qu’on a imaginé et ce qui est réellement possible selon les technologies disponibles. Il s’agit aussi, dans un document que l’on appelle parfois « DJD, dossier justificatif de définition », de clarifier, d’expliciter tout ce qui est de l’ordre l’implicite et d’écrire tout ce qui est rester dans le domaine de tacite. Il faut remettre en cause les incohérences de la spécification pour aboutir à une spécification plus précise. Il s’agit aussi et surtout de définir la solution technique et expliquer le choix technique d’une part. Et d’autre part, il s’agit de prouver théoriquement que la solution fonctionne et répond parfaitement à l’exigence.
+2. __JUSTIFICATION :__ Le cœur de l’étude, mettre en confrontation ce qu’on a imaginé et ce qui est réellement possible selon les technologies disponibles. Il s’agit aussi, dans un document que l’on appelle parfois « DJD, dossier justificatif de définition », de clarifier, d’expliciter tout ce qui est de l’ordre l’implicite et d’écrire tout ce qui est rester dans le domaine de tacite. Il faut remettre en cause les incohérences de la spécification pour aboutir à une spécification plus précise. Il s’agit aussi et surtout de définir la solution technique et expliquer le choix technique d’une part. Et d’autre part, il s’agit de prouver théoriquement que la solution fonctionne et répond parfaitement à l’exigence.
 	
 	
-3. __SCHÉMA :__ Dessiner concrètement le résultat de l’étude. C’est là qu’on fixe la solution technique avec la plus grande précision. Quel composant est connecté où et comment ? Et on donne la liste des composants nécessaires. On appelle cette liste une BOM ou une nomenclature.
+3. __SCHÉMA :__ Dessiner concrètement le résultat de l’étude. C’est là qu’on fixe la solution technique avec la plus grande précision. Quel composant est connecté où et comment ? Et on donne la liste des composants nécessaires. On appelle cette liste une BOM ou une nomenclature.
 	
 	
-4. __ROUTAGE :__ Dessiner le circuit imprimé et prendre en compte les contraintes liées au processus de fabrication d’un PCB. Le schéma qui est encore une certaine abstraction des choses et alors réalisé physiquement.
+4. __ROUTAGE :__ Dessiner le circuit imprimé et prendre en compte les contraintes liées au processus de fabrication d’un PCB. Le schéma qui est encore une certaine abstraction des choses et alors réalisé physiquement.
 	
 	
-5. __FABRICATION DU PROTOTYPE :__ Prototype destiné au développement. Ce prototype peu tout de même être fabriquer industriellement ou pas selon le degré d’avancement. On parle d’industrialisation progressive ou processus d’industrialisation.
+5. __FABRICATION DU PROTOTYPE :__ Prototype destiné au développement. Ce prototype peu tout de même être fabriquer industriellement ou pas selon le degré d’avancement. On parle d’industrialisation progressive ou processus d’industrialisation.
 	
 	
-6. __VÉRIFICATION :__ Mise au point de tous les blocs fonctionnels unitairement. C’est le moment de vérité pour le concepteur. On vérifie point par point que tout fonctionne comme attendu et selon toutes les conditions, conditions climatiques notamment. Il est quasiment impossible de faire tout bon du premier coup. Aussi les erreurs (problème, bug ou défaut) sont tracées dans un outil de suivi (par exemple, Mantis Bug Tracker ou Jira). Le traitement des défauts pourra se faire selon une méthodologie [8D](https://fr.wikipedia.org/wiki/8D). On aura consécutivement à la résolution des problèmes, une liste de solution à appliquer qui donneront lieu à un nouveau prototype. Et on recommencera le processus.
+6. __VÉRIFICATION :__ Mise au point de tous les blocs fonctionnels unitairement. C’est le moment de vérité pour le concepteur. On vérifie point par point que tout fonctionne comme attendu et selon toutes les conditions, conditions climatiques notamment. Il est quasiment impossible de faire tout bon du premier coup. Aussi les erreurs (problème, bug ou défaut) sont tracées dans un outil de suivi (par exemple, Mantis Bug Tracker ou Jira). Le traitement des défauts pourra se faire selon une méthodologie [8D](https://fr.wikipedia.org/wiki/8D). On aura consécutivement à la résolution des problèmes, une liste de solution à appliquer qui donneront lieu à un nouveau prototype. Et on recommencera le processus.
 	
 	
-7. __VALIDATION :__ Validation fonctionnel de l’ensemble et validation de la cohérence documentaire. Vérification de la couverture des exigences. Même chose qu’à l’étape de Vérification, mais au niveau global produit. On pourra parler aussi de validation au niveau système qu’en le produit s’insère dans un ensemble plus grand. On parle de tests d’intégration système.
+7. __VALIDATION :__ Validation fonctionnel de l’ensemble et validation de la cohérence documentaire. Vérification de la couverture des exigences. Même chose qu’à l’étape de Vérification, mais au niveau global produit. On pourra parler aussi de validation au niveau système qu’en le produit s’insère dans un ensemble plus grand. On parle de tests d’intégration système.
 	
 	
 8. __QUALIFICATION :__ Respect des Normes, standards et Réglementations. Dans l’industrie, c’est souvent une équipe à part entière qui s’occupe de cette étape. Les normes forment un véritable labyrinthe documentaire à décliner selon tous les pays dans lesquels on souhaite vendre le produit. Cette étape donne lieu à des tests spécifiques qui visent à vérifier par exemple : la CEM (compatibilité électromagnétique), la tenue au ESD (décharge électrostatique), la tenue aux flammes, la robustesse dans les conditions climatique, vibratoire ou choc mécanique, le respect des standards de radiocommunication…
@@ -168,13 +168,13 @@ Dans l’industrie, le mot conception est substitué aux mots « processus de 
 9. → _Puis on réitère entre 1 et 8, jusqu’à ce que tout soit OK._ ↺
 	
 	
-10. __FABRICATION EN SÉRIE :__ La conception est terminée. Il s’agit maintenir de fabriquer efficacement le produit en masse. L’action en amont de l’industrialisation doit permettre de bien faire le passage de relais entre le monde de la conception et le monde de la fabrication.
+10. __FABRICATION EN SÉRIE :__ La conception est terminée. Il s’agit maintenir de fabriquer efficacement le produit en masse. L’action en amont de l’industrialisation doit permettre de bien faire le passage de relais entre le monde de la conception et le monde de la fabrication.
 
-Ce workflow (flux de travail) est écrit ici du point de vu de l’électronicien. Du point de vu du mécanicien et du codeur, les choses se déclinent différemment aux étapes 3 à 6.
+Ce workflow (flux de travail) est écrit ici du point de vue de l’électronicien. Du point de vu du mécanicien et du codeur, les choses se déclinent différemment aux étapes 3 à 6.
 
-Pour le mécanicien, on a en 3 : le dessin en 3D. Et en 4 : les projections en 2D et les plans de fabrication. Et en 6 les test de vérification sont de nature différente de l’électronicien.
+Pour le mécanicien, on a en 3 : le dessin en 3D. Et en 4 : les projections en 2D et les plans de fabrication. Et en 6, les tests de vérification sont de nature différente de l’électronicien.
 
-Pour le codeur, les étapes 3 et 4 sont quasiment confondues dans une étape de codage / débeugage (on parle de α‑test). En 5, il y a simplement compilation du code et remise de master. Master, ça veut dire figuer une version qu’on estime suffisament mature pour être livrée aux utilisateurs. En 6, on a une vérification strictement fonctionnel qui peut être faite par des tiers personnes ou les utilisateurs eux‑mêmes. On parle de β‑testeurs.
+Pour le codeur, les étapes 3 et 4 sont quasiment confondues dans une étape de codage / débeugage (on parle de α‑test). En 5, il y a simplement compilation du code et remise de master. Master, ça veut dire figer une version qu’on estime suffisamment mature pour être livrée aux utilisateurs. En 6, on a une vérification strictement fonctionnelle qui peut être faite par des tiers personnes ou les utilisateurs eux‑mêmes. On parle de β‑testeurs.
 
 
 #### Critique et ce qui se Pratique en Condition Réelle
@@ -183,18 +183,17 @@ Bien tout cela semble parfaitement logique. Et il l’est dans les grandes ligne
 
 ![image sur ce qui correspond mieux à la façon réelle de penser](images/Gantt_Typique_Industriel.png)
 
-L’image ci‑dessus décrit un cycle en V tel que typiquement réalisé dans la vie réelle pour un concepteur électronique. On commence bien
-par une spécification, mais très rapidement vient se positionner en parallèle l’action de justification, puis peu de temps après se positionne l’action d’écriture du schéma. Et il est fortement recommandé de faire beaucoup d’itérations entre ces 3 éléments (Spéc / Justif / Schéma) pour converger efficacement vers une solution. Plus on prend le temps de bien se poser toutes les questions pour ces 3 éléments, et moins on aura d’erreurs au moment des vérifications, validations et qualifications. Et il faut garder en tête que ces erreurs peuvent vous coûtez chers. Pas seulement en argent, mais aussi en temps. Par exemple, si on se rend compte que l’architecture du produit ne permet pas le répondre au besoin, c’est la catastrophe. Il faut tout recommencer. Et ça peut‑être 6 mois ou 1 an de perdue.
+L’image ci‑dessus décrit un cycle en V tel que typiquement réalisé dans la vie réelle pour un concepteur électronique. On commence bien par une spécification, mais très rapidement vient se positionner en parallèle l’action de justification, puis peu de temps après se positionne l’action d’écriture du schéma. Et il est fortement recommandé de faire beaucoup d’itérations entre ces 3 éléments (Spéc / Justif / Schéma) pour converger efficacement vers une solution. Plus on prend le temps de bien se poser toutes les questions pour ces 3 éléments, et moins on aura d’erreurs au moment des vérifications, validations et qualifications. Et il faut garder en tête que ces erreurs peuvent vous coûtez chers. Pas seulement en argent, mais aussi en temps. Par exemple, si on se rend compte que l’architecture du produit ne permet pas le répondre au besoin, c’est la catastrophe. Il faut tout recommencer. Et ça peut‑être 6 mois ou 1 an de perdue.
 
 Il y a ensuite un biseau entre schéma et routage. Dans l’industrie, le routage est souvent réalisé par une équipe spécialisée. Il faut alors réaliser une spécification de routage en bonne intelligence entre les deux équipes. Il n’est pas complètement impossible de trouver des erreurs sur le schéma à cette étape. Et on peut aussi laisser des degrés de liberté au routeur pour faciliter le routage. Par exemple, inversion de pins sur des fonctions équivalentes.
 
 Mais sur des fonctions complexes le biseau schéma / routage peut aller plus loin. En effet, pour concevoir une fonction RF (radiofréquence), il faut carrément réaliser parallèlement, simulation (donc justification), schéma et routage. Car dans le domaine radio, un bout de piste devient équivalent à un composant à part entière, avec par exemple une impédance ou un couplage particulier.
 
-Puis il y a un biseau entre vérification unitaire, validation fonctionnel ou systéme et qualification.
+Puis il y a un biseau entre vérification unitaire, validation fonctionnel ou système et qualification.
 
-Enfin, les actions d’achat et d’industrialisation arrive de façon ponctuel à des moments clés. Les achats au début pour chiffrer la solution ou le choix des composants les moins chers. Un bon suivi du coût doit se faire un amont, pas quand on fini de travailler. Il n’est pas question de recasser le produit sur la ligne d’arrivé. De même, l’industrialisation doit intervenir pendant le choix technologique pour s’assurer qu’on arrivera à fabriquer industriellement le produit à la fin. Industrialisation également au moment de la réalisation du routage et la conception de la mécanique pour vérifier que tout se fabrique correctement selon les outils dont on dispose.
+Enfin, les actions d’achat et d’industrialisation arrive de façon ponctuelle à des moments clés. Les achats au début pour chiffrer la solution ou le choix des composants les moins chers. Un bon suivi du coût doit se faire un amont, pas quand on a fini de travailler. Il n’est pas question de recasser le produit sur la ligne d’arrivé. De même, l’industrialisation doit intervenir pendant le choix technologique pour s’assurer qu’on arrivera à fabriquer industriellement le produit à la fin. Industrialisation également au moment de la réalisation du routage et la conception de la mécanique pour vérifier que tout se fabrique correctement selon les outils dont on dispose.
 
-Pendant la fabrication des prototype et à la fin du processus de développement, l’industrialisation vérifie que tout se fabrique bien correctement et qu’on sait bien vérifier le bon fonctionnement du produit fabriqué. Les achats chercherons à vérifier qu’on sait tout acheter en quantité suffisante et au meilleur coût. Et aussi éviter les pénuries de composants. On pourra pour cela avoir une stratégie de double‑source. C’est à dire des références chez plusieurs fournisseurs et/ou fabricant qui sont équivalents techniquement. Il peut aussi y avoir une gestion des obsolescences de composants.
+Pendant la fabrication des prototypes et à la fin du processus de développement, l’industrialisation vérifie que tout se fabrique bien correctement et qu’on sait bien vérifier le bon fonctionnement du produit fabriqué. Les achats chercheront à vérifier qu’on sait tout acheter en quantité suffisante et au meilleur coût. Et aussi éviter les pénuries de composants. On pourra pour cela avoir une stratégie de double‑source. C’est à dire des références chez plusieurs fournisseurs et/ou fabricant qui sont équivalents techniquement. Il peut aussi y avoir une gestion des obsolescences de composants.
 
 
 #### Adaptation pour un Hobbyste
@@ -209,7 +208,7 @@ En revanche, et c’est là toute la difficulté, il faut sélectionner les acti
 
 Ne vous mettez pas la pression. Après tout, ne pas arriver tout à fait au bout n’est peut‑être pas si grave, si votre but et simplement d’apprendre. Et à n’en pas douter, vous ferez mieux la prochaine fois. Apprendre est déjà en soi une noble ambition.
 
-Je recommenderai également d’adapter le processus de manière à favoriser le développement communautaire. Au lieu de penser fabrication série, on pensera documentation accessible aux utilisateurs pour qu’il puisse soit tous fabriquer eux‑mêmes soit assembler des modules tout fait qui aurait été fait fabriquer par votre groupe associatif ou entreprise. Le montage en kit doit être favorisé. On peut aussi imaginer s’organiser pour faire des achats groupé pour limiter le coût d’achat pour tous. L’impossibilité de mutualiser les coûts et de faire de gros investissement est une raison qui fait qu’un objet libre est souvent (mais pas toujours) plus chers qu’un objet du commerce classique. L’utilisateur doit l’accepter et ne plus se voir comme un consommateur, mais comme contributeur plus ou moins actif de la solution communautaire. Il y a un échange équitable entre les deux parties dont on ne connait plus très bien où se situe la frontière. Il s’agit là d’un véritable nouveau contrat moral inédit qu’offre les objets libres. Mais nous en reparlerons au chapitre suivant. 
+Je recommanderai également d’adapter le processus de manière à favoriser le développement communautaire. Au lieu de penser fabrication série, on pensera documentation accessible aux utilisateurs pour qu’il puisse soit tous fabriquer eux‑mêmes soit assembler des modules tout fait qui aurait été fait fabriquer par votre groupe associatif ou entreprise. Le montage en kit doit être favorisé. On peut aussi imaginer s’organiser pour faire des achats groupés pour limiter le coût d’achat pour tous. L’impossibilité de mutualiser les coûts et de faire de gros investissement est une raison qui fait qu’un objet libre est souvent (mais pas toujours) plus chers qu’un objet du commerce classique. L’utilisateur doit l’accepter et ne plus se voir comme un consommateur, mais comme contributeur plus ou moins actif de la solution communautaire. Il y a un échange équitable entre les deux parties dont on ne connait plus très bien où se situe la frontière. Il s’agit là d’un véritable nouveau contrat moral inédit qu’offre les objets libres. Mais nous en reparlerons au chapitre suivant. 
 
 
 ------------------------------------------------------------------------
@@ -222,42 +221,42 @@ Je recommenderai également d’adapter le processus de manière à favoriser le
 
 POC, MVP, modèle A puis B puis C, Ramp‑up model, prototypage (rapide ou pas), maquettage, design thinking, lean start‑up…
 
-La litérature technique regorge de mot barbare qui embrouille la vision de ce qu’est un prototype et à quoi il serve. Et c’est bien domage, car un prototype est un outil essentiel pour un concepteur. POC (Proof Of Concept ou preuve de concept) est sensé servir à vérifier la pertinence technique et la potentialité de la solution. MVP (Minimal Viable Product ou produit minimun viable) est sensé servir à vérifier que le produit dans sa version essentielle (bien qu’incomplète) va rencontrer un succès auprès de l’utilisateur final.
+La littérature technique regorge de mot barbare qui embrouille la vision de ce qu’est un prototype et à quoi il serve. Et c’est bien dommage, car un prototype est un outil essentiel pour un concepteur. POC (Proof Of Concept ou preuve de concept) est sensé servir à vérifier la pertinence technique et la potentialité de la solution. MVP (Minimal Viable Product ou produit minimum viable) est sensé servir à vérifier que le produit dans sa version essentielle (bien qu’incomplète) va rencontrer un succès auprès de l’utilisateur final.
 
-Le problème de ses mots, c’est qu’ils font une pré‑supposition sur ce dont à quoi est sensé servir un prototype. Une personne (qui n’a peut‑être jamais rien conçu de sa vie) est en train de vous expliquer comment travailler. Hors, je me suis déjà expliqué en introduction sur le faite que j’étais contre les méthodes imposées de façon autoritaires et qu’il fallait laisser le concepteur choisir sa méthode et ses outils de travail. Ces gens, qui se croivent bienveillant, ne se rendent pas compte de ce que cela à de contre productif. Et ils ont qui plus est, une vision limitée de ce qu’est un prototype. POC = prouver que ça marche. MVP = prouver que ça va se vendre. Hors un prototype peut servir à des choses bien plus subtiles que cela. Mais nous allons y revenir…
+Le problème de ses mots, c’est qu’ils font une pré‑supposition sur ce dont à quoi est sensé servir un prototype. Une personne (qui n’a peut‑être jamais rien conçu de sa vie) est en train de vous expliquer comment travailler. Hors, je me suis déjà expliqué en introduction sur le faite que j’étais contre les méthodes imposées de façon autoritaires et qu’il fallait laisser le concepteur choisir sa méthode et ses outils de travail. Ces gens, qui se croient bienveillant, ne se rendent pas compte de ce que cela à de contre‑productif. Et ils ont qui plus est, une vision limitée de ce qu’est un prototype. POC = prouver que ça marche. MVP = prouver que ça va se vendre. Hors, un prototype peut servir à des choses bien plus subtiles que cela. Mais nous allons y revenir…
 
 
 #### Critique de la définition de l’OMC
 
 Voici un fameux exemple de gens qui n’ont jamais rien conçu de leur vie qui se permettent de vous expliquer votre travail. (Mais c’est là sans doute un effet psychologique bien connu.)
 
-L’OMC (Organisation Mondial du Commerce) a donné une définition de ce qu’est un prototype à des fins de promouvoir l’innovation. ( Non, mais de quoi je me mêle. Est ce que je me permets de leur expliquer ce que c’est une loi ? … ) La voici :
+L’OMC (Organisation Mondial du Commerce) a donné une définition de ce qu’est un prototype à des fins de promouvoir l’innovation. (Non, mais de quoi je me mêle. Est‑ce que je me permets de leur expliquer ce que c’est une loi ? … ) La voici :
 
 > « Un prototype est un modèle original qui possède toutes les qualités techniques et toutes les caractéristiques de fonctionnement du nouveau produit. » (…) (OCDE, 1993, alinéa 115, p. 46).
 
-Voyez‑vous le problème ? Ils sont en train de dire que le prototype a déjà toutes les qualités d’un produit fini. Ils veulent la charrue avant les bœufs. Hors, un prototype ce n’est précisément pas cela. Et je regrette que Wikipédia propage cette définition. (Suis‑je le seul, au regard de cette définition, à me faire l’image de la caricature du gros patron avec un fouet qui hurlent: « Plus vite fainéant » ?) C’est tellement insupportable…
+Voyez‑vous le problème ? Ils sont en train de dire que le prototype a déjà toutes les qualités d’un produit fini. Ils veulent la charrue avant les bœufs. Hors, un prototype ce n’est précisément pas cela. Et je regrette que Wikipédia propage cette définition. (Suis‑je le seul, au regard de cette définition, à me faire l’image de la caricature du gros patron avec un fouet qui hurlent : « Plus vite fainéant » ?) C’est tellement insupportable…
 
 
 #### Étymologie du mot Prototype
 
 Alors revenons un instant à la base. J’aime l’étymologie car ça fait ressortir le vrai sens caché et oublié des mots.
 
-**Prototype**, emprunté (1552) du bas latin _prototypos_ « forme primitive », lui même emprunté du grec tardif _prôtotupos_ « primitif, le premier type ». Ce mot grec agglutine le mot _prôto_ qui veut dire « premier, celui qui est en tête » et le mot _tupos_ qui donne en latin (1330) _typus_ qui signifie « image, status, modèle ». _Tupos_ en grec est un mot polysémique qui est à l’origine un terme technique désignant l’empreinte en creux ou en relief que laisse la frappe d’une matrice. _Tupos_ prend d’ailleurs le sens de « caractère d’imprimerie » (1545) près d’un siècle après l’invention de l’imprimerie occidendale par Guttenberg. (Sombre histoire que celle de Guttemberg. Qui résonne en moi qui conçoit des claviers et qui devrait résonner chez tout entrepreneur en herbe. Voir [](https://fr.wikipedia.org/wiki/Johannes_Gutenberg)). _Tupos_ donnera, entre autres, « typographie » en français et “ to type ” en anglais. _Tupos_ est dérivé du verber _tuptein_ qui signifie « frapper » et on peut même rattacher une origne indoeuropéenne _°(s)teu_ qui veut dire « frapper » également. D’où également le mot « tapper » en français, double sens de frapper et tapper à la machine.
+**Prototype**, emprunté (1552) du bas latin _prototypos_ « forme primitive », lui‑même emprunté du grec tardif _prôtotupos_ « primitif, le premier type ». Ce mot grec agglutine le mot _prôto_ qui veut dire « premier, celui qui est en tête » et le mot _tupos_ qui donne en latin (1330) _typus_ qui signifie « image, statue, modèle ». _Tupos_ en grec est un mot polysémique qui est à l’origine un terme technique désignant l’empreinte en creux ou en relief que laisse la frappe d’une matrice. _Tupos_ prend d’ailleurs le sens de « caractère d’imprimerie » (1545) près d’un siècle après l’invention de l’imprimerie occidentale par Guttenberg. (Sombre histoire que celle de Guttemberg. Qui résonne en moi qui conçoit des claviers et qui devrait résonner chez tout entrepreneur en herbe. Voir [](https://fr.wikipedia.org/wiki/Johannes_Gutenberg)). _Tupos_ donnera, entre autres, « typographie » en français et “ to type ” en anglais. _Tupos_ est dérivé du verber _tuptein_ qui signifie « frapper » et on peut même rattacher une origine indoeuropéenne _°(s)teu_ qui veut dire « frapper » également. D’où également le mot « taper » en français, double sens de frapper et taper à la machine.
 
-Ce n’est ici qu’un résumé de ce que j’ai trouvé dans l’excellant « Dictionnaire Historique de la Langue Française » de Alain Rey (RIP) et son équipe. Mais, il n’est donc pas absurde de dire que prototype a pour signification cacher : « le premier caractère écrit », ou « la premier lettre d’une histoire ». Et si j’ose un trait d’esprit, on peut opposer « prototype » à l’expression « avoir le dernier mot ».
+Ce n’est ici qu’un résumé de ce que j’ai trouvé dans l’excellant « Dictionnaire Historique de la Langue Française » de Alain Rey (RIP) et son équipe. Mais, il n’est donc pas absurde de dire que prototype a pour signification cacher : « le première caractère écrit », ou « la premier lettre d’une histoire ». Et si j’ose un trait d’esprit, on peut opposer « prototype » à l’expression « avoir le dernier mot ».
 
 
 #### Les Prototypes, Simplement des Étapes dans la Conception
 
 Un prototype, c’est simplement le début de quelque chose. De quoi ? Vous verrez bien, ne soyez pas si pressé. Laissez de la place pour la [sérendipité](https://fr.wikipedia.org/wiki/S%C3%A9rendipit%C3%A9).
 
-D’abord, il n’y a jamais un, mais des prototypes sur le chemin de la conception. Chaque prototype marque une étape dans votre réflexion. Il peut, à ce moment venu, servir à quelque chose de précis et subtile. Écrivez au moins pour vous même (et en français dans le texte, s’il vous plait, arrêtez de vous la « péter » avec des accronymes en américains) un petit texte qui décrit vos objectifs et vos interrogations.
+D’abord, il n’y a jamais un, mais des prototypes sur le chemin de la conception. Chaque prototype marque une étape dans votre réflexion. Il peut, à ce moment venu, servir à quelque chose de précis et subtile. Écrivez au moins pour vous même (et en français dans le texte, s’il vous plait, arrêtez de vous la « péter » avec des acronymes en américains) un petit texte qui décrit vos objectifs et vos interrogations.
 
-Par exemple, il peut s’agir d’apprendre quelque chose de théorique ou non, d’apprendre la programmation ou apprendre à se servir d’un framework informatique, de s’approprier une nouvelle technologie, d’évaluer la performance d’un composant, de vérifier que vous aller pouvoir insérrer un élément dans votre objet, de vérifier que ça marche comme vous souhaitez, de faire un choix entre une solution A et une solution B, de tester la réaction des gens, de voir si les gens aime l’objet, si c’est pas trop compliqué pour eux, si la solution résoud bien le problème énoncé, que l’on arrive à le fabriquer avec les outils à notre disposition, à se rendre compte qu’on a encore besoin de monter en compétence et qu’on a peut‑être besoin d’aller chercher de l’aide, et il peut bien sûr correspondre aux étapes « vérification », « validation » et « qualification » décritent plus haut.
+Par exemple, il peut s’agir d’apprendre quelque chose de théorique ou non, d’apprendre la programmation ou apprendre à se servir d’un framework informatique, de s’approprier une nouvelle technologie, d’évaluer la performance d’un composant, de vérifier que vous allez pouvoir insérer un élément dans votre objet, de vérifier que ça marche comme vous souhaitez, de faire un choix entre une solution A et une solution B, de tester la réaction des gens, de voir si les gens aime l’objet, si c’est pas trop compliqué pour eux, si la solution résout bien le problème énoncé, que l’on arrive à le fabriquer avec les outils à notre disposition, à se rendre compte qu’on a encore besoin de monter en compétence et qu’on a peut‑être besoin d’aller chercher de l’aide, et il peut bien sûr correspondre aux étapes « vérification », « validation » et « qualification » décrites plus haut.
 
 J’en passe et des meilleurs. Les prototypes sont vos amis pour passer du monde des idées, au monde de la réalisation. Pour passer de la théorie à la pratique. Il est bon d’en faire usage tout au long de développement et dès qu’une interrogation apparaît. C’est souvent un amical juge de paie. Dans votre petit labo perso, vous n’êtes plus à l’école. Il n’y a pas de professeur qui va vous expliquer ce qui est vrai et ce qui est faux. Les prototypes vont vous permettre de répondre vous‑même à la question.
 
-Bien sûr, les prototypes vont se complexifier au fur et à mesure. Et plus vous allez avancer progressivement vers un produit fini (voir vers une produit fabricable industriellement), et plus les questions vont être précises et variées. Et qui plus est, plus vous voulez un haut niveau de qualité, et plus il faudra faire de prototypes. À vous de voir jusqu’où vous voulez allez.
+Bien sûr, les prototypes vont se complexifier au fur et à mesure. Et plus vous allez avancer progressivement vers un produit fini (voir vers un produit fabricable industriellement), et plus les questions vont être précises et variées. Et qui plus est, plus vous voulez un haut niveau de qualité, et plus il faudra faire de prototypes. À vous de voir jusqu’où vous voulez allez.
 
 
 ### Réaliser des Prototypes
@@ -383,7 +382,7 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 	
 	* Définir les hauteurs maximales selon la mécanique. Plusieurs zones peuvent être définies.
 	
-	* Il faut choisir le processus de fabrication. Lequel avait vous accès selon vos moyens. Est‑ce qu’on fait les soudures à la main ? Est‑ce qu’on fait le PCB avec une gravure chimique artisanal, une CNC ou on passe par un fabricant de PCB professionnel, etc ?
+	* Il faut choisir le processus de fabrication. Lequel avait vous accès selon vos moyens. Est‑ce qu’on fait les soudures à la main ? Est‑ce qu’on fait le PCB avec une gravure chimique artisanal, une CNC ou on passe par un fabricant de PCB professionnel, etc. ?
 	
 	* Cela va fixer la taille des pads de soudure et la précision de gravure et éventuellement le nombre de couche de cuivre auquel on a le doit. Et donc on peut alors écrire une spécification de PCB.
 	
@@ -500,7 +499,7 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 	
 	
 7. __VALIDATION__
-	* Pour les pro, validation que tous les exigences sont tenues point par point pour être sûr qu’on n’a rien oublier (management des exigences).
+	* Pour les pro, validation que toutes les exigences sont tenues point par point pour être sûr qu’on n’a rien oublier (management des exigences).
 	
 	* Vérifier que toute la documentation est complète en cohérente.
 	
@@ -528,7 +527,7 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 
 
 > _Cette dernière étape est importante surtout si on s’inscrit dans une démarche de conception d’objet libre. Le but est de faire l’équivalent de l’onglet « Téléchargement » pour un logiciel libre._
-> _Plus d’information sur cette démarche dans le fichier « 04_Démarche_Matériel_Libre.md »_ 	
+> _Plus d’information sur cette démarche dans le chapitre 4 « Démarche Conception Libre »_ 	
 
 
 6. BIS. __DOCUMENTATION pour la COMMUNAUTÉ__
@@ -580,7 +579,7 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 	
 	* On peut confirmer les choses avec des dessins technique en 2D ou 3D à la main. À la main, pour garder en vitesse, l’idée n’est pas de faire un plan super propre, mais de confirmer la faisabilité.
 	
-	* Le dessin reste une chose très utilisée par les designeurs d’objet professionnel. Parfois, ils vont jusqu’à faire des maquettes (même dégeu avec du carton, de la patte à modeler ou avec des légos®). C’est plus parlant qu’un dessin si on veut mettre les choses en situation.
+	* Le dessin reste une chose très utilisée par les concepteurs d’objet professionnel. Parfois, ils vont jusqu’à faire des maquettes (même dégeu avec du carton, de la pâte à modeler ou avec des Légos®). C’est plus parlant qu’un dessin si on veut mettre les choses en situation.
 
 
 1. __PLAN 3D__
@@ -590,28 +589,28 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 	
 	* Choisir les différents matériaux que vous voulez utilisés.
 	
-	* Comment on ferra pour assembler les pièces : vis, clips, collage, etc ?
+	* Comment on ferra pour assembler les pièces : vis, clips, collage, etc. ?
 	
 	* Il faut dessiner en gardant en tête quels seront les moyens de fabrication que vous aurez à votre disposition.
 
 
 2. __PROJECTION DES PLANS EN 2D__
-	* Faire ce qu’on appel une projection en 2D permet de créer les plans qui seront nécessaire à la fabrication.
+	* Faire ce qu’on appelle une projection en 2D permet de créer les plans qui seront nécessaire à la fabrication.
 	
 	* Faire les fichiers nécessaires à la fabrication comme le Gcode pour la CNC ou l’imprimante 3D.
 	
-	* Faire un plan dxf pour importer les dimensions de la boîte et les différentes contrainte dans l’outil de CAO électrique KiCAD.
+	* Faire un plan dxf pour importer les dimensions de la boîte et les différentes contraintes dans l’outil de CAO électrique KiCAD.
 
 3. __FABRICATION DU PROTOTYPE__
 	* Vérifier que tous les fichiers de fabrication ont bien été générés.
 	
-	* Assurez‑vous que vous avez tous les matériaux, composants et consammables nécessaires.
+	* Assurez‑vous que vous avez tous les matériaux, composants et consommables nécessaires.
 	
 	* S’il y a des manquants demandez‑vous ce qui peut être fait malgré tout en attendant.
 	
 	* Organiser votre plan de travail avant de commencer. Il faut avoir les outils à disposition au bon moment.
 	
-	* Noter toutes les étapes de fabrication au moment où vous le faite pour ne rien oublier.
+	* Noter toutes les étapes de fabrication au moment où vous les faites pour ne rien oublier.
 	
 	* La mécanique étant terminé assembler l’électronique à l’intérieur.
 
@@ -629,7 +628,7 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 5. __DOCUMENTATION POUR LA COMMUNAUTÉ__
 	* Il s’agit de faire une documentation qui explique comment fonctionne l’objet et les sources de l’objet pour pouvoir garantir une maintenance des problèmes constatés.
 	
-	* Faire un document qui permet à «monsieur‑tout‑le‑monde» de fabriquer l’objet.
+	* Faire un document qui permet à « monsieur‑tout‑le‑monde » de fabriquer l’objet.
 	
 	* Faire une procédure de réglage le cas échéant.
 	
@@ -677,7 +676,7 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 2. __CODAGE__
 	* Le cœur du travail… Organiser votre travail en sous‑fonctions.
 	
-	* Commencer le code sur une démo board qui contient le MCU visé en attendant que la carte électronique arrive.
+	* Commencer le code sur une demo board qui contient le MCU visé en attendant que la carte électronique arrive.
 	
 	* Préparer le terrain pour transférer ce premier code pour la vraie carte électronique.
 	

@@ -24,7 +24,7 @@ __Lilian Tribouilloy :__
 * __Formation :__ Ingénieur en électronique, diplômé de l’[ENSEA](https://www.ensea.fr/fr) en 2004.
 * __Métier :__ Concepteur électronique spécialisé dans les radiofréquences et la CEM (Compatibilité ÉlectroMagnétique).
 * __Exemples de produit conçu dans le cadre professionnel :__ Émetteur et Réémetteur pour la télévision numérique ; Amplificateur de puissance classe AB pour une modulation OFDM ; Calculateur entrées/sorties pour camion ; Tableau de bord pour véhicule spéciaux ; Boîtier de télématique pour la gestion de flotte.
-* __Objet Libre conçu :__ [ToucheLibre](http://touchelibre.fr/), un clavier d’ordinateur ergonomique en bois. Aliant l’esthétique à l’utile, il s’inscrit dans des valeurs de liberté, d’écologie et de santé.
+* __Objet Libre conçu :__ [ToucheLibre](http://touchelibre.fr/), un clavier d’ordinateur ergonomique en bois. Alliant l’esthétique à l’utile, il s’inscrit dans des valeurs de liberté, d’écologie et de santé.
 
 
 ## Licences
