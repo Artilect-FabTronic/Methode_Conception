@@ -31,7 +31,7 @@ __Lilian Tribouilloy :__
 
 Ce manuel est placé sous licence Creative Commons BY-SA 4.0 international.
 
-![](images/by-sa.png)
+<a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" title="Attribution-ShareAlike 4.0 International" target="_blank"><img src="images/by-sa.png" width="150"></a>
 
 Vous trouverez la version originale ici : [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode) ; et la traduction française ici : [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode.fr)
 
