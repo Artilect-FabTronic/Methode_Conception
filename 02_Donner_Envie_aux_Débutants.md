@@ -358,6 +358,7 @@ Chaque lieux est différent. Et l’observateur assidu pourra détecter une cert
 * Arts divers et variés
 * Modélisme
 * Radio Amateur
+* Domotique
 * etc…
 
 
