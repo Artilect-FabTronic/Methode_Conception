@@ -29,13 +29,13 @@ L’adhésion à un fablab, makerspace, hackerspace ou autres types de club de b
 
 ### Niveau 0 ; Prix = 0€
 Pour goûter sans dépenser.
-Que du logiciels libre, gratuit et disponible sur tous les OS.
-Des sources d’information pédagogique.
-Des exemples de projet pour motiver.
+Que du logiciels libres, gratuits et disponibles sur tous les OS.
+Des sources d’information pédagogiques.
+Des exemples de projets pour motiver.
 
 * Logiciels pour l’Électronique : 
 	- Kicad, éditeur de schéma électronique et routage de circuit imprimé
-	- LT Spice, simulation base fréquence (pas dispo sur Linux)
+	- LT Spice, simulation base fréquence (Dispo sur Linux en passant par Wine)
 	- QUCS, simulation haute fréquence et micro‑électronique (attention logiciel difficile)
 	- QElectroTech, électricité domestique
 	- Fritzing, routage sur carte de test (type breadboard)

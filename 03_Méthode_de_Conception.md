@@ -221,7 +221,7 @@ Je recommanderai également d’adapter le processus de manière à favoriser le
 
 POC, MVP, modèle A puis B puis C, Ramp‑up model, prototypage (rapide ou pas), maquettage, design thinking, lean start‑up…
 
-La littérature technique regorge de mot barbare qui embrouille la vision de ce qu’est un prototype et à quoi il serve. Et c’est bien dommage, car un prototype est un outil essentiel pour un concepteur. POC (Proof Of Concept ou preuve de concept) est sensé servir à vérifier la pertinence technique et la potentialité de la solution. MVP (Minimal Viable Product ou produit minimum viable) est sensé servir à vérifier que le produit dans sa version essentielle (bien qu’incomplète) va rencontrer un succès auprès de l’utilisateur final.
+La littérature technique et managerialle regorge de mot barbare qui embrouille la vision de ce qu’est un prototype et à quoi il serve. Et c’est bien dommage, car un prototype est un outil essentiel pour un concepteur. POC (Proof Of Concept ou preuve de concept) est sensé servir à vérifier la pertinence technique et la potentialité de la solution. MVP (Minimal Viable Product ou produit minimum viable) est sensé servir à vérifier que le produit dans sa version essentielle (bien qu’incomplète) va rencontrer un succès auprès de l’utilisateur final.
 
 Le problème de ses mots, c’est qu’ils font une pré‑supposition sur ce dont à quoi est sensé servir un prototype. Une personne (qui n’a peut‑être jamais rien conçu de sa vie) est en train de vous expliquer comment travailler. Hors, je me suis déjà expliqué en introduction sur le faite que j’étais contre les méthodes imposées de façon autoritaires et qu’il fallait laisser le concepteur choisir sa méthode et ses outils de travail. Ces gens, qui se croient bienveillant, ne se rendent pas compte de ce que cela à de contre‑productif. Et ils ont qui plus est, une vision limitée de ce qu’est un prototype. POC = prouver que ça marche. MVP = prouver que ça va se vendre. Hors, un prototype peut servir à des choses bien plus subtiles que cela. Mais nous allons y revenir…
 
@@ -234,16 +234,18 @@ L’OMC (Organisation Mondial du Commerce) a donné une définition de ce qu’e
 
 > « Un prototype est un modèle original qui possède toutes les qualités techniques et toutes les caractéristiques de fonctionnement du nouveau produit. » (…) (OCDE, 1993, alinéa 115, p. 46).
 
-Voyez‑vous le problème ? Ils sont en train de dire que le prototype a déjà toutes les qualités d’un produit fini. Ils veulent la charrue avant les bœufs. Hors, un prototype ce n’est précisément pas cela. Et je regrette que Wikipédia propage cette définition. (Suis‑je le seul, au regard de cette définition, à me faire l’image de la caricature du gros patron avec un fouet qui hurlent : « Plus vite fainéant » ?) C’est tellement insupportable…
+Voyez‑vous le problème ? Ils sont en train de dire que le prototype a déjà toutes les qualités d’un produit fini. Ils veulent la charrue avant les bœufs. Hors, un prototype ce n’est précisément pas cela. Et je regrette que Wikipédia propage cette définition. (Suis‑je le seul, au regard de cette définition, à me faire l’image de la caricature du gros patron avec un fouet qui hurlent : « Plus vite fainéant » ? C’est tellement insupportable…)
 
 
 #### Étymologie du mot Prototype
 
 Alors revenons un instant à la base. J’aime l’étymologie car ça fait ressortir le vrai sens caché et oublié des mots.
 
-**Prototype**, emprunté (1552) du bas latin _prototypos_ « forme primitive », lui‑même emprunté du grec tardif _prôtotupos_ « primitif, le premier type ». Ce mot grec agglutine le mot _prôto_ qui veut dire « premier, celui qui est en tête » et le mot _tupos_ qui donne en latin (1330) _typus_ qui signifie « image, statue, modèle ». _Tupos_ en grec est un mot polysémique qui est à l’origine un terme technique désignant l’empreinte en creux ou en relief que laisse la frappe d’une matrice. _Tupos_ prend d’ailleurs le sens de « caractère d’imprimerie » (1545) près d’un siècle après l’invention de l’imprimerie occidentale par Guttenberg. (Sombre histoire que celle de Guttemberg. Qui résonne en moi qui conçoit des claviers et qui devrait résonner chez tout entrepreneur en herbe. Voir [](https://fr.wikipedia.org/wiki/Johannes_Gutenberg)). _Tupos_ donnera, entre autres, « typographie » en français et “ to type ” en anglais. _Tupos_ est dérivé du verber _tuptein_ qui signifie « frapper » et on peut même rattacher une origine indoeuropéenne _°(s)teu_ qui veut dire « frapper » également. D’où également le mot « taper » en français, double sens de frapper et taper à la machine.
+**Prototype**, emprunté (1552) du bas latin _prototypos_ « forme primitive », lui‑même emprunté du grec tardif _prôtotupos_ « primitif, le premier type ». Ce mot grec agglutine le mot _prôto_ qui veut dire « premier, celui qui est en tête » et le mot _tupos_ qui donne en latin (1330) _typus_ qui signifie « image, statue, modèle ». _Tupos_ en grec est un mot polysémique qui est à l’origine un terme technique désignant l’empreinte en creux ou en relief que laisse la frappe d’une matrice. _Tupos_ prend d’ailleurs le sens de « caractère d’imprimerie » (1545) près d’un siècle après l’invention de l’imprimerie occidentale par Guttenberg. (Sombre histoire que celle de Guttemberg. Qui résonne en moi qui conçoit des claviers et qui devrait résonner chez tout entrepreneur en herbe. Voir [](https://fr.wikipedia.org/wiki/Johannes_Gutenberg)). _Tupos_ donnera, entre autres, « typographie » en français et “ to type ” en anglais. _Tupos_ est dérivé du verbe _tuptein_ qui signifie « frapper » et on peut même rattacher une origine indoeuropéenne _°(s)teu_ qui veut dire « frapper » également. D’où également le mot « taper » en français, double sens de frapper et taper à la machin à écrire (ou à l’ordinateur).
 
-Ce n’est ici qu’un résumé de ce que j’ai trouvé dans l’excellant « Dictionnaire Historique de la Langue Française » de Alain Rey (RIP) et son équipe. Mais, il n’est donc pas absurde de dire que prototype a pour signification cacher : « le première caractère écrit », ou « la premier lettre d’une histoire ». Et si j’ose un trait d’esprit, on peut opposer « prototype » à l’expression « avoir le dernier mot ».
+Ce n’est ici qu’un résumé de ce que j’ai trouvé dans l’excellant « Dictionnaire Historique de la Langue Française » de Alain Rey (RIP) et son équipe. Mais, il n’est donc pas absurde de dire que prototype a pour signification cacher : « le première caractère écrit », ou « la premier lettre d’une histoire ». Et si j’ose un trait d’esprit, on peut opposer « prototype » à l’expression « avoir le dernier mot ». Avec un prototype ont écrit _son_ histoire, il ne s’agit pas de conclure. 
+
+> «_L’ineptie consiste à vouloir conclure. Oui, la bêtise consiste à vouloir conclure. Quel est l’esprit un peu fort qui ait conclu, à commencer par Homère ? Contentons-nous du tableau, c’est ainsi, bon._», disait Gustave Flaubert.
 
 
 #### Les Prototypes, Simplement des Étapes dans la Conception
@@ -254,7 +256,7 @@ D’abord, il n’y a jamais un, mais des prototypes sur le chemin de la concept
 
 Par exemple, il peut s’agir d’apprendre quelque chose de théorique ou non, d’apprendre la programmation ou apprendre à se servir d’un framework informatique, de s’approprier une nouvelle technologie, d’évaluer la performance d’un composant, de vérifier que vous allez pouvoir insérer un élément dans votre objet, de vérifier que ça marche comme vous souhaitez, de faire un choix entre une solution A et une solution B, de tester la réaction des gens, de voir si les gens aime l’objet, si c’est pas trop compliqué pour eux, si la solution résout bien le problème énoncé, que l’on arrive à le fabriquer avec les outils à notre disposition, à se rendre compte qu’on a encore besoin de monter en compétence et qu’on a peut‑être besoin d’aller chercher de l’aide, et il peut bien sûr correspondre aux étapes « vérification », « validation » et « qualification » décrites plus haut.
 
-J’en passe et des meilleurs. Les prototypes sont vos amis pour passer du monde des idées, au monde de la réalisation. Pour passer de la théorie à la pratique. Il est bon d’en faire usage tout au long de développement et dès qu’une interrogation apparaît. C’est souvent un amical juge de paie. Dans votre petit labo perso, vous n’êtes plus à l’école. Il n’y a pas de professeur qui va vous expliquer ce qui est vrai et ce qui est faux. Les prototypes vont vous permettre de répondre vous‑même à la question.
+J’en passe et des meilleurs. Les prototypes sont vos amis pour passer du monde des idées, au monde de la réalisation. Pour passer de la théorie à la pratique. Il est bon d’en faire usage tout au long de développement et dès qu’une interrogation apparaît. C’est souvent un amical juge de paie. Dans votre petit labo perso, vous n’êtes plus à l’école, il n’y a pas de professeur qui va vous expliquer ce qui est vrai et ce qui est faux. Les prototypes vont vous permettre de répondre vous‑même à la question.
 
 Bien sûr, les prototypes vont se complexifier au fur et à mesure. Et plus vous allez avancer progressivement vers un produit fini (voir vers un produit fabricable industriellement), et plus les questions vont être précises et variées. Et qui plus est, plus vous voulez un haut niveau de qualité, et plus il faudra faire de prototypes. À vous de voir jusqu’où vous voulez allez.
 
@@ -262,6 +264,13 @@ Bien sûr, les prototypes vont se complexifier au fur et à mesure. Et plus vous
 ### Réaliser des Prototypes
 
 #### Des Matériaux, des Outils, des Expériences…
+
+
+#### Les Prototypes Électroniques
+
+Le prototypage rapide pour l’électronique a connu un développement extraordinaire. Notamment avec l’avénement de carte toute faite et prête à l’emploi comme Arduino, Rapsberry Pi, Micro:Bit, Adafruit et plein d’autres.
+
+
 
 #### Un Processus Itératif
 
