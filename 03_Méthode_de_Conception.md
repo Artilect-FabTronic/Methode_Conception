@@ -1,5 +1,6 @@
 > Date de Création : 23 septembre 2020<br>
-> Auteur : Lilian Tribouilloy<br>
+> Auteur initiale : Lilian Tribouilloy<br>
+> Contributeurs : Voir le fichier CREDITS.md<br>
 > Licence : Creative Commonces BY SA<br>
 
 # Méthodologie de Conception d’un Objet Électronique
@@ -84,7 +85,7 @@ C’est pourquoi, je pense qu’il existe toujours, et selon le type de discipli
 Quoi qu’il en soit vous êtes les seules à pouvoir choisir comment manager (pour employer un mot barbare) un projet. Personne ne peut faire les choix fondamentaux à votre place. Mais garder à l’esprit qu’il est très important de faire ces choix. Ne pas faire ces choix et laisser courir une ambiguïté à ce sujet, vous mènera immanquablement à des déconvenues le jour où vous devrez collaborer avec quelqu’un.
 
 
-------------------------------------------------------------------
+---------------------------------------------------------------------
 
 ## D’abord un peu d’Organisation
 
@@ -211,7 +212,7 @@ Ne vous mettez pas la pression. Après tout, ne pas arriver tout à fait au bout
 Je recommanderai également d’adapter le processus de manière à favoriser le développement communautaire. Au lieu de penser fabrication série, on pensera documentation accessible aux utilisateurs pour qu’il puisse soit tous fabriquer eux‑mêmes soit assembler des modules tout fait qui aurait été fait fabriquer par votre groupe associatif ou entreprise. Le montage en kit doit être favorisé. On peut aussi imaginer s’organiser pour faire des achats groupés pour limiter le coût d’achat pour tous. L’impossibilité de mutualiser les coûts et de faire de gros investissement est une raison qui fait qu’un objet libre est souvent (mais pas toujours) plus chers qu’un objet du commerce classique. L’utilisateur doit l’accepter et ne plus se voir comme un consommateur, mais comme contributeur plus ou moins actif de la solution communautaire. Il y a un échange équitable entre les deux parties dont on ne connait plus très bien où se situe la frontière. Il s’agit là d’un véritable nouveau contrat moral inédit qu’offre les objets libres. Mais nous en reparlerons au chapitre suivant. 
 
 
-------------------------------------------------------------------------
+---------------------------------------------------------------------
 
 ## Du Bon Usage du Prototype
 
@@ -275,11 +276,13 @@ Le prototypage rapide pour l’électronique a connu un développement extraordi
 #### Un Processus Itératif
 
 
-------------------------------------------------------------------------
+---------------------------------------------------------------------
 
 ## Concevoir la partie Électronique
 
 ### Vue Global sur un Flux de Travail Simplifié
+
+Voici une vu d’ensemble sur le procéssus de développement de la partie électronique que je vous propose dans ce chapitre.
 
 0. IDÉE
 1. SPÉCIFICATION / JUSTIFICATION (On abandonne l’idée qu’on peut séparer les deux pour simplifier la documentation.)
@@ -289,8 +292,6 @@ Le prototypage rapide pour l’électronique a connu un développement extraordi
 5. MISE AU POINT<br>
 → _Réitération des étapes 1 à 5 jusqu’à ce que tout soit OK._ ↺
 6. DOCUMENTATION POUR LA COMMUNAUTÉ
-
-{Commentaire} 
 
 
 ### Une Liste de Questions à se Poser
@@ -562,11 +563,13 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 
 
 
-------------------------------------------------------------------------
+---------------------------------------------------------------------
 
 ## Concevoir la partie Mécanique
 
 ### Vue Global sur un Flux de Travail Simplifié
+
+Voici une vu d’ensemble sur le procéssus de développement de la partie mécanique que je vous propose dans ce chapitre.
 
 0. CROQUIS DU DESIGN
 1. PLAN 3D
@@ -575,8 +578,6 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 4. MISE AU POINT<br>
 → _Réitération des étapes 1 à 4 jusqu’à ce que tout soit OK._ ↺
 5. DOCUMENTATION POUR LA COMMUNAUTÉ
-
-{Commentaire}
 
 
 ### Une Liste de Questions à se Poser
@@ -646,11 +647,13 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 	* Donner un contact pour les questions et pour obtenir un retour sur la satisfaction de l’utilisateur.
 
 
-------------------------------------------------------------------------
+---------------------------------------------------------------------
 
 ## Concevoir la partie Programmation
 
 ### Vue Global sur un Flux de Travail Simplifié
+
+Voici une vu d’ensemble sur le procéssus de développement de la partie programmation que je vous propose dans ce chapitre.
 
 0. IDÉE
 1. SPÉCIFICATION & ARCHITECTURE LOGICIEL
@@ -659,8 +662,6 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 4. VALIDATION FONCTIONNELLE<br>
 → _Réitération des étapes 1 à 4 jusqu’à ce que tout soit OK._ ↺
 5. DOCUMENTATION POUR LA COMMUNAUTÉ
-
-{Commentaire}
 
 
 ### Une Liste de Questions à se Poser

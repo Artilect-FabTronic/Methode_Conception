@@ -1,15 +1,15 @@
 > Date de Création : 20 septembre 2020<br>
-> Auteur : Lilian Tribouilloy<br>
+> Auteur initiale : Lilian Tribouilloy<br>
+> Contributeurs : Voir le fichier CREDITS.md<br>
 > Licence : Creative Commonces BY SA<br>
 
-# Donner Envie au Débutant
+# Donner Envie aux Débutants
 
 ## De quoi a‑t‑on besoin pour débuter l’électronique ?
 
 Ce chapitre est un petit guide pour celui qui souhaite découvrir l’électronique (et ce qui tourne autour).
 
-Il n’a pas vocation à être parfaitement pédagogique, ni exhaustif.
-Mais il donne une idée de l’investissement en temps et en argent nécessaire. Et ceci pour vous permettre de voir si vous êtes prêt à aller plus loin. (On ne va pas vous mentir l’électronique est une discipline difficile et chronophage)
+Il n’a pas vocation à être parfaitement pédagogique, ni exhaustif. Mais il donne une idée de l’investissement en temps et en argent nécessaire. Et ceci pour vous permettre de voir si vous êtes prêt à aller plus loin. (On ne va pas vous mentir l’électronique est une discipline difficile et chronophage)
 
 Et si d’aventure vous êtes motivé, cela vous aide à construire votre boite à outil. On donne une indication approximative du prix ou sinon il faudrai aller voir la disponibilité dans quelques fablabs ou autres lieux ou associations.
 
@@ -197,7 +197,7 @@ Vers l’infini et au‑delà.
 __Conseil : Il ne reste plus qu’à monter votre boîte…     ;-)__
 
 
-------------------------------------------------------------------------
+---------------------------------------------------------------------
 
 ## Où Trouver de quoi Apprendre ?
 
@@ -283,7 +283,7 @@ Yffig: "Incroyable petit bouquin de seulement 454 pages où chaque chapitre offr
 papyblue : "Le livre est consultable gratuitement depuis quelques années, c'est une référence pour les radaristes mais est aussi très instructif pour tous ceux qui s'intéressent aux hyperfréquences."
 http://radars-darricau.fr/livre/1-Pages/page-0l.html
 
-------------------------------------------------------------------------
+---------------------------------------------------------------------
 
 ### Vidéos pour Apprendre
 
@@ -326,7 +326,7 @@ http://radars-darricau.fr/livre/1-Pages/page-0l.html
 * [Hackaday](https://hackaday.io/projects)
 
 
-------------------------------------------------------------------------
+---------------------------------------------------------------------
 
 ## FabLab, MakerSpace, HackerSpace et autres Clubs Bricolage
 
@@ -374,6 +374,6 @@ Voici quelques sites qui vous permettent de trouver des adresses :
 *	[Makery.info](https://www.makery.info/labs-map/)
 ![](images/carte_makery_info.png)
 
-* Les [MJC](https://fr.wikipedia.org/wiki/Maison_des_jeunes_et_de_la_culture) Maisons de la Jeunesse et de la Culture sont présentes un peu partout en france. Aller voir celle près de chez vous. Certaines proposes des activités assimilables à celle des FabLabs. Bien qu’ils soient plus axés sur les ateliers découvertes pour les jeunes. Ces MJC peuvent être un point d’entrée pour découvrir le tissu associatif local. Les MJC ou les mairies organisent souvent un forum des associations vers le mois de septembre, c’est une bonne occasion pour découvrir plein de gens à la fois.
+* Les [MJC](https://fr.wikipedia.org/wiki/Maison_des_jeunes_et_de_la_culture) Maisons de la Jeunesse et de la Culture (ou autres associations à but semblabe) sont présentes un peu partout en france. Aller voir celle près de chez vous. Certaines proposes des activités assimilables à celle des FabLabs. Bien qu’ils soient plus axés sur les ateliers découvertes pour les jeunes. Ces MJC peuvent être un point d’entrée pour découvrir le tissu associatif local. Les MJC ou les mairies organisent souvent un forum des associations vers le mois de septembre, c’est une bonne occasion pour découvrir plein de gens à la fois.
 
 

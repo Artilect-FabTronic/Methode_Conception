@@ -1,5 +1,6 @@
 > Date de Création : 10 octobre 2020<br>
-> Auteur : Lilian Tribouilloy<br>
+> Auteur initiale : Lilian Tribouilloy<br>
+> Contributeurs : Voir le fichier CREDITS.md<br>
 > Licence : Creative Commonces BY SA<br>
 
 # Conception dans la Démarche Libriste

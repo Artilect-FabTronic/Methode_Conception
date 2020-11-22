@@ -1,5 +1,6 @@
 > Date de Création : 11 novembre 2020<br>
-> Auteur : Lilian Tribouilloy<br>
+> Auteur initiale : Lilian Tribouilloy<br>
+> Contributeurs : Voir le fichier CREDITS.md<br>
 > Licence : Creative Commonces BY SA<br>
 
 # Introduction
@@ -35,6 +36,16 @@ __Lilian Tribouilloy__
 * __Objet Libre conçu :__ [ToucheLibre](http://touchelibre.fr/), un clavier d’ordinateur ergonomique en bois. Alliant l’esthétique à l’utile, il s’inscrit dans des valeurs de liberté, d’écologie et de santé.
 
 
+## Contributeurs
+
+***Un chaleureux et grand MERCI à tous les contributeurs.***
+
+Voici la liste des personnes qui ont participé de prêt ou de loin au projet en faisant une relecture, des critiques constructives et la correction d’orthographe.
+
+* Arnauld Biganzoli
+* ?
+
+
 ## Licences
 
 Ce manuel est placé sous licence Creative Commons BY-SA 4.0 international.
@@ -64,6 +75,4 @@ Ouvrages qui ont été des sources d’inspiration et qui pourront vous servir �
 * [Produire du Logiciel Libre](https://framabook.org/produire-du-logiciel-libre-2/) : Dans la même veine que le précédent, il rentre d’avantage sur les particularités du logiciel libre.
 * Pour les commentaires étymologiques : Le Robert, Dictionnaire Historique de la Langue Française ; édition 2000 ; sous la direction de Alain Rey
 
-
-## Convention Graphique
 
