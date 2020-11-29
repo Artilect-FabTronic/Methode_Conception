@@ -11,7 +11,7 @@ Ce chapitre est un petit guide pour celui qui souhaite découvrir l’électroni
 
 Il n’a pas vocation à être parfaitement pédagogique, ni exhaustif. Mais il donne une idée de l’investissement en temps et en argent nécessaire. Et ceci pour vous permettre de voir si vous êtes prêt à aller plus loin. (On ne va pas vous mentir l’électronique est une discipline difficile et chronophage)
 
-Et si d’aventure vous êtes motivé, cela vous aide à construire votre boite à outil. On donne une indication approximative du prix ou sinon il faudrai aller voir la disponibilité dans quelques fablabs ou autres lieux ou associations.
+Et si d’aventure vous êtes motivé, cela vous aide à construire votre boite à outil. On donne une indication approximative du prix ou sinon il faudra aller voir la disponibilité dans quelques fablabs ou autres lieux ou associations.
 
 
 ## Les Marges de Progression
@@ -39,15 +39,17 @@ Des exemples de projets pour motiver.
 	- QUCS, simulation haute fréquence et micro‑électronique (attention logiciel difficile)
 	- QElectroTech, électricité domestique
 	- Fritzing, routage sur carte de test (type breadboard)
+	- FlatCAM, pour graver un circuit imprimé à la CNC.
 
 __« L’électronique a deux super potes dans sa bande : la programmation et la mécanique. »__
 
 * Logiciels pour la Programmation :
 Il y a une grande diversité dans ce domaine. À vous de vous faire votre propre opinion.
-	- Éditeur de code généraliste (Gedit, Sublime texte, Visual Studio Code…)
-	- IDE pour les cas particuliers (IDE Arduino, Code::Block, Geany…)
+	- Éditeur de code généraliste (Gedit, Kate, Vim…)
+	- IDE pour les cas particuliers (IDE Arduino, Geany, Code::Block…)
 	- Éditeur de fichier binaire (GHex, wxHexEditor…)
-	- Meld pour comparer 2 codes.
+	- Comparateur de 2 codes (Meld pour Linux, Winmerge pour Window).
+	- Compilateur (GCC = GNU Compilateur Collection)
 
 * Langages de programmation recommandés pour le bas niveau (code directement en interaction avec l’électronique)
 	- C, le langage de référence en bas niveau
@@ -57,7 +59,7 @@ Il y a une grande diversité dans ce domaine. À vous de vous faire votre propre
 
 * Logiciels pour la Mécanique :
 	- FreeCAD, conception en 3D, type paramétrique, génération de Gcode pour l’usinage.
-	- LibreCAD, conception en 2D (attention prise en main difficile), manipulation de fichier DXF.
+	- LibreCAD, conception en 2D (attention prise en main difficile), en complément de FreeCAD pour manipulation de fichier DXF.
 	- CAMotics, pour simuler le parcours d’une CNC.
 
 * Logiciels divers de Dessin et Bureautique :
@@ -213,79 +215,63 @@ Voici une compilation des d'ouvrages d'apprentissage de l'électronique, tels qu
 Note Légale : Les liens fournis ci-dessous sont réputés être "légaux" et en circulation libre. Si vous avez des informations contraires au sujet d'un de ces liens, veuillez me le faire savoir sans tarder. Merci.
 
 #### Ouvrages pour débutants
-“L'électronique pour les nuls", par Cathleen Shamieh. 2ème édition.
-Vraiment très accessible et abordable, condensé d'informations pour les composants discrets et aussi sur les circuits intégrés.
-Disponible en couleur. Disponible aussi en .PDF.
-https://ia801607.us.archive.org/35/items/LelectroniquePourLesNuls2eEditionFirst/L%27%C3%A9lectronique%20Pour%20les%20Nuls%202e%20Edition%20-%20First.pdf
 
-"Arduino pour les nuls", par John Nussey. 2ème édition.
-http://www.multimedialab.be/doc/erg/2017-2018/Arduino/Arduino_pour_les_nuls_poche_2e_Edition_Mai_2017.pdf
+* __L'électronique pour les nuls__, par Cathleen Shamieh. 2ème édition. Vraiment très accessible et abordable, condensé d'informations pour les composants discrets et aussi sur les circuits intégrés. [Disponible aussi en .PDF](https://ia801607.us.archive.org/35/items/LelectroniquePourLesNuls2eEditionFirst/L%27%C3%A9lectronique%20Pour%20les%20Nuls%202e%20Edition%20-%20First.pdf)
 
-“Apprendre l’Électronique en Partant de Zéro”.  Une compilation du Cours “Électronique en Partant de Zéro” parus dans les numéros 1 à 79 de la revue ÉLECTRONIQUE et Loisirs magazine.
-De l’auteur : Vous permettra de vous familiariser avec le sujet. En partant du courant électrique il vous entraînera à la découverte des composants. Résistances, condensateurs, diodes, transistors, thyristors et autres n’auront plus de secret pour vous. Plusieurs chapitres consacrés à l’apprentissage de la soudure, l’utilisation du multimètre. L’aspect « radio » est également abordé avec une partie réservée aux ondes radioélectriques. Réalisation de montages simples d’alimentations, de récepteurs radio ou d’appareils de mesure. Disponibles seulement en .PDF
-Niveau 1 : https://ia601306.us.archive.org/13/items/ApprendreLElectroniqueEnPartantDeZeroNiveau1Lecons01A28_201510/Apprendre%20l%27Electronique%20en%20Partant%20de%20Z%C3%A9ro%20-%20Niveau%201%20-%20Lecons_01%20%C3%A0%2028.pdf
-Niveau 2 : https://archive.org/download/ApprendreLElectroniqueEnPartantDeZeroNiveau1Lecons01A28_201510/Apprendre%20l%27%20Electronique%20en%20Partant%20De%20Z%C3%A9ro%20-%20Niveau%202%20-%20Le%C3%A7ons%2029%20%C3%A0%2037.pdf
-Niveau 3 :
-https://archive.org/download/ApprendreLElectroniqueEnPartantDeZeroNiveau1Lecons01A28_201510/Apprendre%20l%27%20Electronique%20en%20Partant%20de%20Z%C3%A9ro%20-%20Niveau%203%20-%20Le%C3%A7ons%2038%20%C3%A0%2047.pdf
+* __Arduino pour les nuls__, par John Nussey. 2ème édition.[Disponible aussi en .PDF](http://www.multimedialab.be/doc/erg/2017-2018/Arduino/Arduino_pour_les_nuls_poche_2e_Edition_Mai_2017.pdf)
 
-“La radio ? mais c'est très simple!”, par Eugène Aisberg. 29ème édition. Série Nostalgie.
-Curiosus : "Je trouve ce livre génial, il y a pas mieux pour commencer à apprendre l'électronique. L'auteur à mis de l'humour pour faire comprendre des choses compliqués, bel exemple pour nos professeurs qui sont parfois trop sérieux, et qui n'attirent plus l'attention des élèves."
-https://ia801402.us.archive.org/22/items/la_radio_mais_cest_tres_simple/la_radio_mais_cest_tres_simple.pdf
+* __Apprendre l’Électronique en Partant de Zéro__,  Une compilation du Cours “Électronique en Partant de Zéro” parus dans les numéros 1 à 79 de la revue ÉLECTRONIQUE et Loisirs magazine. De l’auteur : Vous permettra de vous familiariser avec le sujet. En partant du courant électrique il vous entraînera à la découverte des composants. Résistances, condensateurs, diodes, transistors, thyristors et autres n’auront plus de secret pour vous. Plusieurs chapitres consacrés à l’apprentissage de la soudure, l’utilisation du multimètre. L’aspect « radio » est également abordé avec une partie réservée aux ondes radioélectriques. Réalisation de montages simples d’alimentations, de récepteurs radio ou d’appareils de mesure. Disponibles seulement en .PDF
+	- [Niveau 1](https://ia601306.us.archive.org/13/items/ApprendreLElectroniqueEnPartantDeZeroNiveau1Lecons01A28_201510/Apprendre%20l%27Electronique%20en%20Partant%20de%20Z%C3%A9ro%20-%20Niveau%201%20-%20Lecons_01%20%C3%A0%2028.pdf)
+	- [Niveau 2](https://archive.org/download/ApprendreLElectroniqueEnPartantDeZeroNiveau1Lecons01A28_201510/Apprendre%20l%27%20Electronique%20en%20Partant%20De%20Z%C3%A9ro%20-%20Niveau%202%20-%20Le%C3%A7ons%2029%20%C3%A0%2037.pdf)
+	- [Niveau 3](https://archive.org/download/ApprendreLElectroniqueEnPartantDeZeroNiveau1Lecons01A28_201510/Apprendre%20l%27%20Electronique%20en%20Partant%20de%20Z%C3%A9ro%20-%20Niveau%203%20-%20Le%C3%A7ons%2038%20%C3%A0%2047.pdf)
 
-"Électronique pratique - 2ème édition", par Jacques-Michel Fouchet, Arsène Perez-Mas.
-ksyrium : "Lors d'une formation, j'avais eu ce livre. Très bien pour acquérir les bases et plus (avec exercices et corrigés)."
-https://www.dunod.com/sciences-techniques/electronique-pratique?gclid=EAIaIQobChMIqrbPu_L-5gIVFYbVCh35dg5bEAQYASABEgJo6fD_BwE
+* __La radio ? mais c'est très simple!__, par Eugène Aisberg. 29ème édition. Série Nostalgie. Curiosus : "Je trouve ce livre génial, il y a pas mieux pour commencer à apprendre l'électronique. L'auteur à mis de l'humour pour faire comprendre des choses compliqués, bel exemple pour nos professeurs qui sont parfois trop sérieux, et qui n'attirent plus l'attention des élèves." [Disponible aussi en .PDF](https://ia801402.us.archive.org/22/items/la_radio_mais_cest_tres_simple/la_radio_mais_cest_tres_simple.pdf)
 
-"All New Electronics Self-Teaching Guide", par Harry Kybett et Earl Boysen.
-AlanFromJapan : Le graal pour un sérieux débutant, parce qu'il part de zéro et est rempli d'exercices avec correction! Ce fut le plus instructif pour moi, mais tout le monde n'aime pas l'approche académique.
+* __Électronique pratique - 2ème édition__, par Jacques-Michel Fouchet, Arsène Perez-Mas. ksyrium : "Lors d'une formation, j'avais eu ce livre. Très bien pour acquérir les bases et plus (avec exercices et corrigés)." [Disponible aussi en .PDF](https://www.dunod.com/sciences-techniques/electronique-pratique?gclid=EAIaIQobChMIqrbPu_L-5gIVFYbVCh35dg5bEAQYASABEgJo6fD_BwE)
 
-"Electrical Engineering 101 : Everything You Should Have Learned in School...but Probably Didn't", par Darren Ashby.
-AlanFromJapan: Loin d'être académique, si vous voulez juste intuiter plus que comprendre, avoir une espèce de raccourci pour apprendre les bases, c'est un bon livre. Par contre si vous préférez apprendre "sérieusement" passez votre chemin.
+* __All New Electronics Self-Teaching Guide__, par Harry Kybett et Earl Boysen. AlanFromJapan : Le graal pour un sérieux débutant, parce qu'il part de zéro et est rempli d'exercices avec correction! Ce fut le plus instructif pour moi, mais tout le monde n'aime pas l'approche académique.
 
-"NEETS (US Navy electronic courses)".
-Saranadze : En anglais mais c'est une mine d'or: Il s'agit d'un cours complet, destiné à des gens qui arrivent dans l’armée sans avoir forcément eu une éducation supérieure, donc écrit de manière à être compréhensible par tout le monde... Et c'est gratuit, facile à trouver :
-https://www.fcctests.com/neets/Neets.htm   (juste un exemple)
-Plus de détails de la part de Saranadze dans la réponse suivante : http://forum.bidouilleur.ca/index.php?topic=677.msg4106#msg4106
+* __Electrical Engineering 101__, Everything You Should Have Learned in School...but Probably Didn't", par Darren Ashby. AlanFromJapan: Loin d'être académique, si vous voulez juste intuiter plus que comprendre, avoir une espèce de raccourci pour apprendre les bases, c'est un bon livre. Par contre si vous préférez apprendre "sérieusement" passez votre chemin.
+
+* __NEETS (US Navy electronic courses)__, Saranadze : En anglais mais c'est une mine d'or: Il s'agit d'un cours complet, destiné à des gens qui arrivent dans l’armée sans avoir forcément eu une éducation supérieure, donc écrit de manière à être compréhensible par tout le monde... [Disponible aussi en .PDF](https://www.fcctests.com/neets/Neets.htm)
 
 
 #### Ouvrages de niveau intermédiaire
 
-“The Art of Electronics” 3ème édition, par Paul Horowitz.
-Yffig : "Plus de 1500 pages de pur bonheur, même à environ 60/70 € sur Amazon, c'est vraiment vouloir faire des économies de bout de chandelle que de s'en priver. Le site des auteurs offre en téléchargement la totalité de la table des matières et du chapitre 9 sur les Alimentations (135 pages) "VOLTAGE REGULATION AND POWER CONVERSION" https://artofelectronics.net/wp-content/uploads/2016/02/AoE3_chapter9.pdf "
-cschopfer : "Juste merveilleux. Sauf son prix..."
+* __The Art of Electronics__, 3ème édition, par Paul Horowitz. Yffig : "Plus de 1500 pages de pur bonheur, même à environ 60/70 € sur Amazon, c'est vraiment vouloir faire des économies de bout de chandelle que de s'en priver. Le site des auteurs offre en téléchargement la totalité de la table des matières et du chapitre 9 sur les Alimentations (135 pages) "VOLTAGE REGULATION AND POWER CONVERSION". [Extrait Disponible en .PDF](https://artofelectronics.net/wp-content/uploads/2016/02/AoE3_chapter9.pdf)
 
-“Traité de l’Électronique”, par Paul Horowitz et Winfield Hill.
-Oxygene: Basé sur “The Art of Electronics” de Paul Horowitz. Disponible seulement en .PDF :
-Volume 1 :
-http://sylvain.larribe.free.fr/livres/PDF/Traite_Electronique/Traite_Electronique_V1_S_01_A_I_ocr.pdf
-Volume 2 :
-http://sylvain.larribe.free.fr/livres/PDF/Traite_Electronique/Traite_Electronique_V2_S_16_17_I_ocr.pdf
+* __Traité de l’Électronique__, par Paul Horowitz et Winfield Hill.
+Oxygene: Basé sur “The Art of Electronics” de Paul Horowitz. En 2 Volumes.
+	- [Extrait du Volume 1 Disponible en .PDF](http://sylvain.larribe.free.fr/livres/PDF/Traite_Electronique/Traite_Electronique_V1_S_01_A_I_ocr.pdf)
+	- [Extrait du Volume 2 Disponible en .PDF](http://sylvain.larribe.free.fr/livres/PDF/Traite_Electronique/Traite_Electronique_V2_S_16_17_I_ocr.pdf)
 
-"Percer les mystères de l'électronique", par Robert Lacoste. ISBN : 978-2-86661-207-8
-Cyrob : Recommandé par Philippe dans une vidéo YouTube : https://www.youtube.com/watch?v=PdrvM3zxy04
+* __Percer les mystères de l'électronique__, par Robert Lacoste. ISBN : 978-2-86661-207-8. Cyrob : Recommandé par Philippe dans une vidéo YouTube : https://www.youtube.com/watch?v=PdrvM3zxy04
 
 
 #### Ouvrages de référence plus approfondis
 
-“Électronique appliquée aux hautes fréquences” de François de Dieuleveult et Olivier Romain aux éditions Dunod 2ème édition.
+* __Électronique appliquée aux hautes fréquences__ de François de Dieuleveult et Olivier Romain aux éditions Dunod 2ème édition.
 Oscillateur88 : "Pour toute personne souhaitant trouve une source fiable, précise, pédagogique et assez accessible pour se renseigner, réviser, ou revoir les concepts de base de l'électronique hautes fréquences : c'est un must have ! Je le trouve très bon de A à Z, tout est expliqué pas à pas par les auteurs, il fait plus de 500 pages je crois (pour 70 euros). Vous pouvez voir le sommaire sur le site de Dunod ou Amazon si ça vous intéresse ; il faut quelques bases pour l'aborder à la fois en électronique et en mathématiques, mais rien de poussé non plus ! Le livre décrit vraiment les bases (solides) de l’électronique hautes fréquences, je le consulte de temps en temps si jamais j'ai besoin d'un rappel."
 
-“Composants pour Télécoms” par François de Dieuleveult.
+* __Composants pour Télécoms__, par François de Dieuleveult.
 Oscillateur88 : "Il s'agit d'un livre qui présente les principales fonctions utilisées dans l'électronique des communications. Il coûte 60 euros et ratisse vraiment beaucoup de choses sur : Les amplificateurs, les oscillateurs, les mélangeurs, les modulateurs, les filtres, etc… C'est très orienté théorie et conception, l'auteur développe les concepts avec à chaque fois : une base physique et mathématiques solide suivie d'extraits de simulations sur le logiciel ADS. Le livre est très fourni et assez approfondi. Pour les pratiquants recherchant un ouvrage pouvant les aider à comprendre comment fonctionnent et sont conçus les composants de base."
 
-“Électronique Analogique Composants et Systèmes Complexes” de nombreux auteurs.
-Oscillateur88 : "Pour la somme de 50 euros le livre est un peu un équivalent au premier mais pour l'électronique analogique en général, c'est assez complet sans aller trop loin dans les détails : C'est les bases mais les bases solides !"
+* __Électronique Analogique Composants et Systèmes Complexes__, de nombreux auteurs. Oscillateur88 : "Pour la somme de 50 euros le livre est un peu un équivalent au premier mais pour l'électronique analogique en général, c'est assez complet sans aller trop loin dans les détails : C'est les bases mais les bases solides !"
 
-"Radio Frequency Electronics, 2nd edition" par JB Hagen.
+* __Radio Frequency Electronics__, 2nd edition, par JB Hagen.
 Yffig: "Incroyable petit bouquin de seulement 454 pages où chaque chapitre offre une liste d'ouvrages ou de papiers en référence bibliographique absolument indispensables sur le sujet traité. La première édition avait été traduite en français chez Elektor en 1999 sous le titre "Comprendre et utiliser l'électronique des hautes fréquences". J'ai pu l'acquérir d'occasion sur eBay il y a dix ans et on le trouve encore d'occasion sur divers sites."
 
-“Physique et Théorie du Radar” par Jacques Darricau.
+* __Physique et Théorie du Radar__, par Jacques Darricau.
 papyblue : "Le livre est consultable gratuitement depuis quelques années, c'est une référence pour les radaristes mais est aussi très instructif pour tous ceux qui s'intéressent aux hyperfréquences."
 http://radars-darricau.fr/livre/1-Pages/page-0l.html
+
 
 ---------------------------------------------------------------------
 
 ### Vidéos pour Apprendre
+
+Internet et les outils de diffusion de vidéos ont permis de remettre de la tradition orale dans notre culture occidentale de l’écrit. N’est‑ce pas là un retournement de situation historique qu’a permis la technologie ?
+
 
 #### Sélection de Chaîne YouTube sur l’Électronique
 
@@ -302,21 +288,11 @@ http://radars-darricau.fr/livre/1-Pages/page-0l.html
 
 
 #### Sélection de Chaîne YouTube sur les Makers Multi‑discipline
-* [MrBidouille](https://www.youtube.com/user/monsieurbidouille) :
+* [Mr Bidouille](https://www.youtube.com/user/monsieurbidouille) :
 * [La Grotte du Barbu](https://www.youtube.com/user/TravailleursDuWeb) :
 * [Maker Faire France](https://www.youtube.com/channel/UCtjPHiUM41RcPzdBrN7TEzQ/videos) :
 * [LJVS](https://www.youtube.com/channel/UCxiqy-VOYw6uBE4raFCz4Ow) : Artisan multi‑compétance
 * [Nikof Maker](https://www.youtube.com/channel/UC7NjYALQQxuSlQvRFRqt5pA) :
-
-
-#### Autour de la Culture Libre
-* [Free Software Fundation](https://www.fsf.org/)
-* [CERN Open Hardware Licence](https://ohwr.org/project/cernohl/wikis/home)
-* [Comparaison Licence Wikipédia](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences)
-* [Comparaison Licence Freedom Defined](https://freedomdefined.org/Licenses)
-* [FramaSoft](https://framasoft.fr/fr/)
-* [How to contribute](https://opensource.guide/how-to-contribute/)
-* [PasSageEnSeine](https://video.passageenseine.fr/videos/trending)
 
 
 #### Plateforme Makers
@@ -324,6 +300,11 @@ http://radars-darricau.fr/livre/1-Pages/page-0l.html
 * [Intructables Électronique](https://www.instructables.com/circuits/)
 * [Open Hardware IO](https://www.openhardware.io/)
 * [Hackaday](https://hackaday.io/projects)
+
+
+#### Autour de la Culture Libre
+
+{Mettre que 3 liens essenciels comme point de départ pour les débutants.}
 
 
 ---------------------------------------------------------------------
@@ -334,12 +315,12 @@ http://radars-darricau.fr/livre/1-Pages/page-0l.html
 
 #### FabLab
 
-Un [FabLab](https://fr.wikipedia.org/wiki/Fab_lab) est un lieu où l’on peut louer des machines industriel pour fabriquer des prototypes et recontrer une communauté de personne qui partage leurs connaissances. Le concept de ce lieux a été inventé par un professeur du MIT (Massachusetts Institute of Technology) aux États‑Unis qui s’appelle Neil Gershenfeld. C’est lieux sont souvent financer par les mairies ou les régions et parfois par les industriels.
+Un [FabLab](https://fr.wikipedia.org/wiki/Fab_lab) est un lieu où l’on peut louer des machines industrielles pour fabriquer des prototypes et rencontrer une communauté de personne qui partage leurs connaissances. Le concept de ce lieux a été inventé par un professeur du MIT (Massachusetts Institute of Technology) aux États‑Unis qui s’appelle Neil Gershenfeld. C’est lieux sont souvent financer par les mairies ou les régions et parfois par des industriels.
 
 
 #### MakerSpace
 
-Les [MakerSpaces](https://fr.wikipedia.org/wiki/Makerspace) ressemblent beaucoup aux FabLabs. Ils se distinguent souvent par une plus grande indépendance. Ils sont plus diversifiés technologiquement moins accès sur les hautes technologies. Les arts traditionnels comme la menuiserie, la mécanique et le travail du métal ou du cuir sont plus présents. Le lieux est porté par des philosophies plus anciennes que celle des fablabs comme, celle du bricolage, du Do It Yourself, le bidouillage, la récupération d’objets pour en détourner l’usage.
+Les [MakerSpaces](https://fr.wikipedia.org/wiki/Makerspace) ressemblent beaucoup aux FabLabs. Ils se distinguent souvent par une plus grande indépendance. Ils sont plus diversifiés technologiquement moins axés sur les hautes technologies. Les arts traditionnels comme la menuiserie, la mécanique et le travail du métal ou du cuir sont plus présents. Le lieux est porté par des philosophies plus anciennes que celle des fablabs comme, celle du bricolage, du Do It Yourself, le bidouillage, la récupération d’objets pour en détourner l’usage.
 
 
 #### HackerSpace
@@ -349,7 +330,7 @@ Les [HackerSpaces](https://fr.wikipedia.org/wiki/Hackerspace) ressemble beaucoup
 
 #### Autres Clubs Bricolage
 
-Chaque lieux est différent. Et l’observateur assidu pourra détecter une certaine sociologie et même des influences politiques. **Certains se fichent pas mal de toutes ces étiquettes, et ils ont bien raison.** Il y a plein d’associations qui n’ont pas attendu le discours de quelques personnalités influentes pour exister. La France compte une grande diversité associative. Et parmis ces associations, certaines sont axés sur les technologies ou les arts avec des thématiques particulières. En voici quelques unes :
+Chaque lieux est différent. Et l’observateur assidu pourra détecter une certaine sociologie et même des influences politiques. **D’autres se fichent pas mal de toutes ces étiquettes, et ils ont bien raison.** Il y a plein d’associations qui n’ont pas attendu le discours de quelques personnalités influentes pour exister. La France compte une grande diversité associative et depuis long temps, notamment grâce à la loi de 1901 sur la libre association. Et parmis ces associations, certaines sont axés sur les technologies ou les arts avec des thématiques particulières. En voici quelques unes :
 
 * Réparation d’objet électronique et domestique
 * Réparation de vélo
