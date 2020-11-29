@@ -43,26 +43,26 @@ L’avancement est donné entre accolade {x %}
 
 * [x] {100%} Choisir la Licence de publication.
 * [x] {100%} Premier jet du plan et du contenu.
-- [] {90%} Finir le chapitre 01_introduction.md
-- [] {80%} Finir le chapitre 02_Donner_Envie_aux_Débutants.md
-- [] {85%} Finir le chapitre 03_Méthode_de_Conception.md
-- [] {50%} Finir le chapitre 04_Démarche_Conception_Libre.md
-- [] {50%} Finir le chapitre 05_Construire_sa_Boite_à_Outils.md
-- [] {5%} Finir le chapitre 06_Rien_ne_vaut_l_Exemple.md
+* [] {99%} Finir le chapitre 01_introduction.md
+* [] {90%} Finir le chapitre 02_Donner_Envie_aux_Débutants.md
+* [] {85%} Finir le chapitre 03_Méthode_de_Conception.md
+* [] {50%} Finir le chapitre 04_Démarche_Conception_Libre.md
+* [] {70%} Finir le chapitre 05_Construire_sa_Boite_à_Outils.md
+* [] {5%} Finir le chapitre 06_Rien_ne_vaut_l_Exemple.md
 * [x] {100%} Finir le chapitre 07_Vos_Notes_Vos_Méthodes.md
-- [] {50%} Exportation au format imprimable odt et pdf en version A4.
-- [] {0%} Exportation au format imprimable odt et pdf en version A5.
-- [] {50%} Ajout du dossier projet template en version « débutant ».
-- [] {10%} Ajout du dossier projet template en version « rigueur ».
-- [] {0%} Ajouter les fichiers templates pour la conception.
-- [] {0%} Ajouter un projet exemple accompagnant le chapitre 6.
-- [] {50%} Vérifier l’orthographe.
-- [] {50%} Remercier tous les contributeurs.
-- [] {0%} Finaliser la mise en page et création d’une couverture.
-- [] {0%} Soumettre à relecture à un public restreint type FabLab.
-- [] {0%} Corriger et prendre en compte les remarques.
+* [] {50%} Exportation au format imprimable odt et pdf en version A4.
+* [] {0%} Exportation au format imprimable odt et pdf en version A5.
+* [] {50%} Ajout du dossier projet template en version « débutant ».
+* [] {10%} Ajout du dossier projet template en version « rigueur ».
+* [] {0%} Ajouter les fichiers templates pour la conception.
+* [] {0%} Ajouter un projet exemple accompagnant le chapitre 6.
+* [] {50%} Vérifier l’orthographe.
+* [] {0%} Finaliser la mise en page et création d’une couverture.
+* [] {0%} Soumettre à relecture à un public restreint type FabLab.
+* [] {0%} Corriger et prendre en compte les remarques.
+* [] {50%} Remercier tous les contributeurs.
 * [ ] {0%} Soumettre un manuscrit à l’éditeur FramaBook.
-- [] {0%} Prendre en compte les remarques de l’éditeur.
-- [] {0%} Publication Chez [FramaBook](https://framabook.org/)
+* [] {0%} Prendre en compte les remarques de l’éditeur.
+* [] {0%} Publication Chez [FramaBook](https://framabook.org/)
 
 
