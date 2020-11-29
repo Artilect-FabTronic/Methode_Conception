@@ -48,7 +48,7 @@ On peut trouver toutes les informations sur ce langage ici :
 
 L’ajout de code HTML (comme le permet le markdown) pourra être acceptés lors de bloquage technique ponctuel. Mais ne doit pas être généralisé.
 
-Pour les commentaires sur le contenu du manuel ont peut soit utiliser les accolades {Commentaire} ou la syntaxe HTML <!--Commentaire-->. Mais ces commentaires ont un caractère provisoir et devront être effacer sur la version finale.
+Pour les commentaires sur le contenu du manuel ont peut soit utiliser les accolades {Commentaire} (ceci ne fait pas parti du markdown) si on veut qu’ils soient visibles, ou la syntaxe HTML `<!--Commentaire-->` si on veut qu’ils soient invisibles. Mais ces commentaires ont un caractère provisoir et devront être effacer sur la version finale.
 
 Le logiciel [Abricotine](http://abricotine.brrd.fr/) est l’éditeur de texte markdown utilisé par l’auteur. Celui‑ci est chaudement recommandé pour ces qualités. Mais toutes autres éditeurs de code peut être utilisé tant que la syntaxe est respecté.
 
