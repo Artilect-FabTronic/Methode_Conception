@@ -137,6 +137,7 @@ Dans ce paragraphe, je détaille les grandes lignes du processus industriel pour
 Dans l’industrie, le mot conception est substitué aux mots « processus de développement ». Et des théories émanant des qualiticiens donne le jour à une choses que l’on appelle cycle de développement en V (ou en W). 
 
 ![image sur le cycle en V industriel](images/cycle_en_V_industriel.png)
+{Dessin à revoir pour être plus propre et avoir une source modifiable}
 
 
 0. __ÉTUDE DE MARCHÉ :__ Il s’agit de l’étape commerciale en amont qui doit définir le besoin client et l’adéquation avec une solution que l’on appelle produit (ou service dans certain cas). Je ne parlerai pas dans ce document de ce qu’il faudrait faire à cette étape. On peut pour faire émerger l’idée initiale s’appuyer sur la méthode du [design thinking](https://en.wikipedia.org/wiki/Design_thinking).
@@ -183,6 +184,7 @@ Pour le codeur, les étapes 3 et 4 sont quasiment confondues dans une étape de 
 Bien tout cela semble parfaitement logique. Et il l’est dans les grandes lignes. Il introduit pourtant une idée totalement fausse qui est que tout se déroulerait linéairement dans le temps. Je connais aucun concepteur sérieux qui travaille exactement dans l’ordre des actions décrites précédemment. Je m’explique.
 
 ![image sur ce qui correspond mieux à la façon réelle de penser](images/Gantt_Typique_Industriel.png)
+{Modification à faire : grossir les flèches}
 
 L’image ci‑dessus décrit un cycle en V tel que typiquement réalisé dans la vie réelle pour un concepteur électronique. On commence bien par une spécification, mais très rapidement vient se positionner en parallèle l’action de justification, puis peu de temps après se positionne l’action d’écriture du schéma. Et il est fortement recommandé de faire beaucoup d’itérations entre ces 3 éléments (Spéc / Justif / Schéma) pour converger efficacement vers une solution. Plus on prend le temps de bien se poser toutes les questions pour ces 3 éléments, et moins on aura d’erreurs au moment des vérifications, validations et qualifications. Et il faut garder en tête que ces erreurs peuvent vous coûtez chers. Pas seulement en argent, mais aussi en temps. Par exemple, si on se rend compte que l’architecture du produit ne permet pas le répondre au besoin, c’est la catastrophe. Il faut tout recommencer. Et ça peut‑être 6 mois ou 1 an de perdue.
 
@@ -204,6 +206,7 @@ Alors comment faire pour un hobbyste ? Ayez confiance en vous. Ne vous laissez
 Le processus de développement est également simplifié, et peut ressembler à ceci :
 
 ![Diagramme de Gantt simplié pour les hobbystes](images/Gantt_Typique_Hobbyste.png)
+{Modification à faire : grossir les flèches}
 
 En revanche, et c’est là toute la difficulté, il faut sélectionner les actions essentielles qui vous permettrons d’arriver à bon port. Je vous propose dans les chapitres suivants les actions qui me semble les plus importantes. Mais comme je le disais en introduction, il vous faut faire des choix en fonction de votre niveau et de vos ambitions. La méthode que je propose ici est (je l’espère) conçu pour que vous ajustiez par vous‑même votre méthode de travail progressivement à mesure des expériences. Mais, soyez bien conscient que personne ne peut placer le curseur entre rigueur et réalisme à votre place. Vous devez rester maître de votre propre méthode de travail.
 
@@ -266,14 +269,23 @@ Bien sûr, les prototypes vont se complexifier au fur et à mesure. Et plus vous
 
 #### Des Matériaux, des Outils, des Expériences…
 
+{L’importance du trouple (idée, matériau, outil)…}
+
+{Désacralisé le prototype, quick and durty…}
+
+{Tester la fabrication…}
+
 
 #### Les Prototypes Électroniques
 
 Le prototypage rapide pour l’électronique a connu un développement extraordinaire. Notamment avec l’avénement de carte toute faite et prête à l’emploi comme Arduino, Rapsberry Pi, Micro:Bit, Adafruit et plein d’autres.
 
+{À finir.}
 
 
 #### Un Processus Itératif
+
+{Intégrer les prototypes à la version final…}
 
 
 ---------------------------------------------------------------------
@@ -668,6 +680,7 @@ Voici une vu d’ensemble sur le procéssus de développement de la partie progr
 
 La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhaustives, ni limitatives. À vous de vous faire votre propre opinion. Au cours de la conception, il y aura sûrement des sous‑tâches, qu’on ne peut pas prévoir à l’avance, qui vont apparaître.
 
+{Liste à faire critiquer par un vrai codeur expérimenté en bas niveau. Voir dans les sources documentaires s’il y a des choses à prendre.}
 
 0. __IDÉE__
 	La créativité est une chose mystérieuse. Personne ne peut prétendre donner une méthode générale pour trouver des idées. Il faudra creuser au bout de vous‑même et vous faire confiance. Laissez‑vous guider par vos envies.
