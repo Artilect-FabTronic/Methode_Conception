@@ -1,5 +1,5 @@
 > Date de Création : 22 novembre 2020<br>
-> Auteur initiale : Lilian Tribouilloy<br>
+> Auteur initial : Lilian Tribouilloy<br>
 > Contributeurs : Voir le fichier CREDITS.md<br>
 > Licence : Creative Commonces BY SA<br>
 
@@ -31,6 +31,7 @@ Les corrections d’orthographe doivent être transmises uniquement dans le fich
 * Cloner le repository.
 * Modifier votre copie locale.
 * Envoyer un pull request.
+* {Faire des Issues}
 
 ### Pour les plus Traditionnels
 
@@ -51,6 +52,11 @@ L’ajout de code HTML (comme le permet le markdown) pourra être acceptés lors
 Pour les commentaires sur le contenu du manuel ont peut soit utiliser les accolades {Commentaire} (ceci ne fait pas parti du markdown) si on veut qu’ils soient visibles, ou la syntaxe HTML `<!--Commentaire-->` si on veut qu’ils soient invisibles. Mais ces commentaires ont un caractère provisoir et devront être effacer sur la version finale.
 
 Le logiciel [Abricotine](http://abricotine.brrd.fr/) est l’éditeur de texte markdown utilisé par l’auteur. Celui‑ci est chaudement recommandé pour ces qualités. Mais toutes autres éditeurs de code peut être utilisé tant que la syntaxe est respecté.
+
+
+## Management GIT
+
+{À préciser}
 
 
 ## Correction d’Orthographe

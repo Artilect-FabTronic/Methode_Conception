@@ -1,5 +1,5 @@
 > Date de Création : 11 novembre 2020<br>
-> Auteur initiale : Lilian Tribouilloy<br>
+> Auteur initial : Lilian Tribouilloy<br>
 > Contributeurs : Voir le fichier CREDITS.md<br>
 > Licence : Creative Commonces BY SA<br>
 
@@ -7,24 +7,27 @@
 
 ## Les Outils, c’est la Vie
 
-L’Humain a une relation aux outils très particulières est sans équivalent dans le règne animal. Qu’on le veuille ou non les outils font partie de notre vie. Les musiciens savent cela, le médium influence le médiateur. Les outils influencent intimement nos créations. Ils font partie de la forge de notre savoir et de nos métiers. Comme je le disais plus haut pour faire l’épreuve du réel, il faut être concret. Et pour cela les outils sont une composante essentielle (avec les idées et les matériaux).
+L’Humain a une relation aux outils très particulières et sans équivalent dans le règne animal. Qu’on le veuille ou non les outils font partie de notre vie. Les musiciens savent cela, le médium influence le médiateur. Les outils influencent intimement nos créations. Ils font partie de la forge de notre savoir et de nos métiers. Comme je le disais plus haut pour faire l’épreuve du réel, il faut être concret. Et pour cela les outils sont une composante essentielle (avec les idées et les matériaux).
 
-Comme disent les anglais : “ Shit input, shit output ”. Si vous n’avez pas de bons outils, vous ne ferez jamais rien de bien. Et un mauvais outil qui ne marche pas ça coûte trop cher. Bien sûr, on ne peut pas faire autrement que de faire avec son budget. Mais grâce au mouvement logiciel libre de super outils sont devenus gratuits. De plus, dans un FabLab, on peut accéder à des outils high‑tech pour le coût très raisonnable d’une location.
+Comme disent les anglais : “ Shit input, shit output ”. Si vous n’avez pas de bons outils, vous ne ferez jamais rien de bien. Et un mauvais outil qui ne marche pas ça coûte trop cher. Bien sûr, on ne peut pas faire autrement que de faire avec son budget. Mais grâce au mouvement logiciel libre de super outils sont devenus gratuits. De plus, au développement des FabLabs, on peut accéder à des outils high‑tech pour le coût très raisonnable d’une location.
 
 > « _Que dieux me débranche. Des machines qui créent des machines._ »		C3PO dans Star Wars 2.
 
 Et si cela ne suffit pas, la démarche de se fabriquer ses outils est une excellente démarche et en soi des projets passionnants. D’ailleurs, se construire ses outils est une démarche très ancienne. Aujourd’hui encore, fabriquer ses outils fait partie de la formation initiale des compagnons du devoir. _Les projets autour de la conception d’outil sont, selon moi, un enjeu majeur pour le développement des objets libres._ Quelques fameux exemples sont donnés dans les paragraphes suivants.
 
-Les outils ont selon moi quasiment autant d’importance que les méthodes. Vous devrez prendre la main sur le choix de ces outils. Vous ne devez pas vous laisser imposer aveuglément le choix des outils. Comme dit en introduction pour les méthodes, c’est à vous seul de faire le choix des outils. Mais là encore le savoir est une valeur collective. Et les propositions d’outils dispensées en suivant doivent vous aider à choisir, vous faire gagner du temps, en aucun cas vous contraindre.
 
 
 ## Comment Choisir ses Outils ?
 
-Il existe des outils pour tout. Il faut les outils de type couteau suisse qui prétendre savoir tout faire.
+Les outils ont selon moi quasiment autant d’importance que les méthodes. Vous devrez prendre la main sur le choix de ces outils. Vous ne devez pas vous laisser imposer aveuglément le choix des outils. Comme dit en introduction pour les méthodes, c’est à vous seul de faire le choix des outils. Mais là encore le savoir est une valeur collective. Et les propositions d’outils dispensées en suivant doivent vous aider à choisir, vous faire gagner du temps, en aucun cas vous contraindre.
+
+{dans quel écosystème se situer…}
+
+Il existe des outils pour tout. Et pour tout chose, il existe une diversité prodigieuse.
 Action fondamental «couper»…
-}
 
 {
+Il faut éviter les outils de type couteau suisse qui prétendre savoir tout faire.
 https://fr.wikipedia.org/wiki/Matériel_libre
 }
 
@@ -137,5 +140,10 @@ Dans le cas des ordinateurs, est considéré comme matériel libre la disponibil
 
 ## Construire son Atelier / Labo
 
+### Son Espace de Travail
+
+### Les outils physiques pour l’Électronique
+
+### Les outils physiques pour la Mécanique
 
 

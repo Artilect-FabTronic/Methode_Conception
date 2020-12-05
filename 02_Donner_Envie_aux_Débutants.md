@@ -1,5 +1,5 @@
 > Date de Création : 20 septembre 2020<br>
-> Auteur initiale : Lilian Tribouilloy<br>
+> Auteur initial : Lilian Tribouilloy<br>
 > Contributeurs : Voir le fichier CREDITS.md<br>
 > Licence : Creative Commonces BY SA<br>
 
