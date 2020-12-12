@@ -1,7 +1,7 @@
-> Date de Création : 21 novembre 2020<br>
-> Auteur initial : Lilian Tribouilloy<br>
-> Contributeurs : Voir le fichier CREDITS.md<br>
-> Licence : Creative Commonces BY SA<br>
+> Date de Création : 21 novembre 2020  
+> Auteur initial : Lilian Tribouilloy  
+> Contributeurs : Voir le fichier CREDITS.md  
+> Licence : Creative Commonces BY SA  
 
 # Vos Notes, Vos Méthodes
 
