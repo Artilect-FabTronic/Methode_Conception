@@ -1,7 +1,7 @@
-> Date de Création : 21 novembre 2020<br>
-> Auteur initial : Lilian Tribouilloy<br>
-> Contributeurs : Voir le fichier CREDITS.md<br>
-> Licence : Creative Commonces BY SA<br>
+> Date de Création : 21 novembre 2020  
+> Auteur initial : Lilian Tribouilloy  
+> Contributeurs : Voir le fichier CREDITS.md  
+> Licence : Creative Commons BY SA  
 
 # Rien ne vaut l’Exemple
 
@@ -24,7 +24,7 @@ Caractéristiques du mini projet :
 * Fabricable dans un fablab
 
 
----------------------------------------------------------------------
+_____________________________________________________________
 
 ## Mon Premier Projet « Pilote_Led_RGBW »
 
@@ -32,12 +32,12 @@ Caractéristiques du mini projet :
 
 Il s’agit du mettre sur le papier les idées qui vous viennent :
 
-* Lampe de poche d’éclairage et multicolor
+* Lampe de poche d’éclairage et multicolore
 * Programmable avec sélection de mode
 	* Éclairage tout blanc
 	* Éclairage tout rouge
-	* SOS multicolor
-	* Stroboscope multicolor
+	* SOS multicolore
+	* Stroboscope multicolore
 	* autres modes personnalisés…
 * Commandé par 3 boutons
 	* un bouton allumer/éteindre
@@ -46,14 +46,14 @@ Il s’agit du mettre sur le papier les idées qui vous viennent :
 * Alimenté par piles classique du commerce
 * Un interrupteur ON/OFF de l’alimentation générale
 * La lampe tient dans la main aisément
-* Un anneaux pour porte‑clé
+* Un anneau pour porte‑clé
 
 
 ### Partager mes Sources dès le Départ
 
 > « _Rien ne sert de courir, il faut partir à point._ » Jean de la Fontaine
 
-Il est important de bien s’organiser dès le départ. Donc on va commencé par créer un dossier projet bien fait. Puis pour se placer dans une démarche de partage, on va créer une copie du dossier sur le réseau internet.
+Il est important de bien s’organiser dès le départ. Donc on va commencer par créer un dossier projet bien fait. Puis pour se placer dans une démarche de partage, on va créer une copie du dossier sur le réseau internet.
 
 #### Création du dossier projet
 
@@ -120,17 +120,17 @@ Il est important de bien s’organiser dès le départ. Donc on va commencé par
 
 
 
----------------------------------------------------------------------
+_____________________________________________________________
 
-## Fait le point sur ce que tu as ressenti, sur ce que tu as appri et sur ce que tu aimerais faire ensuite
+## Fait le point sur ce que tu as ressenti, sur ce que tu as appris et sur ce que tu aimerais faire ensuite
 
 Toute expérience mérite qu’on se pose deux secondes car elle peut donner une orientation à ta vie… Je vous propose de méditer (au moins pour vous‑même) aux questions suivantes :
 
-* Est‑ce que vous avez aimer faire ça ?
+* Est‑ce que vous avez aimé faire ça ?
 * Est‑ce que c’est gratifiant ?
-* Est‑ce que vous avez appri ?
-* Est‑ce que vous avez envi d’en apprendre d’avantage ?
-* Est‑ce que vous avez envi de vous lancez dans un autre projet ?
+* Est‑ce que vous avez appris ?
+* Est‑ce que vous avez envie d’en apprendre davantage ?
+* Est‑ce que vous avez envie de vous lancez dans un autre projet ?
 * Quelle place vous voulez donner à cela dans votre vie ?
 
 
