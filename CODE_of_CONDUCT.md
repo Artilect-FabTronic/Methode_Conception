@@ -1,11 +1,11 @@
-> Date de Création : 22 novembre 2020<br>
-> Auteur initial : Lilian Tribouilloy<br>
-> Contributeurs : Voir le fichier CREDITS.md<br>
-> Licence : Creative Commonces BY SA<br>
+> Date de Création : 22 novembre 2020  
+> Auteur initial : Lilian Tribouilloy  
+> Contributeurs : Voir le fichier CREDITS.md  
+> Licence : Creative Commons BY SA  
 
 # Code de Conduite pour les Contributeurs
 
-Pas de conneries bien‑pensantes, ni de puritanisme à l’américaine, ni de politiquement‑correct dévoyé ici. J’entends par là préserver la liberté d’expression. Mais il y a un minimun vital nécessaire pour bien travailler ensemble. On peut résumer les choses très simplement ainsi.
+Pas de conneries bien‑pensantes, ni de puritanisme à l’américaine, ni de politiquement‑correct dévoyé ici. J’entends par là préserver la liberté d’expression. Mais il y a un minimum vital nécessaire pour bien travailler ensemble. On peut résumer les choses très simplement ainsi.
 
 * De la politesse comme t’as appris ta mère.
 * De la bienveillance comme t’ont appris tes amis.
@@ -15,21 +15,21 @@ Pas de conneries bien‑pensantes, ni de puritanisme à l’américaine, ni de p
 
 ## Engagement envers les Contributeurs
 
-Dans l’intérêt de favoriser un environnement ouvert et accueillant, l’auteur de ce manuel s’engage, en tant que le porteur du projet et en tant que personnes contribuant à ce projet, à faire de la participation une expérience exempte de harcèlement pour tout le monde, quel que soit le niveau d’expérience, le sexe, l’identité ou l’expression de genre, l’orientation sexuelle, le handicap, l’apparence personnelle, la taille physique, l’origine éthnique, l’âge, la religion ou la nationalité.
+Dans l’intérêt de favoriser un environnement ouvert et accueillant, l’auteur de ce manuel s’engage, en tant que le porteur du projet et en tant que personnes contribuant à ce projet, à faire de la participation une expérience exempte de harcèlement pour tout le monde, quel que soit le niveau d’expérience, le sexe, l’identité ou l’expression de genre, l’orientation sexuelle, le handicap, l’apparence personnelle, la taille physique, l’origine ethnique, l’âge, la religion ou la nationalité.
 
 
 ## Critères d’Évaluation
 
-_Exemples de comportements qui contribuent à créer un environnement positif :_
+_Exemples de comportements qui contribuent à créer un environnement positif :_
 * L’utilisation d’un langage ouvert et accueillant ;
 * Le respect des différents points de vue et expériences vécues ;
 * Accepter poliment les critiques constructives ;
 * Se concentrer sur ce qui est meilleur pour la pédagogie du manuel à destination des amateurs de l’électronique et pour la communauté ;
 * Faire preuve d’empathie envers les autres membres de la communauté.
 
-_Exemples de comportements non acceptables :_
+_Exemples de comportements non acceptables :_
 * Les commentaires insultants ou désobligeants, et les attaques personnelles ;
-* Le non respect des lois de la république française ;
+* Le non‑respect des lois de la république française ;
 * La publication d’informations privées de tierces personnes, telles que des adresses physiques ou électroniques, sans permission explicite ;
 * Les moqueries et les jugements de valeur relatives aux fautes d’orthographe ou de grammaire.
 
