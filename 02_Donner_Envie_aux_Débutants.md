@@ -1,7 +1,7 @@
-> Date de Création : 20 septembre 2020<br>
-> Auteur initial : Lilian Tribouilloy<br>
-> Contributeurs : Voir le fichier CREDITS.md<br>
-> Licence : Creative Commonces BY SA<br>
+> Date de Création : 20 septembre 2020  
+> Auteur initial : Lilian Tribouilloy  
+> Contributeurs : Voir le fichier CREDITS.md  
+> Licence : Creative Commons BY SA  
 
 # Donner Envie aux Débutants
 
@@ -28,10 +28,10 @@ L’adhésion à un fablab, makerspace, hackerspace ou autres types de club de b
 
 
 ### Niveau 0 ; Prix = 0€
-Pour goûter sans dépenser.
-Que du logiciels libres, gratuits et disponibles sur tous les OS.
-Des sources d’information pédagogiques.
-Des exemples de projets pour motiver.
+Pour goûter sans dépenser.  
+Que du logiciels libres, gratuits et disponibles sur tous les OS.  
+Des sources d’information pédagogiques.  
+Des exemples de projets pour motiver.  
 
 * Logiciels pour l’Électronique : 
 	- Kicad, éditeur de schéma électronique et routage de circuit imprimé
@@ -105,7 +105,7 @@ Vous êtes motivé, vous souhaitez commencer à mettre les mains dans le camboui
 
 * Multimètre entrée de gamme (40€ à 60€)
 * Un bloc d’alimentation secteur
-* Fer à souder entrée de gamme (Dispo au FabLab)
+* Fer à souder entrée de gamme
 * Outillage à main divers : pince coupante, pince plate, jeux de tournevis…
 * Carte de développement : Arduino ou Rapsberry Pi ou autres…
 * Composants de base selon le premier petit projet pédagogique (Résistance, LED, condensateur, fil, diodes, transistor…)
@@ -199,7 +199,7 @@ Vers l’infini et au‑delà.
 __Conseil : Il ne reste plus qu’à monter votre boîte…     ;-)__
 
 
----------------------------------------------------------------------
+_____________________________________________________________
 
 ## Où Trouver de quoi Apprendre ?
 
@@ -266,7 +266,6 @@ papyblue : "Le livre est consultable gratuitement depuis quelques années, c'e
 http://radars-darricau.fr/livre/1-Pages/page-0l.html
 
 
----------------------------------------------------------------------
 
 ### Vidéos pour Apprendre
 
@@ -307,7 +306,8 @@ Internet et les outils de diffusion de vidéos ont permis de remettre de la trad
 {Mettre que 3 liens essenciels comme point de départ pour les débutants.}
 
 
----------------------------------------------------------------------
+
+_____________________________________________________________
 
 ## FabLab, MakerSpace, HackerSpace et autres Clubs Bricolage
 
@@ -315,22 +315,22 @@ Internet et les outils de diffusion de vidéos ont permis de remettre de la trad
 
 #### FabLab
 
-Un [FabLab](https://fr.wikipedia.org/wiki/Fab_lab) est un lieu où l’on peut louer des machines industrielles pour fabriquer des prototypes et rencontrer une communauté de personne qui partage leurs connaissances. Le concept de ce lieux a été inventé par un professeur du MIT (Massachusetts Institute of Technology) aux États‑Unis qui s’appelle Neil Gershenfeld. C’est lieux sont souvent financer par les mairies ou les régions et parfois par des industriels.
+Un [FabLab](https://fr.wikipedia.org/wiki/Fab_lab) est un lieu où l’on peut louer des machines industrielles pour fabriquer des prototypes et rencontrer une communauté de personne qui partage leurs connaissances. Le concept de ce lieu a été inventé par un professeur du MIT (Massachusetts Institute of Technology) aux États‑Unis qui s’appelle Neil Gershenfeld. Ces lieux sont souvent financer par les mairies ou les régions et parfois par des industriels.
 
 
 #### MakerSpace
 
-Les [MakerSpaces](https://fr.wikipedia.org/wiki/Makerspace) ressemblent beaucoup aux FabLabs. Ils se distinguent souvent par une plus grande indépendance. Ils sont plus diversifiés technologiquement moins axés sur les hautes technologies. Les arts traditionnels comme la menuiserie, la mécanique et le travail du métal ou du cuir sont plus présents. Le lieux est porté par des philosophies plus anciennes que celle des fablabs comme, celle du bricolage, du Do It Yourself, le bidouillage, la récupération d’objets pour en détourner l’usage.
+Les [MakerSpaces](https://fr.wikipedia.org/wiki/Makerspace) ressemblent beaucoup aux FabLabs. Ils se distinguent souvent par une plus grande indépendance. Ils sont plus diversifiés technologiquement moins axés sur les hautes technologies. Les arts traditionnels comme la menuiserie, la mécanique et le travail du métal ou du cuir sont plus présents. Le lieu est porté par des philosophies plus anciennes que celle des fablabs comme, celle du bricolage, du Do It Yourself, le bidouillage, la récupération d’objets pour en détourner l’usage.
 
 
 #### HackerSpace
 
-Les [HackerSpaces](https://fr.wikipedia.org/wiki/Hackerspace) ressemble beaucoup aux HackerSpace. Ils sont d’avantage axés sur l’informatique. Ils sont très attachés à la culture du logiciel libre, à la neutralité du net et aux bidouillage en général.
+Les [HackerSpaces](https://fr.wikipedia.org/wiki/Hackerspace) ressemble beaucoup aux HackerSpace. Ils sont d’avantage axés sur l’informatique et au bidouillage (hacking) en général. Ils sont très attachés à la culture du logiciel libre, à la neutralité du net.
 
 
 #### Autres Clubs Bricolage
 
-Chaque lieux est différent. Et l’observateur assidu pourra détecter une certaine sociologie et même des influences politiques. **D’autres se fichent pas mal de toutes ces étiquettes, et ils ont bien raison.** Il y a plein d’associations qui n’ont pas attendu le discours de quelques personnalités influentes pour exister. La France compte une grande diversité associative et depuis long temps, notamment grâce à la loi de 1901 sur la libre association. Et parmis ces associations, certaines sont axés sur les technologies ou les arts avec des thématiques particulières. En voici quelques unes :
+Chaque lieu est différent. Et l’observateur assidu pourra détecter une certaine sociologie et même des influences politiques. **D’autres se fichent pas mal de toutes ces étiquettes, et ils ont bien raison.** Il y a plein d’associations qui n’ont pas attendu le discours de quelques personnalités influentes pour exister. La France compte une grande diversité associative et depuis longtemps, notamment grâce à la loi de 1901 sur la libre association. Et parmi ces associations, certaines sont axés sur les technologies ou les arts avec des thématiques particulières. En voici quelques‑unes :
 
 * Réparation d’objet électronique et domestique
 * Réparation de vélo
@@ -345,7 +345,7 @@ Chaque lieux est différent. Et l’observateur assidu pourra détecter une cert
 
 ### Aller à la Rencontre de ces Lieux
 
-Ce qui est certain, c’est que chaque lieux est différent et que la philosophie est porté par la personnalité des membres de bureau. Donc le mieux est d’aller à la rencontre directement de ces lieux.
+Ce qui est certain, c’est que chaque lieu est différent et que la philosophie est porté par la personnalité des membres de bureau. Donc le mieux est d’aller à la rencontre directement de ces lieux.
 
 Voici quelques sites qui vous permettent de trouver des adresses :
 
@@ -355,6 +355,6 @@ Voici quelques sites qui vous permettent de trouver des adresses :
 *	[Makery.info](https://www.makery.info/labs-map/)
 ![](images/carte_makery_info.png)
 
-* Les [MJC](https://fr.wikipedia.org/wiki/Maison_des_jeunes_et_de_la_culture) Maisons de la Jeunesse et de la Culture (ou autres associations à but semblabe) sont présentes un peu partout en france. Aller voir celle près de chez vous. Certaines proposes des activités assimilables à celle des FabLabs. Bien qu’ils soient plus axés sur les ateliers découvertes pour les jeunes. Ces MJC peuvent être un point d’entrée pour découvrir le tissu associatif local. Les MJC ou les mairies organisent souvent un forum des associations vers le mois de septembre, c’est une bonne occasion pour découvrir plein de gens à la fois.
+* Les [MJC](https://fr.wikipedia.org/wiki/Maison_des_jeunes_et_de_la_culture) Maisons de la Jeunesse et de la Culture (ou autres associations à but semblable) sont présentes un peu partout en France. Aller voir celle près de chez vous. Certaines proposes des activités assimilables à celle des fabLabs. Bien qu’ils soient souvent plus axés sur les ateliers découverts pour les jeunes. Ces MJC peuvent être un point d’entrée pour découvrir le tissu associatif local. Les MJC ou les mairies organisent souvent un forum des associations vers le mois de septembre, c’est une bonne occasion pour découvrir plein de gens à la fois.
 
 
