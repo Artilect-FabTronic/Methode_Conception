@@ -1,7 +1,7 @@
-> Date de Création : 23 septembre 2020<br>
-> Auteur initial : Lilian Tribouilloy<br>
-> Contributeurs : Voir le fichier CREDITS.md<br>
-> Licence : Creative Commonces BY SA<br>
+> Date de Création : 23 septembre 2020  
+> Auteur initial : Lilian Tribouilloy  
+> Contributeurs : Voir le fichier CREDITS.md  
+> Licence : Creative Commons BY SA  
 
 # Méthodologie de Conception d’un Objet Électronique
 
@@ -85,7 +85,7 @@ C’est pourquoi, je pense qu’il existe toujours, et selon le type de discipli
 Quoi qu’il en soit vous êtes les seules à pouvoir choisir comment manager (pour employer un mot barbare) un projet. Personne ne peut faire les choix fondamentaux à votre place. Mais garder à l’esprit qu’il est très important de faire ces choix. Ne pas faire ces choix et laisser courir une ambiguïté à ce sujet, vous mènera immanquablement à des déconvenues le jour où vous devrez collaborer avec quelqu’un.
 
 
----------------------------------------------------------------------
+_____________________________________________________________
 
 ## D’abord un peu d’Organisation
 
@@ -134,11 +134,9 @@ Dans ce paragraphe, je détaille les grandes lignes du processus industriel pour
 
 #### Description du Cycle de Développement en V Industriel
 
-Dans l’industrie, le mot conception est substitué aux mots « processus de développement ». Et des théories émanant des qualiticiens donne le jour à une choses que l’on appelle cycle de développement en V (ou en W). 
+Dans l’industrie, le mot conception est substitué aux mots « processus de développement ». Et des théories émanant des qualiticiens donne le jour à une choses que l’on appelle cycle de développement en V (ou en W lorsqu’on représente deux itérations). 
 
-![image sur le cycle en V industriel](images/cycle_en_V_industriel.png)
-{Dessin à revoir pour être plus propre et avoir une source modifiable}
-
+![image sur le cycle en V industriel](images/Cycle_en_V_Traditionnel.png)
 
 0. __ÉTUDE DE MARCHÉ :__ Il s’agit de l’étape commerciale en amont qui doit définir le besoin client et l’adéquation avec une solution que l’on appelle produit (ou service dans certain cas). Je ne parlerai pas dans ce document de ce qu’il faudrait faire à cette étape. On peut pour faire émerger l’idée initiale s’appuyer sur la méthode du [design thinking](https://en.wikipedia.org/wiki/Design_thinking).
 	
@@ -184,7 +182,6 @@ Pour le codeur, les étapes 3 et 4 sont quasiment confondues dans une étape de 
 Bien tout cela semble parfaitement logique. Et il l’est dans les grandes lignes. Il introduit pourtant une idée totalement fausse qui est que tout se déroulerait linéairement dans le temps. Je connais aucun concepteur sérieux qui travaille exactement dans l’ordre des actions décrites précédemment. Je m’explique.
 
 ![image sur ce qui correspond mieux à la façon réelle de penser](images/Gantt_Typique_Industriel.png)
-{Modification à faire : grossir les flèches}
 
 L’image ci‑dessus décrit un cycle en V tel que typiquement réalisé dans la vie réelle pour un concepteur électronique. On commence bien par une spécification, mais très rapidement vient se positionner en parallèle l’action de justification, puis peu de temps après se positionne l’action d’écriture du schéma. Et il est fortement recommandé de faire beaucoup d’itérations entre ces 3 éléments (Spéc / Justif / Schéma) pour converger efficacement vers une solution. Plus on prend le temps de bien se poser toutes les questions pour ces 3 éléments, et moins on aura d’erreurs au moment des vérifications, validations et qualifications. Et il faut garder en tête que ces erreurs peuvent vous coûtez chers. Pas seulement en argent, mais aussi en temps. Par exemple, si on se rend compte que l’architecture du produit ne permet pas le répondre au besoin, c’est la catastrophe. Il faut tout recommencer. Et ça peut‑être 6 mois ou 1 an de perdue.
 
@@ -206,7 +203,6 @@ Alors comment faire pour un hobbyste ? Ayez confiance en vous. Ne vous laissez
 Le processus de développement est également simplifié, et peut ressembler à ceci :
 
 ![Diagramme de Gantt simplié pour les hobbystes](images/Gantt_Typique_Hobbyste.png)
-{Modification à faire : grossir les flèches}
 
 En revanche, et c’est là toute la difficulté, il faut sélectionner les actions essentielles qui vous permettrons d’arriver à bon port. Je vous propose dans les chapitres suivants les actions qui me semble les plus importantes. Mais comme je le disais en introduction, il vous faut faire des choix en fonction de votre niveau et de vos ambitions. La méthode que je propose ici est (je l’espère) conçu pour que vous ajustiez par vous‑même votre méthode de travail progressivement à mesure des expériences. Mais, soyez bien conscient que personne ne peut placer le curseur entre rigueur et réalisme à votre place. Vous devez rester maître de votre propre méthode de travail.
 
@@ -215,7 +211,7 @@ Ne vous mettez pas la pression. Après tout, ne pas arriver tout à fait au bout
 Je recommanderai également d’adapter le processus de manière à favoriser le développement communautaire. Au lieu de penser fabrication série, on pensera documentation accessible aux utilisateurs pour qu’il puisse soit tous fabriquer eux‑mêmes soit assembler des modules tout fait qui aurait été fait fabriquer par votre groupe associatif ou entreprise. Le montage en kit doit être favorisé. On peut aussi imaginer s’organiser pour faire des achats groupés pour limiter le coût d’achat pour tous. L’impossibilité de mutualiser les coûts et de faire de gros investissement est une raison qui fait qu’un objet libre est souvent (mais pas toujours) plus chers qu’un objet du commerce classique. L’utilisateur doit l’accepter et ne plus se voir comme un consommateur, mais comme contributeur plus ou moins actif de la solution communautaire. Il y a un échange équitable entre les deux parties dont on ne connait plus très bien où se situe la frontière. Il s’agit là d’un véritable nouveau contrat moral inédit qu’offre les objets libres. Mais nous en reparlerons au chapitre suivant. 
 
 
----------------------------------------------------------------------
+_____________________________________________________________
 
 ## Du Bon Usage du Prototype
 
@@ -260,7 +256,7 @@ D’abord, il n’y a jamais un, mais des prototypes sur le chemin de la concept
 
 Par exemple, il peut s’agir d’apprendre quelque chose de théorique ou non, d’apprendre la programmation ou apprendre à se servir d’un framework informatique, de s’approprier une nouvelle technologie, d’évaluer la performance d’un composant, de vérifier que vous allez pouvoir insérer un élément dans votre objet, de vérifier que ça marche comme vous souhaitez, de faire un choix entre une solution A et une solution B, de tester la réaction des gens, de voir si les gens aime l’objet, si c’est pas trop compliqué pour eux, si la solution résout bien le problème énoncé, que l’on arrive à le fabriquer avec les outils à notre disposition, à se rendre compte qu’on a encore besoin de monter en compétence et qu’on a peut‑être besoin d’aller chercher de l’aide, et il peut bien sûr correspondre aux étapes « vérification », « validation » et « qualification » décrites plus haut.
 
-J’en passe et des meilleurs. Les prototypes sont vos amis pour passer du monde des idées, au monde de la réalisation. Pour passer de la théorie à la pratique. Il est bon d’en faire usage tout au long de développement et dès qu’une interrogation apparaît. C’est souvent un amical juge de paie. Dans votre petit labo perso, vous n’êtes plus à l’école, il n’y a pas de professeur qui va vous expliquer ce qui est vrai et ce qui est faux. Les prototypes vont vous permettre de répondre vous‑même à la question.
+J’en passe et des meilleurs. Les prototypes sont vos amis pour passer du monde des idées, au monde de la réalisation. Pour passer de la théorie à la pratique. Il est bon d’en faire usage tout au long du développement et dès qu’une interrogation apparaît. C’est souvent un amical juge de paie. Dans votre petit labo perso, vous n’êtes plus à l’école, il n’y a pas de professeur qui va vous expliquer ce qui est vrai et ce qui est faux. Les prototypes vont vous permettre de répondre vous‑même à la question.
 
 Bien sûr, les prototypes vont se complexifier au fur et à mesure. Et plus vous allez avancer progressivement vers un produit fini (voir vers un produit fabricable industriellement), et plus les questions vont être précises et variées. Et qui plus est, plus vous voulez un haut niveau de qualité, et plus il faudra faire de prototypes. À vous de voir jusqu’où vous voulez allez.
 
@@ -288,7 +284,7 @@ Le prototypage rapide pour l’électronique a connu un développement extraordi
 {Intégrer les prototypes à la version final…}
 
 
----------------------------------------------------------------------
+_____________________________________________________________
 
 ## Concevoir la partie Électronique
 
@@ -575,7 +571,7 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 
 
 
----------------------------------------------------------------------
+_____________________________________________________________
 
 ## Concevoir la partie Mécanique
 
@@ -659,7 +655,7 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 	* Donner un contact pour les questions et pour obtenir un retour sur la satisfaction de l’utilisateur.
 
 
----------------------------------------------------------------------
+_____________________________________________________________
 
 ## Concevoir la partie Programmation
 
@@ -746,3 +742,6 @@ La liste suivante regroupe des actions essentielles, mais elles ne sont ni exhau
 	* Faire une procédure de réglage ou de configuration le cas échéant.
 	
 	* Donner un contact pour les questions et pour obtenir un retour sur la satisfaction de l’utilisateur.
+
+
+
