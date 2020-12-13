@@ -1,7 +1,7 @@
-> Date de Création : 11 novembre 2020<br>
-> Auteur initial : Lilian Tribouilloy<br>
-> Contributeurs : Voir le fichier CREDITS.md<br>
-> Licence : Creative Commonces BY SA<br>
+> Date de Création : 11 novembre 2020  
+> Auteur initial : Lilian Tribouilloy  
+> Contributeurs : Voir le fichier CREDITS.md  
+> Licence : Creative Commons BY SA  
 
 # Construire sa Boîte à Outils
 
@@ -31,6 +31,8 @@ Il faut éviter les outils de type couteau suisse qui prétendre savoir tout fai
 https://fr.wikipedia.org/wiki/Matériel_libre
 }
 
+
+_____________________________________________________________
 
 ## Les Logiciels Libres dédiés la Conception
 
@@ -97,6 +99,8 @@ Ce qui peut être nécessaire en complément dans certain cas.
 }
 
 
+_____________________________________________________________
+
 ## Outils de Laboratoire Libres
 * All-in-one USB Oscilloscope, Signal Generator, Power Supply, Logic Analyzer and Multimeter basée sur l'Atmega32u4 , processeur bien connu ;) : [Site](https://espotek.com/labrador/product/espotek-labrador-board/) ; [github](https://github.com/espotek/labrador)
 * [Open Source Multimeter](https://hackaday.com/2019/06/20/finally-an-open-source-multimeter/)
@@ -107,6 +111,8 @@ Ce qui peut être nécessaire en complément dans certain cas.
 https://pslab.io/
 TS100 https://hackaday.com/2017/07/24/review-ts100-soldering-iron/
 
+
+_____________________________________________________________
 
 ## Outils Informatiques
 * [The Much More Personal Computer](https://mntre.com/media/reform_md/2020-05-08-the-much-more-personal-computer.html) : Un PC portable entièrement libre. Voir également leur [répertoire GiTea](https://source.mntmn.com/MNT) pour les sources. Et pour soutenir le projet voir ce [Crowd Supply](https://www.crowdsupply.com/mnt/reform).
@@ -131,12 +137,14 @@ Dans le cas des ordinateurs, est considéré comme matériel libre la disponibil
 }
 
 
+_____________________________________________________________
+
 ## Les Outils de Communication
 
 {À ajouter}
 
 
-
+_____________________________________________________________
 
 ## Construire son Atelier / Labo
 

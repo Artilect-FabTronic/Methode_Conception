@@ -33,7 +33,7 @@ __Lilian Tribouilloy__
 * __Formation :__ Ingénieur en électronique, diplômé de l’[ENSEA](https://www.ensea.fr/fr) en 2004.
 * __Métier :__ Concepteur électronique spécialisé dans les radiofréquences et la CEM (Compatibilité ÉlectroMagnétique).
 * __Exemples de produit conçu dans le cadre professionnel :__ Émetteur et Réémetteur pour la télévision numérique ; Amplificateur de puissance classe AB pour une modulation OFDM ; Calculateur entrées/sorties pour camion ; Tableau de bord pour véhicule spéciaux ; Boîtier de télématique pour la gestion de flotte.
-* __Objet Libre conçu :__ [ToucheLibre](http://touchelibre.fr/), un clavier d’ordinateur ergonomique en bois. Alliant l’esthétique à l’utile, il s’inscrit dans des valeurs de liberté, d’écologie et de santé.
+* __Objets Libres conçus :__ [ToucheLibre](http://touchelibre.fr/), un clavier d’ordinateur ergonomique en bois. Alliant l’esthétique à l’utile, il s’inscrit dans des valeurs de liberté, d’écologie et de santé. Ainsi que d’autres accessoires autour de la thématique des interfaces homme/machine pour l’informatique.
 
 
 ## Contributeurs
@@ -52,9 +52,9 @@ Ce manuel est placé sous licence Creative Commons BY-SA 4.0 international.
 
 ![](images/by-sa.png)
 
-Vous trouverez la version originale ici : [Original Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode) ; et la traduction française ici : [French Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode.fr)
+Vous trouverez la version originale ici : [Original Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode) ; et la traduction française ici : [French Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode.fr)
 
-De plus, ce manuel utilise les polices de caractères suivantes :
+De plus, ce manuel utilise les polices de caractères suivantes :
 
 * Exo2, créé par Natanael Gama sous licence SIL Open Font, accessible sur le site [Font Squirrel](https://www.fontsquirrel.com/fonts/exo-2)
 * Cinzel, créé par Natanael Gama sous licence SIL Open Font, accessible sur le site [Font Squirrel](https://www.fontsquirrel.com/fonts/cinzel)
