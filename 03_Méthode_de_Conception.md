@@ -265,39 +265,59 @@ Bien sûr, les prototypes vont se complexifier au fur et à mesure. Et plus vous
 
 #### Des Matériaux, des Outils, des Expériences…
 
-{L’importance du trouple (idée, matériau, outil)…}
+Le prototype est le domaine de l’expérimental. C’est le moment de confronter la théorie et vos idées avec le monde réel. Il n’est plus l’heure de suputation, place au concret. Être concret, c’est faire l’épreuve du réel. Être concret, c’est trois choises : des idées, des matériaux et des outils. Et il faut assembler tout cela. Chacun de ces éléments sont importants. Parmis vos idées, il faudra faire le tri entre ce qui prioritaire, les caractéristiques essentielles du produit. Ensuite, il faudra se demander si ces idées sont réalisables avec les moyens (matériau + outil) dont on dispose. Ainsi, il faudra rentrer dans un contact presque intime avec les matériaux. Il faut éprouver physiquement leurs caractéristiques : solidité, légèreté, rugosité, souplesse, couleur, odeur, ductibilité, maléabilité… De là, on peut commencer à se demander de quelle manière les travailler. Quel outil utiliser. Il est important de faire des petits test préliminaire pour voir les réactions du matériaux à l’outil. Est‑ce que ça coupe bien ? Est‑ce que c’est nette ? Est‑ce qu’on peut faire une belle finition ? Est‑ce qu’on arrive à assembler les choses correctement ?
+
+On pourrait tenter de décrire longtemps ce qu’on peut ressentir dans l’exercice entre idées, matériaux et outils. Mais, ça serait bien dérisoir par rapport au réel. Il manquerait tant de mots. À vous de jouer. Arrêtez de gamberger, et faites.
 
 {Désacralisé le prototype, quick and durty…}
+Il est important aussi de désacraliser le prototype. Le prototype n’est pas là pour être parfait du premier coup. On veut souvent faire de notre mieux et prendre soin de tous les détails. Et c’est louable. Mais cela peut aussi être paralisant. Avoir peur de ne pas faire assez bien, risque de couper votre élan créatif et de ralentir considérablement le processus. C’est là qu’on peut parler de la phylosophie du [“quick and dirty”](https://fr.wikipedia.org/wiki/Quick-and-dirty). C’est une approche pragmatique du développement qui a contribuer au succès de certain projet de logiciel. C’est aussi une phylosophie qui est à l’opposer des prototypes industriels qui visent directement une qualité normée et une fabricabilité en grande série à coût optimum. Avec le “quick and dirty”, il n’est pas question de se perdre dans tous les détails. Il faut aller à l’essentiel, ce qui est attendue comme une caractéristique importante par l’utilisateur. Puis, au fur et à mesure, au gré des nouveaux prototypes, améliorer les détails. Il faut qu’il y ait plusieurs prototypes. Et de recommencer à presque zéro à chaque fois. Tel le calligraphe, recommencer inlassablement le travail jusqu’à atteindre le geste parfait. Pour éviter que les éléments ressemble à du rafistolage, il faut oser reprendre tout depuis le début. 
 
-{Tester la fabrication…}
+Le prototype est aussi l’occasion d’éprouver la fabrication. Dans un cadre amateur, et si on veut se placer dans une démarche de pratage. Il est important d’affiner la méthode de fabrication produit après produit. Là aussi, il faut qu’il y ait plusieurs prototypes. Pour obtenir le tour de main de l’artisan. En répétant les gestes, vous aller trouver comment optimiser, comment organiser le travail, trouver de nouvelle méthode, voir la nécessité de nouveaux outils. Certains de ces outils pourront être conçu et fabriquer par vous. Ce peut‑être aussi une démarche très intéressante. Hors du cadre industriel, et c’est ce qu’il y a de beau, vous devrez vous préoccuper de tous les aspects, et ceci en toute liberté. C’est difficile, mais c’est tellement plus gratifiant que de se contenter d’acheter un produit tout fait dans les magasins.
 
 
 #### Les Prototypes Électroniques
 
-Le prototypage rapide pour l’électronique a connu un développement extraordinaire. Notamment avec l’avénement de carte toute faite et prête à l’emploi comme Arduino, Rapsberry Pi, Micro:Bit, Adafruit et plein d’autres.
+Le prototypage rapide pour l’électronique a connu un développement extraordinaire. Notamment avec l’avénement de carte toute faite et prête à l’emploi comme Arduino, Rapsberry Pi, Micro:Bit, Adafruit et plein d’autres. Voici un petit tour d’horizon de ce qui existe et de leurs avantages. Une recherche sur internet vous donnera l’étendu des posibilités. Régulièrement des nouvelles cartes sortent sur le marché. Aussi, gardez à l’esprit qu’il serait vaint de faire un inventaire exhaustif. Ce qui intéressant ici de montrer un apperçu des possibilités qu’offre ces cartes de protypage.
 
-{À finir.}
+**Les cartes micro‑contrôleur :**  
+[Arduino](https://www.arduino.cc/) est une entreprise qui propose un ensemble logiciel + matériel sous licence libre (Creative Common By-Sa). Il s’agit de petits cartes avec un micro‑contrôleur (MCU) que l’on peut programmer facilement grâce à un IDE qui facilite la vie des débutants. Il y a toute sorte de carte pour divers applications. On peut ensuite connecter à la carte des cartes options, qu’on appelle “shield”, qui ajoute des fonctionnalités divers et variées. La programmation ce fait en C / C++, comme c’est coutumier en programmation bas niveau, mais le travail est considérablement faciliter en donnant accès à une masse de bibliothèque pour toute sorte d’application. Ces bibliothèques sont nourrit par une communauté d’utilisateur très active. Le gros avantage d’Arduino récide dans son aspet pédagogique et dans la vitesse à laquelle on peut sortir un prototype. L’avantage aussi est que le schéma électronique est fournis et que vous pourrez ainsi retransférer le schéma dans voter produit final pour obtenir quelque chose de plus optimal de tout point de vu. Ne serait‑ce que sur le facteur de forme, pour que ça rendre dans une mécanique particulière. L’inconvéniant est que le code obtenu ne sera pas très professionnel est optimisé. La maintenance sur le long terme risque d’être difficile car vous serez dépendant des bibliothèques arduino et de leur mise à jour. Dans un cadre plus pro, il faudra consacrer du temps pour réécrire le code et ainsi s’affranchir des dépendances. Biensûr, une telle exigence professionnelle demandera beaucoup plus de compétence et de temps. Arduino est bien adapté pour les débutants.
+
+**Les shields :**  
+Dans la lignée d’Arduino, on trouve un certain nombre de concurents ([Teensy](https://www.pjrc.com/teensy/), [Netduino](https://www.wildernesslabs.co/Netduino), et d’autres…) ; ainsi que ces entreprises qui ce sont spécialisées dans la fourniture de shields pour Arduino ([SparkFun](https://www.sparkfun.com/), [AdaFruit](https://www.adafruit.com/), et d’autres…).
+
+**Les nano PC :**  
+Une autre catégorie de carte sont les cartes de type nano PC, Raspberry Pi en est l’un des acteurs emblématiques, mais ils en existent d’autres. Ces cartes sont plus puissantes que les cartes du type d’Arduino. Il s’agit souvent d’un processeur ARM de nouvelle génération suffisament puissant pour gérer un système d’exploitation de type Linux. Cela donne un éventail de possibilité étendu : une connection réseau, une puissance de calcul, des applications élaborés, une connection USB de type HOST, etc. Mais ces cartes sont aussi plus grosses, consomme plus d’énergie et demande d’autres outils de développement. Aussi, il ne faut pas opposer ce type de carte avec le type Arduino. L’utilisation et les applications sont différentes. Le choix de l’un ou l’autre dépends de ce qu’on veut faire. Il est aussi possible de combiner les deux types. Et ainsi obtenir des systèmes élaborés intéressants. Parmis les cartes existantes, on peut citer [Raspberry Pi](https://www.raspberrypi.org/), mais attention, le hardware n’est pas open source. Il y a aussi des alternatives intéressant et plus ouverte comme par exemple : [Beagleboard](http://beagleboard.org/), [Banana Pi](http://www.banana-pi.org/), [OLinuXino](https://www.olimex.com/Products/OLinuXino/open-source-hardware), [Tinker Boad](https://www.asus.com/fr/Motherboards-Components/Single-Board-Computer/All-series/Tinker-Board), etc. Faites une recherche…
+
+**Les cartes sous micro‑python :**  
+Une nouvelle génération de carte de prototypage a émergé ces dernières années. Elles ont pour caractéristique la posibilité d’être programmer en MicroPython. Le [MicroPython](https://micropython.org/) est une variante du language [Python](https://www.python.org/) qui permet de faire de la programmation en bas niveau (on appelle aussi cela du logiciel embarqué). C’est à dire programmer les cartes électroniques, c’est du logiciel en interraction directe avec le matériel. L’avantage du MicroPython est la facilité de programmation. L’inconvéniant est la jeunesse du langage, il n’offre pas encore autant de possibilité que la programmation en C. Il reste notamment du développement pour accéder à tous les registres. Mais ce langage est prométteur est mérite d’être suivie. L’autre inconvéniant est qu’il est applicable à une certaine taille de MCU. Aussi ce sont des cartes particulière qui sont utilisables. On peut citer les suivantes : [les PyBoards](https://store.micropython.org/), [les micro::bit](https://www.microbit.org/), [les SoCs de chez Espressif](https://www.espressif.com/en/products/devkits), etc.
+
+**Les cartes d’évaluation professionnelles :**  
+Enfin, de nombreux fabricants de composant proposent des cartes de développement. On appelle ces cartes des demoboards. On peut citer par exemple les solutions de : [Les cartes Nucleo de ST](https://www.st.com/en/evaluation-tools/stm32-nucleo-boards.html), [Les cartes LaunchPad de TI](https://www.ti.com/design-resources/embedded-development/hardware-kits-boards.html), ou autre [PSoC de chez Cypress](https://www.cypress.com/documentation/development-kitsboards/psoc-4-cy8ckit-146-4xxx-prototyping-kits?source=search&cat=software_tools), etc. En fait, la plus part des fabricant propose des evalboard pour toutes leurs familles de MCU ou CPU. Ces cartes sont destinés à un usage professionel et offre pour certaine des fonctionnalités avancés. La mise en œuvre est souvent plus difficile et nécessite l’utilisation de l’IDE et du surtout du compilateur du fabricant. Ces fabricants fournissent souvent aussi un document appeller “reference design” qui donne toutes les informations nécessaires pour développer votre projet.
 
 
-#### Un Processus Itératif
+#### Du Prototype à la Solution Final
 
-{Intégrer les prototypes à la version final…}
+Une fois que l’on a fait ce travail avec les cartes de prototypage rapide. Et qu’on a pu évaluer les solutions possibles. Viens le temps de la réalisation de l’objet dont vous réver. Une méthodologie est proposé aux chapitres suivants. Mais il faudra avant cela faire en sorte d’assembler tous les éléments pour faire le passage de relais. Il faut se poser les questions suivantes :
+
+* Est‑ce qu’on a un schéma électronique plus ou moins complet ?
+* Est‑ce que tout les composants principaux sont identifiées et les choix validés ?
+* Est‑ce qu’on dispose de tous les outils nécessaires au développement à venir ? (IDE, compilateur, sonde JTAG…)
 
 
 _____________________________________________________________
 
 ## Concevoir la partie Électronique
 
-### Vue Global sur un Flux de Travail Simplifié
+### Vue Globale sur un Flux de Travail Simplifié
 
-Voici une vu d’ensemble sur le procéssus de développement de la partie électronique que je vous propose dans ce chapitre.
+Voici une vue d’ensemble sur le procéssus de développement de la partie électronique que je vous propose dans ce chapitre.
 
 0. IDÉE
 1. SPÉCIFICATION / JUSTIFICATION (On abandonne l’idée qu’on peut séparer les deux pour simplifier la documentation.)
 2. SCHÉMA
 3. ROUTAGE
 4. FABRICATION DU PROTOTYPE
-5. MISE AU POINT<br>
+5. MISE AU POINT  
 → _Réitération des étapes 1 à 5 jusqu’à ce que tout soit OK._ ↺
 6. DOCUMENTATION POUR LA COMMUNAUTÉ
 
@@ -575,15 +595,15 @@ _____________________________________________________________
 
 ## Concevoir la partie Mécanique
 
-### Vue Global sur un Flux de Travail Simplifié
+### Vue Globale sur un Flux de Travail Simplifié
 
-Voici une vu d’ensemble sur le procéssus de développement de la partie mécanique que je vous propose dans ce chapitre.
+Voici une vue d’ensemble sur le procéssus de développement de la partie mécanique que je vous propose dans ce chapitre.
 
 0. CROQUIS DU DESIGN
 1. PLAN 3D
 2. PROJECTION DES PLANS EN 2D
 3. FABRICATION DU PROTOTYPE
-4. MISE AU POINT<br>
+4. MISE AU POINT  
 → _Réitération des étapes 1 à 4 jusqu’à ce que tout soit OK._ ↺
 5. DOCUMENTATION POUR LA COMMUNAUTÉ
 
@@ -659,15 +679,15 @@ _____________________________________________________________
 
 ## Concevoir la partie Programmation
 
-### Vue Global sur un Flux de Travail Simplifié
+### Vue Globale sur un Flux de Travail Simplifié
 
-Voici une vu d’ensemble sur le procéssus de développement de la partie programmation que je vous propose dans ce chapitre.
+Voici une vue d’ensemble sur le procéssus de développement de la partie programmation que je vous propose dans ce chapitre.
 
 0. IDÉE
 1. SPÉCIFICATION & ARCHITECTURE LOGICIEL
 2. CODAGE
 3. DÉBEUG
-4. VALIDATION FONCTIONNELLE<br>
+4. VALIDATION FONCTIONNELLE  
 → _Réitération des étapes 1 à 4 jusqu’à ce que tout soit OK._ ↺
 5. DOCUMENTATION POUR LA COMMUNAUTÉ
 
