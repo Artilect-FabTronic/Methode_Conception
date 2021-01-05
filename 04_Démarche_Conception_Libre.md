@@ -22,9 +22,19 @@ Pourquoi faire le choix de la liberté ? Et quel rapport avec la technologie ?
 
 ### Être au clair avec soi‑même
 
+{
+Du point de vu psychologique, ce n’est pas une évidence que de partager ce que l’on produit. Il faut s’y préparer.
+}
+
 ### Monde Libriste et Monde Propriétaire, une Vérité Entremêlée
 
-### Le Matériel Libre, un plus grand défi encore que le Logiciel Libre
+{
+Ce serait une erreur que de se laisser aller au manichéisme en matière d’open source. Il n’y a pas les méchants industriels d’un côté et les gentils libristes de l’autre. Les choses sont plus compliquées et plus mélengé que cela. 
+}
+
+### Le Matériel Libre, un plus Grand Défi encore que le Logiciel Libre
+
+
 
 
 ______________________________________________________________
@@ -57,7 +67,7 @@ __Management du projet :__
 
 - [ ] La licence choisie est‑elle du type : fortement réciproque, faiblement réciproque, permissive ou propriétaire ?
 
-- [ ] Le projet protège‑t‑il son image par une marque déposée ?
+- [ ] Le projet protège‑t‑il son image par une marque déposée (ce n’est pas forcément une mauvaise chose) ?
 
 - [ ] Les intentions commerciales sont‑elles clairement annoncées par les membres du projet ?
 
@@ -69,7 +79,7 @@ __Management du projet :__
 
 __Les sources :__
 
-- [ ] L’ensemble de la documentation et des sources sont‑elles placées dans un emplacement informatisé (type « Git‑machin ») accessibles par tout le monde ?
+- [ ] L’ensemble de la documentation et des sources sont‑elles placées dans un emplacement informatisé (type « Git‑machin » ou une forge SVN) accessibles par tout le monde ?
 - [ ] Le projet est‑il forké d’un autre projet et surtout pour quelle raison ?
 - [ ] La disponibilité des sources mécaniques est‑elle complète ou partielle ?
 - [ ] La disponibilité des sources électroniques est‑elle complète ou partielle ?
@@ -78,7 +88,7 @@ __Les sources :__
 - [ ] Les sources mécaniques sont‑elles éditées avec des logiciels libres ?
 - [ ] Les sources électroniques sont‑elles éditées avec des logiciels libres ?
 - [ ] Les sources logicielles sont‑elles éditables et compilables avec des logiciels libres ?
-- [ ] Les langages informatiques utilisés sont‑ils sous licences libres ?
+- [ ] Les langages informatiques utilisés sont‑ils sous licences libres ou dans le domaine publique?
 - [ ] Les sources types de sources sont‑elles éditées avec des logiciels libres ?
 - [ ] Le cas échéant, si le projet utilise des composants externes sous une autre licence (ex : [SoC](https://en.wikipedia.org/wiki/System_on_a_chip) avec un firmware propriétaire, ou une bibliothèque logicielle, etc.), ceux‑ci sont‑ils disponibles facilement et l’interfaçage est‑il expliqué ?
 
@@ -95,7 +105,7 @@ __La fabrication :__
 - [ ] La liste des composants nécessaires à la fabrication avec les références fabriquant (ou fournisseur) existe‑elle ?
 - [ ] Le coût total du produit est‑il indiqué (au moins de façon approximative) ?
 - [ ] La liste des outils nécessaires à la fabrication existe‑il ?
-- [ ] Les outils nécessaire sont‑ils disponibles dans un fablab près de chez vous ?
+- [ ] Les outils nécessaire sont‑ils disponibles dans un fablab ou une association près de chez vous ?
 - [ ] Un manuel pour expliquer comment fabriquer, régler et configurer le produit existe‑il ?
 - [ ] Un niveau de compétence nécessaire pour la fabrication est‑il indiqué (au moins de façon approximative) ?
 - [ ] Les fichiers nécessaires à la fabrication sont‑ils clairement identifiés (pour éviter de fouiller dans les sources) ?
@@ -108,11 +118,18 @@ Voir aussi les recommandations de [l’association Open Source Hardware](https
 
 Pour avoir une connaissance très approfondie des licences vous pouvez aller chercher des informations ici :
 
-- Option Libre
-- FSF
+- [FSF](https://www.fsf.org/)
+- [Open Souce Initiative](https://opensource.org/)
+- [Open Source Hardware Association](https://www.oshwa.org/)
+- [Veni, Vidi, Libri](http://vvlibri.org/fr)
+- [SPDX License List](https://spdx.org/licenses/)
+- [Wiki CERN Open Hardware Licence](https://ohwr.org/cernohl)
+- [Le livre Option Libre](https://framabook.org/optionlibre-dubonusagedeslicenceslibres/)
+- [Droit et Création](https://www.droit-creation.fr/une-licence-libre-pour-ma-creation-quels-avantages-et-quels-inconvenients/)
+- [Creative Commmons](https://creativecommons.org/)
 - …
 
-Si vous ne voulez pas vous prendre la tête, je recommande les licences suivantes pour obtenir du vrai libre. Je suis pour avoir une licence différente selon ce qui est produit pour avoir une protection juridique bien pensé et optimisé selon la nature du projet. Il s’agit là de valeurs sûres, reconnues et largement utilisées.
+Si vous ne voulez pas vous prendre la tête, je recommande les licences suivantes pour obtenir du vrai libre. Je suis pour avoir une licence différente selon la partie (ou métier) du produit pour avoir une protection juridique bien pensé et optimisé selon la nature du projet. Il s’agit là de valeurs sûres, reconnues et largement utilisées.
 
 - **CERN Open Hardware Licence strongly reciprocal** pour les parties Électronique, Mécanique et Système.
 - **GNU GPL v3** pour la partie Logiciel
@@ -168,10 +185,54 @@ Si vous avez la paresse de cherche, rendez‑vous au chapitre 5, Construire sa B
 
 ### Comment bien Travailler Ensemble ?
 
+{
+Le management en mode développement libre, qu’est ce que ça change.
+}
+
 ### Communiquer le Projet vers l’Extérieur
 
-### Le Dur Monde Réel : Achat et Financement
+{
+La vitrine numérique, à quoi penser pour bien faire.
+}
+
+### Rester Motivé
+
+
+
+________________________________________________________________
+
+## Un Objet Physique : Retour au (dur) Monde Réel
+
+Ce qui distingue les logiciels libres des objets libres, c’est précisément que ces derniers sont physiques. Et cela à des conséquences importantes sur l’organisation du projet, sur l’adoption par le publique et même sur la législation. Aussi, serait‑il quelque peu hatif de croire que toutes les recettes du logiciel libre s’appliquent tel quelles aux objets libres. Voici quelques éléments factuels qui doivent nourrir votre réflexion. Je me dois également par honnetté de dire que les objets libres sont face à un défit pour l’adaption par le grand publique et que nombreux sont les gens qui s’y sont cassés les dents. Aussi, je n’ai pas de méthode miracle. Seulement, des points de vigilence à énnoncer.
+
+### Achat et Financement
+
+{
+Comment faire.
+}
+
+{
+Crowdfounding
+}
 
 ### Organiser une Production
 
-### Rester Motivé
+{
+Faire une entreprise ou mode associatif
+}
+
+### Un Modèle Économique pour le Open Hardware
+
+{
+Le fait de vendre un produit nous ramène immanquablement à un modèle économique plus naturel et comprèhensible que celui du logiciel libre.
+}
+
+### Législation & Responsabilité
+
+{
+Dans l’Union Européenne, la législation impose que tout objet électronique doit au minimum être conforme à la directive RED. Ce qui impose à toute personne physique ou morale de certifier que le produit qu’il met en vente respecte les normes de sécurité électrique et les normes CEM (Compatibilité ÉlectroMagnétique). Cette directive laisse la possibilité de s’auto‑certifier. … 
+}
+
+{
+D’autre part, les sections présente dans les licences libres concernant les garantits sont très éloignier de ce qui se pratique dans le commerce traditionnel. Et ces sections peuvent légitimement paraitre insuffisante du point de vu de l’utilisateur…
+}
